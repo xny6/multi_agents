@@ -120,3 +120,685 @@ httpx.ReadTimeout
 2025-09-22 13:46:16,644 - lightrag - INFO - Process 433468 building query context...
 2025-09-22 13:46:16,645 - lightrag - INFO - Query edges: Wireless Charging, Smartphone Compatibility, top_k: 60, cosine: 0.2
 2025-09-22 13:46:19,346 - lightrag - INFO - Storage Finalization completed!
+2025-09-24 10:56:52,156 - lightrag - INFO - Created new empty graph
+2025-09-24 10:56:52,160 - lightrag - INFO - Process 1540159 KV load full_docs with 0 records
+2025-09-24 10:56:52,160 - lightrag - INFO - Process 1540159 KV load text_chunks with 0 records
+2025-09-24 10:56:52,161 - lightrag - INFO - Process 1540159 KV load llm_response_cache with 123 records
+2025-09-24 10:56:52,161 - lightrag - INFO - Process 1540159 doc status load doc_status with 0 records
+2025-09-24 10:56:52,161 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-24 10:56:52,161 - lightrag - INFO - Storage Initialization completed!
+2025-09-24 10:56:54,614 - lightrag - INFO - Stored 1 new unique documents
+2025-09-24 10:56:54,614 - lightrag - INFO - Processing 1 document(s)
+2025-09-24 10:56:54,615 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-09-24 10:56:54,615 - lightrag - INFO - Processing d-id: doc-8e956e338cafa11281135d777c67ec77
+2025-09-24 10:56:54,738 - lightrag - INFO - Chunk 1 of 119 extracted 10 Ent + 6 Rel
+2025-09-24 10:56:54,739 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-09-24 10:57:02,199 - lightrag - INFO -  == LLM cache == saving default: 3ff135b07885117c799773ed64ee389d
+2025-09-24 10:57:12,517 - lightrag - INFO -  == LLM cache == saving default: 7c59fe893cb8f90c504363bcc00b8412
+2025-09-24 10:57:12,520 - lightrag - INFO - Chunk 2 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 10:58:37,624 - lightrag - INFO - Document processing pipeline completed
+2025-09-24 10:58:39,028 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-24 10:58:43,263 - lightrag - INFO - Created new empty graph
+2025-09-24 10:58:43,267 - lightrag - INFO - Process 1540697 KV load full_docs with 0 records
+2025-09-24 10:58:43,267 - lightrag - INFO - Process 1540697 KV load text_chunks with 0 records
+2025-09-24 10:58:43,268 - lightrag - INFO - Process 1540697 KV load llm_response_cache with 125 records
+2025-09-24 10:58:43,268 - lightrag - INFO - Process 1540697 doc status load doc_status with 0 records
+2025-09-24 10:58:43,269 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-24 10:58:43,269 - lightrag - INFO - Storage Initialization completed!
+2025-09-24 10:58:43,363 - lightrag - INFO - Stored 1 new unique documents
+2025-09-24 10:58:43,363 - lightrag - INFO - Processing 1 document(s)
+2025-09-24 10:58:43,363 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-09-24 10:58:43,363 - lightrag - INFO - Processing d-id: doc-8e956e338cafa11281135d777c67ec77
+2025-09-24 10:58:43,454 - lightrag - INFO - Chunk 1 of 119 extracted 10 Ent + 6 Rel
+2025-09-24 10:58:43,456 - lightrag - INFO - Chunk 2 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 10:58:43,456 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-09-24 10:58:48,907 - lightrag - INFO -  == LLM cache == saving default: c364d79ec7b465081e9bbe1c829ca547
+2025-09-24 10:59:00,282 - lightrag - INFO -  == LLM cache == saving default: 813621e15e52cfafff45f45673626437
+2025-09-24 10:59:00,285 - lightrag - INFO - Chunk 3 of 119 extracted 21 Ent + 7 Rel
+2025-09-24 10:59:09,666 - lightrag - INFO -  == LLM cache == saving default: 126dab3000832db59df0b2ada60e6388
+2025-09-24 10:59:09,668 - lightrag - INFO - Chunk 4 of 119 extracted 13 Ent + 6 Rel
+2025-09-24 10:59:14,652 - lightrag - INFO -  == LLM cache == saving default: 5d54a0db39f710177b8fd875ca0afd21
+2025-09-24 10:59:14,652 - lightrag - INFO - Chunk 5 of 119 extracted 14 Ent + 4 Rel
+2025-09-24 10:59:17,224 - lightrag - INFO -  == LLM cache == saving default: 51a4a2773a1419b5384de27cb12d9728
+2025-09-24 10:59:17,225 - lightrag - INFO - Chunk 6 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 10:59:19,960 - lightrag - INFO -  == LLM cache == saving default: bacc7c42d74a10949b1216bfd4dbbbee
+2025-09-24 10:59:21,141 - lightrag - INFO -  == LLM cache == saving default: 9027684ba67f386d555373e2da7eb780
+2025-09-24 10:59:22,325 - lightrag - INFO -  == LLM cache == saving default: b5cdf88c182166d80e84a4da2c1c3d70
+2025-09-24 10:59:26,318 - lightrag - INFO -  == LLM cache == saving default: 70a7056c8666fd540323ec88a1693078
+2025-09-24 10:59:29,148 - lightrag - INFO -  == LLM cache == saving default: bd430f610ba49d58b7bf6d605c1cbc28
+2025-09-24 10:59:29,149 - lightrag - INFO - Chunk 7 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 10:59:32,397 - lightrag - INFO -  == LLM cache == saving default: dac2f20e43d7bb038c8d573d41c9ad65
+2025-09-24 10:59:32,398 - lightrag - INFO - Chunk 8 of 119 extracted 3 Ent + 2 Rel
+2025-09-24 10:59:34,535 - lightrag - INFO -  == LLM cache == saving default: 236268c66ace4ff1e334bbe6cec71e70
+2025-09-24 10:59:34,535 - lightrag - INFO - Chunk 9 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 10:59:40,748 - lightrag - INFO -  == LLM cache == saving default: 4c6f0d6fc49de1036937451179da36d5
+2025-09-24 10:59:40,749 - lightrag - INFO - Chunk 10 of 119 extracted 9 Ent + 7 Rel
+2025-09-24 10:59:41,780 - lightrag - INFO -  == LLM cache == saving default: 8a7cb2b7f78aa2ff4201cb0e56fefc88
+2025-09-24 10:59:43,924 - lightrag - INFO -  == LLM cache == saving default: 6998f0628320e0631726efed3dcb7774
+2025-09-24 10:59:46,228 - lightrag - INFO -  == LLM cache == saving default: 15d5e692bbbc809260dfc7eeca483cc2
+2025-09-24 10:59:49,592 - lightrag - INFO -  == LLM cache == saving default: 0accd9edd5431b69da9f0fe49c3b9d65
+2025-09-24 10:59:57,848 - lightrag - INFO -  == LLM cache == saving default: 31e03db3e5ad67e41d5608242906a9da
+2025-09-24 10:59:57,850 - lightrag - INFO - Chunk 11 of 119 extracted 5 Ent + 8 Rel
+2025-09-24 11:00:02,808 - lightrag - INFO -  == LLM cache == saving default: bcb9b605f83acf2c2b193f176c3d9482
+2025-09-24 11:00:02,808 - lightrag - INFO - Chunk 12 of 119 extracted 10 Ent + 0 Rel
+2025-09-24 11:00:04,237 - lightrag - INFO -  == LLM cache == saving default: 6ba5ce8744abf6151ea82bc69e6d1ce3
+2025-09-24 11:00:04,238 - lightrag - INFO - Chunk 13 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:02:20,474 - lightrag - INFO - Document processing pipeline completed
+2025-09-24 11:02:21,339 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-24 11:02:23,440 - lightrag - INFO - Created new empty graph
+2025-09-24 11:02:23,443 - lightrag - INFO - Process 1541458 KV load full_docs with 0 records
+2025-09-24 11:02:23,444 - lightrag - INFO - Process 1541458 KV load text_chunks with 0 records
+2025-09-24 11:02:23,447 - lightrag - INFO - Process 1541458 KV load llm_response_cache with 145 records
+2025-09-24 11:02:23,447 - lightrag - INFO - Process 1541458 doc status load doc_status with 0 records
+2025-09-24 11:02:23,447 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-24 11:02:23,448 - lightrag - INFO - Storage Initialization completed!
+2025-09-24 11:02:23,532 - lightrag - INFO - Stored 1 new unique documents
+2025-09-24 11:02:23,532 - lightrag - INFO - Processing 1 document(s)
+2025-09-24 11:02:23,532 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-09-24 11:02:23,532 - lightrag - INFO - Processing d-id: doc-8e956e338cafa11281135d777c67ec77
+2025-09-24 11:02:23,624 - lightrag - INFO - Chunk 1 of 119 extracted 10 Ent + 6 Rel
+2025-09-24 11:02:23,625 - lightrag - INFO - Chunk 2 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 11:02:23,626 - lightrag - INFO - Chunk 3 of 119 extracted 14 Ent + 4 Rel
+2025-09-24 11:02:23,627 - lightrag - INFO - Chunk 4 of 119 extracted 13 Ent + 6 Rel
+2025-09-24 11:02:23,630 - lightrag - INFO - Chunk 5 of 119 extracted 21 Ent + 7 Rel
+2025-09-24 11:02:23,631 - lightrag - INFO - Chunk 6 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:02:23,631 - lightrag - INFO - Chunk 7 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:02:23,632 - lightrag - INFO - Chunk 8 of 119 extracted 3 Ent + 2 Rel
+2025-09-24 11:02:23,632 - lightrag - INFO - Chunk 9 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 11:02:23,633 - lightrag - INFO - Chunk 10 of 119 extracted 9 Ent + 7 Rel
+2025-09-24 11:02:23,633 - lightrag - INFO - Chunk 11 of 119 extracted 5 Ent + 8 Rel
+2025-09-24 11:02:23,634 - lightrag - INFO - Chunk 12 of 119 extracted 10 Ent + 0 Rel
+2025-09-24 11:02:23,634 - lightrag - INFO - Chunk 13 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:02:23,634 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-09-24 11:02:28,097 - lightrag - INFO -  == LLM cache == saving default: ecf9df7192a870230fb166e161f9fe97
+2025-09-24 11:02:31,382 - lightrag - INFO -  == LLM cache == saving default: caf56f8092984b8c07dc71cbdf3aafc6
+2025-09-24 11:02:34,772 - lightrag - INFO -  == LLM cache == saving default: 66c399babbceb82580b6b97b79f12ce9
+2025-09-24 11:02:39,001 - lightrag - INFO -  == LLM cache == saving default: 032e01a29ed18164fd53bfa1d9893b84
+2025-09-24 11:02:39,001 - lightrag - INFO - Chunk 14 of 119 extracted 1 Ent + 1 Rel
+2025-09-24 11:02:43,672 - lightrag - INFO -  == LLM cache == saving default: 35194ab0f8ed19e9d0c2ce31b888cbb6
+2025-09-24 11:02:43,673 - lightrag - INFO - Chunk 15 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:02:47,277 - lightrag - INFO -  == LLM cache == saving default: de4965c72742a04fc4f323134081c58e
+2025-09-24 11:02:47,278 - lightrag - INFO - Chunk 16 of 119 extracted 3 Ent + 3 Rel
+2025-09-24 11:02:54,681 - lightrag - INFO -  == LLM cache == saving default: 3e7b70fca99b0ee10421712f9082b23d
+2025-09-24 11:02:54,682 - lightrag - INFO - Chunk 17 of 119 extracted 10 Ent + 4 Rel
+2025-09-24 11:02:55,724 - lightrag - INFO -  == LLM cache == saving default: fe370618b6472a53e6e02e6ee9ddb5e3
+2025-09-24 11:02:57,945 - lightrag - INFO -  == LLM cache == saving default: 4d5519dbb3417bfa4aa616a8b817257f
+2025-09-24 11:03:00,176 - lightrag - INFO -  == LLM cache == saving default: fa09ce3ff6eb08c2017ff1c752b5693d
+2025-09-24 11:03:01,961 - lightrag - INFO -  == LLM cache == saving default: 4beb0348da5914b1c6ee9931ae1b12ef
+2025-09-24 11:03:11,838 - lightrag - INFO -  == LLM cache == saving default: f69c8e6bc315d30030618ee5ad15c3f7
+2025-09-24 11:03:11,839 - lightrag - INFO - Chunk 18 of 119 extracted 4 Ent + 5 Rel
+2025-09-24 11:03:15,195 - lightrag - INFO -  == LLM cache == saving default: 9394d943cfccf3df37bfd818a603fab5
+2025-09-24 11:03:15,196 - lightrag - INFO - Chunk 19 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:03:18,562 - lightrag - INFO -  == LLM cache == saving default: f3b4999b171cd7f419594202258413f0
+2025-09-24 11:03:18,562 - lightrag - INFO - Chunk 20 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:03:22,228 - lightrag - INFO -  == LLM cache == saving default: 9364bb2bb8f79a399fc8181a92c4f403
+2025-09-24 11:03:22,228 - lightrag - INFO - Chunk 21 of 119 extracted 3 Ent + 0 Rel
+2025-09-24 11:03:25,108 - lightrag - INFO -  == LLM cache == saving default: dac3922270f424f55ed52489269b3669
+2025-09-24 11:03:35,141 - lightrag - INFO -  == LLM cache == saving default: 1c8ea7deea596a46e38a794d4e8be4b8
+2025-09-24 11:03:48,832 - lightrag - INFO -  == LLM cache == saving default: c74e8040dd3016004436a81c85cf3853
+2025-09-24 11:03:54,673 - lightrag - INFO -  == LLM cache == saving default: 875da7a27febdb35ce9e657d5a0fabc8
+2025-09-24 11:03:58,819 - lightrag - INFO -  == LLM cache == saving default: 520fee0e888ceee1a841de36f5594910
+2025-09-24 11:03:58,820 - lightrag - INFO - Chunk 22 of 119 extracted 6 Ent + 4 Rel
+2025-09-24 11:04:08,543 - lightrag - INFO -  == LLM cache == saving default: 6060a2933739a957c0668abc25901468
+2025-09-24 11:04:08,543 - lightrag - INFO - Chunk 23 of 119 extracted 24 Ent + 0 Rel
+2025-09-24 11:04:13,378 - lightrag - INFO -  == LLM cache == saving default: b55114957596c2daaed36e015e56f9cb
+2025-09-24 11:04:13,379 - lightrag - INFO - Chunk 24 of 119 extracted 9 Ent + 21 Rel
+2025-09-24 11:04:16,782 - lightrag - INFO -  == LLM cache == saving default: a939c35ccdfa0e950f374e9d31802ea3
+2025-09-24 11:04:16,782 - lightrag - INFO - Chunk 25 of 119 extracted 10 Ent + 3 Rel
+2025-09-24 11:04:22,169 - lightrag - INFO -  == LLM cache == saving default: 424dbf8557f4fca496947373d1460629
+2025-09-24 11:04:25,098 - lightrag - INFO -  == LLM cache == saving default: c34f229a41a79a9e7cefcf3fc47f2a60
+2025-09-24 11:04:27,831 - lightrag - INFO -  == LLM cache == saving default: a7130d9d0214e2b66b5e79d268a055c0
+2025-09-24 11:04:35,109 - lightrag - INFO -  == LLM cache == saving default: 932bcc7ea3cc0b8eef1d3aaa98a10190
+2025-09-24 11:04:40,173 - lightrag - INFO -  == LLM cache == saving default: 3324dd669965f38abb398b2e873e7b8f
+2025-09-24 11:04:40,174 - lightrag - INFO - Chunk 26 of 119 extracted 9 Ent + 10 Rel
+2025-09-24 11:04:44,653 - lightrag - INFO -  == LLM cache == saving default: 27209acd0e6094148fec71cd97c04ef3
+2025-09-24 11:04:44,654 - lightrag - INFO - Chunk 27 of 119 extracted 5 Ent + 5 Rel
+2025-09-24 11:04:59,177 - lightrag - INFO -  == LLM cache == saving default: 4e5dc02162f96449145370ab336bf274
+2025-09-24 11:04:59,179 - lightrag - INFO - Chunk 28 of 119 extracted 19 Ent + 12 Rel
+2025-09-24 11:05:13,156 - lightrag - INFO -  == LLM cache == saving default: 5d84139990e371597ea3e6b2917a6c9e
+2025-09-24 11:05:13,158 - lightrag - INFO - Chunk 29 of 119 extracted 14 Ent + 12 Rel
+2025-09-24 11:05:16,387 - lightrag - INFO -  == LLM cache == saving default: c4506d12bcee1a73b9f37ceef954bd3e
+2025-09-24 11:05:18,216 - lightrag - INFO -  == LLM cache == saving default: 8566ba2fc982e8f730f8621338e350c4
+2025-09-24 11:05:30,381 - lightrag - INFO -  == LLM cache == saving default: 55ca9e31156cc9a8cbc111c27fa9194c
+2025-09-24 11:05:34,624 - lightrag - INFO -  == LLM cache == saving default: 654cccad559643ab719136d0fd8186af
+2025-09-24 11:05:38,722 - lightrag - INFO -  == LLM cache == saving default: 1bc00181b32cc744be2f56c8027badbd
+2025-09-24 11:05:38,723 - lightrag - INFO - Chunk 30 of 119 extracted 5 Ent + 0 Rel
+2025-09-24 11:05:39,822 - lightrag - INFO -  == LLM cache == saving default: 927c5fb18161037812623c100f2b3a55
+2025-09-24 11:05:39,823 - lightrag - INFO - Chunk 31 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:05:53,548 - lightrag - INFO -  == LLM cache == saving default: 2332d58fe90e3f4ff90c2e8593468052
+2025-09-24 11:05:53,549 - lightrag - INFO - Chunk 32 of 119 extracted 22 Ent + 10 Rel
+2025-09-24 11:05:56,993 - lightrag - INFO -  == LLM cache == saving default: 7cb76c459e62072df9cb574309d25277
+2025-09-24 11:05:56,993 - lightrag - INFO - Chunk 33 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:06:13,694 - lightrag - INFO -  == LLM cache == saving default: 5df9b90fe4668b9f8b9e7e116b5997e9
+2025-09-24 11:06:18,946 - lightrag - INFO -  == LLM cache == saving default: 9192684b1bdb72da7c0685b6176b1366
+2025-09-24 11:06:22,583 - lightrag - INFO -  == LLM cache == saving default: ad2a7c93b7f87feea34eb07f40155b77
+2025-09-24 11:06:26,341 - lightrag - INFO -  == LLM cache == saving default: 18ce251e4174cb61a3e6e723333c3780
+2025-09-24 11:06:29,810 - lightrag - INFO -  == LLM cache == saving default: a43e51811411dd7783d3f00e6737108f
+2025-09-24 11:06:29,811 - lightrag - INFO - Chunk 34 of 119 extracted 35 Ent + 2 Rel
+2025-09-24 11:06:38,555 - lightrag - INFO -  == LLM cache == saving default: bddd995c7372d1d5bad9203104945ade
+2025-09-24 11:06:38,557 - lightrag - INFO - Chunk 35 of 119 extracted 17 Ent + 7 Rel
+2025-09-24 11:06:42,179 - lightrag - INFO -  == LLM cache == saving default: 81d35b91a1c1ae183fe757ab79425f37
+2025-09-24 11:06:42,180 - lightrag - INFO - Chunk 36 of 119 extracted 4 Ent + 7 Rel
+2025-09-24 11:06:50,108 - lightrag - INFO -  == LLM cache == saving default: fed97f9ff240ae55888b4d4e9b4bf3fb
+2025-09-24 11:06:50,109 - lightrag - INFO - Chunk 37 of 119 extracted 7 Ent + 6 Rel
+2025-09-24 11:06:52,927 - lightrag - INFO -  == LLM cache == saving default: 8d27177998ee3c8daef686cdb59ff826
+2025-09-24 11:06:58,122 - lightrag - INFO -  == LLM cache == saving default: 0737140780398f87d26d7b6cd118a4f4
+2025-09-24 11:07:03,399 - lightrag - INFO -  == LLM cache == saving default: 4d98521bc2e1173369ad19f41f6e87b3
+2025-09-24 11:07:06,837 - lightrag - INFO -  == LLM cache == saving default: c2752ea5b5d192c29be65ec688c8cbbc
+2025-09-24 11:07:13,927 - lightrag - INFO -  == LLM cache == saving default: 9c40f9b7e7bf3b1d3ae72b0e001e77ef
+2025-09-24 11:07:13,929 - lightrag - INFO - Chunk 38 of 119 extracted 2 Ent + 8 Rel
+2025-09-24 11:08:40,564 - lightrag - INFO - Document processing pipeline completed
+2025-09-24 11:08:41,355 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-24 11:08:43,720 - lightrag - INFO - Created new empty graph
+2025-09-24 11:08:43,724 - lightrag - INFO - Process 1543063 KV load full_docs with 0 records
+2025-09-24 11:08:43,724 - lightrag - INFO - Process 1543063 KV load text_chunks with 0 records
+2025-09-24 11:08:43,732 - lightrag - INFO - Process 1543063 KV load llm_response_cache with 197 records
+2025-09-24 11:08:43,732 - lightrag - INFO - Process 1543063 doc status load doc_status with 0 records
+2025-09-24 11:08:43,733 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-24 11:08:43,733 - lightrag - INFO - Storage Initialization completed!
+2025-09-24 11:08:46,249 - lightrag - INFO - Stored 1 new unique documents
+2025-09-24 11:08:46,250 - lightrag - INFO - Processing 1 document(s)
+2025-09-24 11:08:46,250 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-09-24 11:08:46,250 - lightrag - INFO - Processing d-id: doc-8e956e338cafa11281135d777c67ec77
+2025-09-24 11:08:46,374 - lightrag - INFO - Chunk 1 of 119 extracted 10 Ent + 6 Rel
+2025-09-24 11:08:46,375 - lightrag - INFO - Chunk 2 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 11:08:46,376 - lightrag - INFO - Chunk 3 of 119 extracted 14 Ent + 4 Rel
+2025-09-24 11:08:46,377 - lightrag - INFO - Chunk 4 of 119 extracted 13 Ent + 6 Rel
+2025-09-24 11:08:46,379 - lightrag - INFO - Chunk 5 of 119 extracted 21 Ent + 7 Rel
+2025-09-24 11:08:46,379 - lightrag - INFO - Chunk 6 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:08:46,380 - lightrag - INFO - Chunk 7 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:08:46,380 - lightrag - INFO - Chunk 8 of 119 extracted 3 Ent + 2 Rel
+2025-09-24 11:08:46,380 - lightrag - INFO - Chunk 9 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 11:08:46,381 - lightrag - INFO - Chunk 10 of 119 extracted 9 Ent + 7 Rel
+2025-09-24 11:08:46,382 - lightrag - INFO - Chunk 11 of 119 extracted 5 Ent + 8 Rel
+2025-09-24 11:08:46,382 - lightrag - INFO - Chunk 12 of 119 extracted 10 Ent + 0 Rel
+2025-09-24 11:08:46,382 - lightrag - INFO - Chunk 13 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:08:46,383 - lightrag - INFO - Chunk 14 of 119 extracted 1 Ent + 1 Rel
+2025-09-24 11:08:46,383 - lightrag - INFO - Chunk 15 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:08:46,384 - lightrag - INFO - Chunk 16 of 119 extracted 3 Ent + 3 Rel
+2025-09-24 11:08:46,385 - lightrag - INFO - Chunk 17 of 119 extracted 10 Ent + 4 Rel
+2025-09-24 11:08:46,385 - lightrag - INFO - Chunk 18 of 119 extracted 4 Ent + 5 Rel
+2025-09-24 11:08:46,386 - lightrag - INFO - Chunk 19 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:08:46,386 - lightrag - INFO - Chunk 20 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:08:46,386 - lightrag - INFO - Chunk 21 of 119 extracted 3 Ent + 0 Rel
+2025-09-24 11:08:46,387 - lightrag - INFO - Chunk 22 of 119 extracted 6 Ent + 4 Rel
+2025-09-24 11:08:46,388 - lightrag - INFO - Chunk 23 of 119 extracted 24 Ent + 0 Rel
+2025-09-24 11:08:46,389 - lightrag - INFO - Chunk 24 of 119 extracted 9 Ent + 21 Rel
+2025-09-24 11:08:46,389 - lightrag - INFO - Chunk 25 of 119 extracted 10 Ent + 3 Rel
+2025-09-24 11:08:46,390 - lightrag - INFO - Chunk 26 of 119 extracted 9 Ent + 10 Rel
+2025-09-24 11:08:46,391 - lightrag - INFO - Chunk 27 of 119 extracted 5 Ent + 5 Rel
+2025-09-24 11:08:46,392 - lightrag - INFO - Chunk 28 of 119 extracted 19 Ent + 12 Rel
+2025-09-24 11:08:46,393 - lightrag - INFO - Chunk 29 of 119 extracted 14 Ent + 12 Rel
+2025-09-24 11:08:46,394 - lightrag - INFO - Chunk 30 of 119 extracted 5 Ent + 0 Rel
+2025-09-24 11:08:46,394 - lightrag - INFO - Chunk 31 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:08:46,395 - lightrag - INFO - Chunk 32 of 119 extracted 22 Ent + 10 Rel
+2025-09-24 11:08:46,396 - lightrag - INFO - Chunk 33 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:08:46,397 - lightrag - INFO - Chunk 34 of 119 extracted 35 Ent + 2 Rel
+2025-09-24 11:08:46,398 - lightrag - INFO - Chunk 35 of 119 extracted 17 Ent + 7 Rel
+2025-09-24 11:08:46,398 - lightrag - INFO - Chunk 36 of 119 extracted 4 Ent + 7 Rel
+2025-09-24 11:08:46,399 - lightrag - INFO - Chunk 37 of 119 extracted 7 Ent + 6 Rel
+2025-09-24 11:08:46,400 - lightrag - INFO - Chunk 38 of 119 extracted 2 Ent + 8 Rel
+2025-09-24 11:08:46,400 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-09-24 11:08:57,281 - lightrag - INFO -  == LLM cache == saving default: 8354ef255a4a76562e2af028974e1d48
+2025-09-24 11:12:23,865 - lightrag - INFO - Document processing pipeline completed
+2025-09-24 11:12:24,661 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-24 11:12:28,705 - lightrag - INFO - Created new empty graph
+2025-09-24 11:12:28,709 - lightrag - INFO - Process 1544223 KV load full_docs with 0 records
+2025-09-24 11:12:28,709 - lightrag - INFO - Process 1544223 KV load text_chunks with 0 records
+2025-09-24 11:12:28,718 - lightrag - INFO - Process 1544223 KV load llm_response_cache with 198 records
+2025-09-24 11:12:28,718 - lightrag - INFO - Process 1544223 doc status load doc_status with 0 records
+2025-09-24 11:12:28,718 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-24 11:12:28,718 - lightrag - INFO - Storage Initialization completed!
+2025-09-24 11:12:28,806 - lightrag - INFO - Stored 1 new unique documents
+2025-09-24 11:12:28,806 - lightrag - INFO - Processing 1 document(s)
+2025-09-24 11:12:28,806 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-09-24 11:12:28,806 - lightrag - INFO - Processing d-id: doc-8e956e338cafa11281135d777c67ec77
+2025-09-24 11:12:28,897 - lightrag - INFO - Chunk 1 of 119 extracted 10 Ent + 6 Rel
+2025-09-24 11:12:28,898 - lightrag - INFO - Chunk 2 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 11:12:28,899 - lightrag - INFO - Chunk 3 of 119 extracted 14 Ent + 4 Rel
+2025-09-24 11:12:28,902 - lightrag - INFO - Chunk 4 of 119 extracted 13 Ent + 6 Rel
+2025-09-24 11:12:28,903 - lightrag - INFO - Chunk 5 of 119 extracted 21 Ent + 7 Rel
+2025-09-24 11:12:28,903 - lightrag - INFO - Chunk 6 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:12:28,904 - lightrag - INFO - Chunk 7 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:12:28,904 - lightrag - INFO - Chunk 8 of 119 extracted 3 Ent + 2 Rel
+2025-09-24 11:12:28,904 - lightrag - INFO - Chunk 9 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 11:12:28,905 - lightrag - INFO - Chunk 10 of 119 extracted 9 Ent + 7 Rel
+2025-09-24 11:12:28,905 - lightrag - INFO - Chunk 11 of 119 extracted 5 Ent + 8 Rel
+2025-09-24 11:12:28,906 - lightrag - INFO - Chunk 12 of 119 extracted 10 Ent + 0 Rel
+2025-09-24 11:12:28,906 - lightrag - INFO - Chunk 13 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:12:28,907 - lightrag - INFO - Chunk 14 of 119 extracted 1 Ent + 1 Rel
+2025-09-24 11:12:28,907 - lightrag - INFO - Chunk 15 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:12:28,908 - lightrag - INFO - Chunk 16 of 119 extracted 3 Ent + 3 Rel
+2025-09-24 11:12:28,908 - lightrag - INFO - Chunk 17 of 119 extracted 10 Ent + 4 Rel
+2025-09-24 11:12:28,909 - lightrag - INFO - Chunk 18 of 119 extracted 4 Ent + 5 Rel
+2025-09-24 11:12:28,909 - lightrag - INFO - Chunk 19 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:12:28,910 - lightrag - INFO - Chunk 20 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:12:28,910 - lightrag - INFO - Chunk 21 of 119 extracted 3 Ent + 0 Rel
+2025-09-24 11:12:28,911 - lightrag - INFO - Chunk 22 of 119 extracted 6 Ent + 4 Rel
+2025-09-24 11:12:28,911 - lightrag - INFO - Chunk 23 of 119 extracted 24 Ent + 0 Rel
+2025-09-24 11:12:28,913 - lightrag - INFO - Chunk 24 of 119 extracted 9 Ent + 21 Rel
+2025-09-24 11:12:28,913 - lightrag - INFO - Chunk 25 of 119 extracted 10 Ent + 3 Rel
+2025-09-24 11:12:28,914 - lightrag - INFO - Chunk 26 of 119 extracted 9 Ent + 10 Rel
+2025-09-24 11:12:28,914 - lightrag - INFO - Chunk 27 of 119 extracted 5 Ent + 5 Rel
+2025-09-24 11:12:28,916 - lightrag - INFO - Chunk 28 of 119 extracted 19 Ent + 12 Rel
+2025-09-24 11:12:28,917 - lightrag - INFO - Chunk 29 of 119 extracted 14 Ent + 12 Rel
+2025-09-24 11:12:28,917 - lightrag - INFO - Chunk 30 of 119 extracted 5 Ent + 0 Rel
+2025-09-24 11:12:28,918 - lightrag - INFO - Chunk 31 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:12:28,919 - lightrag - INFO - Chunk 32 of 119 extracted 22 Ent + 10 Rel
+2025-09-24 11:12:28,919 - lightrag - INFO - Chunk 33 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:12:28,920 - lightrag - INFO - Chunk 34 of 119 extracted 35 Ent + 2 Rel
+2025-09-24 11:12:28,921 - lightrag - INFO - Chunk 35 of 119 extracted 17 Ent + 7 Rel
+2025-09-24 11:12:28,922 - lightrag - INFO - Chunk 36 of 119 extracted 4 Ent + 7 Rel
+2025-09-24 11:12:28,923 - lightrag - INFO - Chunk 37 of 119 extracted 7 Ent + 6 Rel
+2025-09-24 11:12:28,923 - lightrag - INFO - Chunk 38 of 119 extracted 2 Ent + 8 Rel
+2025-09-24 11:12:28,924 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-09-24 11:12:39,822 - lightrag - INFO -  == LLM cache == saving default: dd2bb1295f80d746406cc5fd9173caeb
+2025-09-24 11:12:39,824 - lightrag - INFO - Chunk 39 of 119 extracted 13 Ent + 12 Rel
+2025-09-24 11:12:48,181 - lightrag - INFO -  == LLM cache == saving default: 341850ca6084bb19de4d0c4bba33219f
+2025-09-24 11:12:48,183 - lightrag - INFO - Chunk 40 of 119 extracted 8 Ent + 4 Rel
+2025-09-24 11:12:59,644 - lightrag - INFO -  == LLM cache == saving default: f6cbdeb033acc85f71ee57d390fec3b1
+2025-09-24 11:12:59,645 - lightrag - INFO - Chunk 41 of 119 extracted 9 Ent + 8 Rel
+2025-09-24 11:13:12,538 - lightrag - INFO -  == LLM cache == saving default: a869a1de4627c94033781de9979b2546
+2025-09-24 11:13:12,539 - lightrag - INFO - Chunk 42 of 119 extracted 21 Ent + 3 Rel
+2025-09-24 11:13:18,344 - lightrag - INFO -  == LLM cache == saving default: 8a42fec969a1ac8dda1d1b98675a57d2
+2025-09-24 11:13:23,016 - lightrag - INFO -  == LLM cache == saving default: 80727b38a5e06006762ade4b38bf35f5
+2025-09-24 11:13:27,915 - lightrag - INFO -  == LLM cache == saving default: eddd2f25e048101de9bed73802d17a59
+2025-09-24 11:13:38,088 - lightrag - INFO -  == LLM cache == saving default: d4a187d731be54c5a38b5409e5ffddff
+2025-09-24 11:13:41,152 - lightrag - INFO -  == LLM cache == saving default: 26fb30c3a48e2c3d61444893c89b2a50
+2025-09-24 11:13:41,153 - lightrag - INFO - Chunk 43 of 119 extracted 7 Ent + 7 Rel
+2025-09-24 11:13:44,541 - lightrag - INFO -  == LLM cache == saving default: bdc54875bd1f79da6d8ea48346750bfc
+2025-09-24 11:13:44,542 - lightrag - INFO - Chunk 44 of 119 extracted 13 Ent + 0 Rel
+2025-09-24 11:13:48,904 - lightrag - INFO -  == LLM cache == saving default: 70c2dc3ce84d2c328f8dc2345bdfc4cd
+2025-09-24 11:13:48,904 - lightrag - INFO - Chunk 45 of 119 extracted 11 Ent + 4 Rel
+2025-09-24 11:13:54,821 - lightrag - INFO -  == LLM cache == saving default: a6b6733233d320ae46e3db812e8d4682
+2025-09-24 11:13:54,822 - lightrag - INFO - Chunk 46 of 119 extracted 24 Ent + 8 Rel
+2025-09-24 11:13:57,175 - lightrag - INFO -  == LLM cache == saving default: 0f6742d458d8da2102beaa3dafb713be
+2025-09-24 11:14:02,224 - lightrag - INFO -  == LLM cache == saving default: f9666859be19eb7a67f17a0783e0e531
+2025-09-24 11:14:03,376 - lightrag - INFO -  == LLM cache == saving default: dd1de54adf8062aec8ea558ad400414b
+2025-09-24 11:14:05,720 - lightrag - INFO -  == LLM cache == saving default: ee87067fda37ca286d52c6cd5e4d4a1c
+2025-09-24 11:14:10,887 - lightrag - INFO -  == LLM cache == saving default: f277164d8877dc9fd07edff5e6a991a5
+2025-09-24 11:14:10,887 - lightrag - INFO - Chunk 47 of 119 extracted 10 Ent + 3 Rel
+2025-09-24 11:14:17,445 - lightrag - INFO -  == LLM cache == saving default: 0961edb2bdb253d5494364539465d3c2
+2025-09-24 11:14:17,446 - lightrag - INFO - Chunk 48 of 119 extracted 7 Ent + 0 Rel
+2025-09-24 11:14:18,661 - lightrag - INFO -  == LLM cache == saving default: cf80f371dd59cc3bdb4c6a00f01e4ab4
+2025-09-24 11:14:18,661 - lightrag - INFO - Chunk 49 of 119 extracted 3 Ent + 0 Rel
+2025-09-24 11:14:20,754 - lightrag - INFO -  == LLM cache == saving default: 311b5b541fa5f5f7c583d0a6eeca7cdb
+2025-09-24 11:14:20,755 - lightrag - INFO - Chunk 50 of 119 extracted 1 Ent + 2 Rel
+2025-09-24 11:14:24,147 - lightrag - INFO -  == LLM cache == saving default: 83f4ef66f2302e939dec867a1422df43
+2025-09-24 11:14:26,883 - lightrag - INFO -  == LLM cache == saving default: 894f7a924c2e3977784383a4d2a44cb5
+2025-09-24 11:14:27,855 - lightrag - INFO -  == LLM cache == saving default: b8e8e64a3ac3837dc589b10c16918179
+2025-09-24 11:14:31,327 - lightrag - INFO -  == LLM cache == saving default: d3202603c1e05d409bfddb134aa0c293
+2025-09-24 11:14:34,715 - lightrag - INFO -  == LLM cache == saving default: e03f2c35d5fb24b111eb0b67b84a9c50
+2025-09-24 11:14:34,715 - lightrag - INFO - Chunk 51 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:14:37,750 - lightrag - INFO -  == LLM cache == saving default: 32063513a08699214307b4bbbbe8c97f
+2025-09-24 11:14:37,751 - lightrag - INFO - Chunk 52 of 119 extracted 3 Ent + 2 Rel
+2025-09-24 11:14:41,329 - lightrag - INFO -  == LLM cache == saving default: ed46b0b65d2205085a640ae963416691
+2025-09-24 11:14:41,330 - lightrag - INFO - Chunk 53 of 119 extracted 4 Ent + 2 Rel
+2025-09-24 11:14:46,072 - lightrag - INFO -  == LLM cache == saving default: c641644a441c161a9b176a1db3c78f8c
+2025-09-24 11:14:46,072 - lightrag - INFO - Chunk 54 of 119 extracted 6 Ent + 6 Rel
+2025-09-24 11:14:48,613 - lightrag - INFO -  == LLM cache == saving default: 28b4552ac9f0a5826cb24289c104d51d
+2025-09-24 11:14:50,714 - lightrag - INFO -  == LLM cache == saving default: dd2dd0083fcaffbc84696315b878b394
+2025-09-24 11:14:54,814 - lightrag - INFO -  == LLM cache == saving default: 5608ac6d25e7fe04e161f5d277eb9b35
+2025-09-24 11:14:57,149 - lightrag - INFO -  == LLM cache == saving default: b78b61872fdedeee32670ca35d61b5a3
+2025-09-24 11:14:59,975 - lightrag - INFO -  == LLM cache == saving default: d4daac4ca340f85ee87153c7610eb66d
+2025-09-24 11:14:59,976 - lightrag - INFO - Chunk 55 of 119 extracted 5 Ent + 0 Rel
+2025-09-24 11:15:03,266 - lightrag - INFO -  == LLM cache == saving default: 1097a0ba8dd984df07ccf55182d9b8c3
+2025-09-24 11:15:03,267 - lightrag - INFO - Chunk 56 of 119 extracted 3 Ent + 3 Rel
+2025-09-24 11:15:08,187 - lightrag - INFO -  == LLM cache == saving default: d1e4e2bee6879ca01cb7b87010c53957
+2025-09-24 11:15:08,188 - lightrag - INFO - Chunk 57 of 119 extracted 8 Ent + 7 Rel
+2025-09-24 11:15:12,134 - lightrag - INFO -  == LLM cache == saving default: cb38993430f29c0a4c5a7ba57d1db3f8
+2025-09-24 11:15:12,135 - lightrag - INFO - Chunk 58 of 119 extracted 2 Ent + 6 Rel
+2025-09-24 11:15:13,333 - lightrag - INFO -  == LLM cache == saving default: 59068542735d9f4f488f24977b9ee2ee
+2025-09-24 11:15:16,948 - lightrag - INFO -  == LLM cache == saving default: c0e369d4f2e4c03b8c68c31ef44cc860
+2025-09-24 11:15:18,721 - lightrag - INFO -  == LLM cache == saving default: 0aec7611773296a512b863331f898ce5
+2025-09-24 11:15:28,233 - lightrag - INFO -  == LLM cache == saving default: 983bc9ff1eb8575301dd10203b291454
+2025-09-24 11:15:29,907 - lightrag - INFO -  == LLM cache == saving default: 5a380bf9804ce13f8387385cc64764e8
+2025-09-24 11:15:29,908 - lightrag - INFO - Chunk 59 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 11:15:35,087 - lightrag - INFO -  == LLM cache == saving default: f907d130cf1060c15388a9ed398de63a
+2025-09-24 11:15:35,088 - lightrag - INFO - Chunk 60 of 119 extracted 9 Ent + 5 Rel
+2025-09-24 11:15:39,299 - lightrag - INFO -  == LLM cache == saving default: daf414810d6076711b2d7fc164c43e73
+2025-09-24 11:15:39,301 - lightrag - INFO - Chunk 61 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:15:43,966 - lightrag - INFO -  == LLM cache == saving default: e038d92b84082af8cebaf62162f40435
+2025-09-24 11:15:43,966 - lightrag - INFO - Chunk 62 of 119 extracted 8 Ent + 6 Rel
+2025-09-24 11:15:47,733 - lightrag - INFO -  == LLM cache == saving default: a665f6b3dda6826562fbeff1da045a40
+2025-09-24 11:15:54,558 - lightrag - INFO -  == LLM cache == saving default: 386f55d9ab7223e035f02eb77abf5a59
+2025-09-24 11:15:57,782 - lightrag - INFO -  == LLM cache == saving default: 635403b25d538c31746d042df67f4a0d
+2025-09-24 11:16:02,621 - lightrag - INFO -  == LLM cache == saving default: aab3c251ceb9ef9b5de35c29a02c261e
+2025-09-24 11:16:07,149 - lightrag - INFO -  == LLM cache == saving default: 2d66e3a0f6f4780b7403a039983789e9
+2025-09-24 11:16:07,149 - lightrag - INFO - Chunk 63 of 119 extracted 5 Ent + 3 Rel
+2025-09-24 11:16:09,666 - lightrag - INFO -  == LLM cache == saving default: 5c0e226f23cd18ecbc398d963117f330
+2025-09-24 11:16:09,666 - lightrag - INFO - Chunk 64 of 119 extracted 5 Ent + 8 Rel
+2025-09-24 11:16:12,015 - lightrag - INFO -  == LLM cache == saving default: 22fa98efc0fb206e4842ddb560ffd305
+2025-09-24 11:16:12,015 - lightrag - INFO - Chunk 65 of 119 extracted 2 Ent + 4 Rel
+2025-09-24 11:16:18,744 - lightrag - INFO -  == LLM cache == saving default: 33e524210c3ca6a4c5c50cbdfa9a0f05
+2025-09-24 11:16:18,745 - lightrag - INFO - Chunk 66 of 119 extracted 6 Ent + 4 Rel
+2025-09-24 11:16:22,456 - lightrag - INFO -  == LLM cache == saving default: adb6ae8db097b7ca55817d8a36c39904
+2025-09-24 11:16:28,312 - lightrag - INFO -  == LLM cache == saving default: 9a64c8016ae2b27331638864dc64f6aa
+2025-09-24 11:16:33,600 - lightrag - INFO -  == LLM cache == saving default: 342ebdfa48a97536e0bf7c4c7ac9b68a
+2025-09-24 11:16:37,778 - lightrag - INFO -  == LLM cache == saving default: 5b17ea52c4110eef4188dbeaa070c9fc
+2025-09-24 11:16:42,030 - lightrag - INFO -  == LLM cache == saving default: 59f178505a0c4f66ea7fabeefd0e907b
+2025-09-24 11:16:42,031 - lightrag - INFO - Chunk 67 of 119 extracted 7 Ent + 2 Rel
+2025-09-24 11:16:48,181 - lightrag - INFO -  == LLM cache == saving default: 43b4dc0879d2d34da15cf465ad938b75
+2025-09-24 11:16:48,182 - lightrag - INFO - Chunk 68 of 119 extracted 7 Ent + 7 Rel
+2025-09-24 11:16:54,243 - lightrag - INFO -  == LLM cache == saving default: 0feb97ba9035bf02ab5dfaed2126b46a
+2025-09-24 11:16:54,244 - lightrag - INFO - Chunk 69 of 119 extracted 15 Ent + 3 Rel
+2025-09-24 11:17:00,075 - lightrag - INFO -  == LLM cache == saving default: b2694a7015165810f263da677d70c690
+2025-09-24 11:17:00,076 - lightrag - INFO - Chunk 70 of 119 extracted 9 Ent + 1 Rel
+2025-09-24 11:17:05,277 - lightrag - INFO -  == LLM cache == saving default: f92ffb6588993044ddd0ec02d0d84a95
+2025-09-24 11:17:09,163 - lightrag - INFO -  == LLM cache == saving default: e794ead5a6257a9b67e720ef2128ed81
+2025-09-24 11:17:13,081 - lightrag - INFO -  == LLM cache == saving default: 8a2dbea078ff9030c224ec65cf163abe
+2025-09-24 11:17:17,890 - lightrag - INFO -  == LLM cache == saving default: c21de1fcb5a5f71b84773579df6f7c59
+2025-09-24 11:17:21,961 - lightrag - INFO -  == LLM cache == saving default: 6ddbc0715d69afbf331c1f5262cd292b
+2025-09-24 11:17:21,962 - lightrag - INFO - Chunk 71 of 119 extracted 8 Ent + 3 Rel
+2025-09-24 11:17:26,627 - lightrag - INFO -  == LLM cache == saving default: ad392e0bc8b545ab80f8b7df97ec95e7
+2025-09-24 11:17:26,628 - lightrag - INFO - Chunk 72 of 119 extracted 7 Ent + 4 Rel
+2025-09-24 11:17:41,599 - lightrag - INFO -  == LLM cache == saving default: 82040643fbc43a3d2fbb36c0192b8ebc
+2025-09-24 11:17:41,601 - lightrag - INFO - Chunk 73 of 119 extracted 5 Ent + 5 Rel
+2025-09-24 11:17:45,334 - lightrag - INFO -  == LLM cache == saving default: cf7cac44d8a55c23d5b40f89af4b1f7b
+2025-09-24 11:17:45,334 - lightrag - INFO - Chunk 74 of 119 extracted 7 Ent + 3 Rel
+2025-09-24 11:17:53,523 - lightrag - INFO -  == LLM cache == saving default: 61eee06c3a1d441f8f3748f9083c0024
+2025-09-24 11:17:54,585 - lightrag - INFO -  == LLM cache == saving default: 4f3ef60b18930afd34e8b8cf93065a20
+2025-09-24 11:17:56,193 - lightrag - INFO -  == LLM cache == saving default: f61c1df42a63b636a95df3e2ce3a6a7d
+2025-09-24 11:17:59,662 - lightrag - INFO -  == LLM cache == saving default: 7baf9b955761f8934c78d45993445c4c
+2025-09-24 11:18:13,813 - lightrag - INFO -  == LLM cache == saving default: f3470665ef3c756bc5a807a1e87f928a
+2025-09-24 11:18:13,814 - lightrag - INFO - Chunk 75 of 119 extracted 11 Ent + 3 Rel
+2025-09-24 11:18:25,840 - lightrag - INFO -  == LLM cache == saving default: 56e12baa3c11e36206b7ddefc825ebcc
+2025-09-24 11:18:25,841 - lightrag - INFO - Chunk 76 of 119 extracted 11 Ent + 0 Rel
+2025-09-24 11:18:27,711 - lightrag - INFO -  == LLM cache == saving default: 124e6900bdb0611553ca55b18b985cff
+2025-09-24 11:18:27,711 - lightrag - INFO - Chunk 77 of 119 extracted 1 Ent + 0 Rel
+2025-09-24 11:18:52,327 - lightrag - INFO -  == LLM cache == saving default: cefdbe8569bf7b9fcef0720723f9cd8e
+2025-09-24 11:18:52,331 - lightrag - INFO - Chunk 78 of 119 extracted 21 Ent + 14 Rel
+2025-09-24 11:18:57,729 - lightrag - INFO -  == LLM cache == saving default: 1b1d79e46c517051a799a267c40abe6b
+2025-09-24 11:19:03,097 - lightrag - INFO -  == LLM cache == saving default: 627356c262a6f1fdd2eeb103a61b372a
+2025-09-24 11:19:11,368 - lightrag - INFO -  == LLM cache == saving default: c4a4c7341f3bc4102e22f70253c4b5a9
+2025-09-24 11:19:18,935 - lightrag - INFO -  == LLM cache == saving default: c44c9f9c069a5e8aae79bd378a609249
+2025-09-24 11:19:26,539 - lightrag - INFO -  == LLM cache == saving default: 826c00709c8e8f2acf6782c75684b877
+2025-09-24 11:19:26,540 - lightrag - INFO - Chunk 79 of 119 extracted 16 Ent + 2 Rel
+2025-09-24 11:19:32,363 - lightrag - INFO -  == LLM cache == saving default: 45947e1bd8664e92013db886328d42c5
+2025-09-24 11:19:32,364 - lightrag - INFO - Chunk 80 of 119 extracted 7 Ent + 5 Rel
+2025-09-24 11:19:41,063 - lightrag - INFO -  == LLM cache == saving default: 854ae72abac9f3e43ac4c2050290bced
+2025-09-24 11:19:41,065 - lightrag - INFO - Chunk 81 of 119 extracted 10 Ent + 14 Rel
+2025-09-24 11:19:52,489 - lightrag - INFO -  == LLM cache == saving default: 3a070b925d3e3cb1626220f1b2317fd5
+2025-09-24 11:19:52,490 - lightrag - INFO - Chunk 82 of 119 extracted 11 Ent + 16 Rel
+2025-09-24 11:19:53,757 - lightrag - INFO -  == LLM cache == saving default: 237c3b55c91e9a0b0718df5c61d6da72
+2025-09-24 11:20:02,636 - lightrag - INFO -  == LLM cache == saving default: c2909a695617b177fd8f705daae79825
+2025-09-24 11:20:12,247 - lightrag - INFO -  == LLM cache == saving default: 71e13948db13f16de746544039ccd228
+2025-09-24 11:20:15,155 - lightrag - INFO -  == LLM cache == saving default: 90ff9fcd9e2bd181d1fab0cdfd14da23
+2025-09-24 11:20:19,469 - lightrag - INFO -  == LLM cache == saving default: 7d6cb907c8a238b3c84d574329b296a2
+2025-09-24 11:20:19,470 - lightrag - INFO - Chunk 83 of 119 extracted 7 Ent + 2 Rel
+2025-09-24 11:20:26,333 - lightrag - INFO -  == LLM cache == saving default: 7cc75120334a8807c3f7b675b0978411
+2025-09-24 11:20:26,334 - lightrag - INFO - Chunk 84 of 119 extracted 12 Ent + 6 Rel
+2025-09-24 11:20:34,356 - lightrag - INFO -  == LLM cache == saving default: 5aee499a655b18c8a7c4d7990c5a4eab
+2025-09-24 11:20:34,357 - lightrag - INFO - Chunk 85 of 119 extracted 28 Ent + 0 Rel
+2025-09-24 11:20:42,547 - lightrag - INFO -  == LLM cache == saving default: 2b39cca1f739678dd78b9ca80a45d798
+2025-09-24 11:20:42,547 - lightrag - INFO - Chunk 86 of 119 extracted 1 Ent + 0 Rel
+2025-09-24 11:20:45,220 - lightrag - INFO -  == LLM cache == saving default: d4f98a08ca83d1d1507af9f188a84948
+2025-09-24 11:20:46,877 - lightrag - INFO -  == LLM cache == saving default: 6331e0b9c7874129d197055956f0cdb0
+2025-09-24 11:20:55,946 - lightrag - INFO -  == LLM cache == saving default: d73c7ae1767949d5ee3aed0796333bd1
+2025-09-24 11:20:57,209 - lightrag - INFO -  == LLM cache == saving default: 931249dc512ebf8ce1ade238bc3eb2ed
+2025-09-24 11:21:00,196 - lightrag - INFO -  == LLM cache == saving default: bd258b712cb9ad2b44b8e8d594069fec
+2025-09-24 11:21:00,197 - lightrag - INFO - Chunk 87 of 119 extracted 5 Ent + 0 Rel
+2025-09-24 11:21:03,661 - lightrag - INFO -  == LLM cache == saving default: ab9ae958000413fd9a50916aa37defa1
+2025-09-24 11:21:03,662 - lightrag - INFO - Chunk 88 of 119 extracted 7 Ent + 2 Rel
+2025-09-24 11:21:14,562 - lightrag - INFO -  == LLM cache == saving default: 319dff6ec51aa5ae3f3365eedcbe2686
+2025-09-24 11:21:14,564 - lightrag - INFO - Chunk 89 of 119 extracted 25 Ent + 8 Rel
+2025-09-24 11:21:20,975 - lightrag - INFO -  == LLM cache == saving default: 163798e675014326e9f5cf0d2fd26cb2
+2025-09-24 11:21:20,977 - lightrag - INFO - Chunk 90 of 119 extracted 7 Ent + 7 Rel
+2025-09-24 11:21:33,077 - lightrag - INFO -  == LLM cache == saving default: 794b2f27d19330b8a0ae2d3ffa758705
+2025-09-24 11:21:36,242 - lightrag - INFO -  == LLM cache == saving default: 247735012be4d05e4d279e49eff32821
+2025-09-24 11:21:38,477 - lightrag - INFO -  == LLM cache == saving default: 7738ff2ea6424b1885d34b21ba835997
+2025-09-24 11:21:41,457 - lightrag - INFO -  == LLM cache == saving default: 4a8e78c7b2e8221677e2394cefefc27a
+2025-09-24 11:21:45,471 - lightrag - INFO -  == LLM cache == saving default: 213284ea6e1609ceb43574046680a3ea
+2025-09-24 11:21:45,472 - lightrag - INFO - Chunk 91 of 119 extracted 4 Ent + 0 Rel
+2025-09-24 11:21:46,784 - lightrag - INFO -  == LLM cache == saving default: df675b6992ae5c6c4e5c5e759b8de57f
+2025-09-24 11:21:46,784 - lightrag - INFO - Chunk 92 of 119 extracted 9 Ent + 0 Rel
+2025-09-24 11:21:53,068 - lightrag - INFO -  == LLM cache == saving default: cea706286d8ddea075b7e5cfef1d8faa
+2025-09-24 11:21:53,069 - lightrag - INFO - Chunk 93 of 119 extracted 6 Ent + 5 Rel
+2025-09-24 11:21:56,520 - lightrag - INFO -  == LLM cache == saving default: d9b9cbd16fded9a34ac3f295ba675985
+2025-09-24 11:21:56,520 - lightrag - INFO - Chunk 94 of 119 extracted 9 Ent + 0 Rel
+2025-09-24 11:21:58,397 - lightrag - INFO -  == LLM cache == saving default: 9b6296533882851332743c3b0e0527ee
+2025-09-24 11:22:00,231 - lightrag - INFO -  == LLM cache == saving default: 505ace766bb9fc6c77c049c3d13949fc
+2025-09-24 11:22:01,250 - lightrag - INFO -  == LLM cache == saving default: 936e94ab8309e7d67f07e01cbe1a2a65
+2025-09-24 11:22:05,300 - lightrag - INFO -  == LLM cache == saving default: d48102fbcb48f773573daeeb13a91be4
+2025-09-24 11:22:08,681 - lightrag - INFO -  == LLM cache == saving default: b27875db2bd97c89a6c6560c6c4b38e9
+2025-09-24 11:22:08,682 - lightrag - INFO - Chunk 95 of 119 extracted 4 Ent + 3 Rel
+2025-09-24 11:22:10,813 - lightrag - INFO -  == LLM cache == saving default: 6db7e21c71ac6b21e2e762397dc8e247
+2025-09-24 11:22:10,813 - lightrag - INFO - Chunk 96 of 119 extracted 5 Ent + 1 Rel
+2025-09-24 11:22:11,880 - lightrag - INFO -  == LLM cache == saving default: adfc98d385482c1ca5822a2bd47a038e
+2025-09-24 11:22:11,880 - lightrag - INFO - Chunk 97 of 119 extracted 2 Ent + 0 Rel
+2025-09-24 11:22:18,200 - lightrag - INFO -  == LLM cache == saving default: 63d3582795a4a6cf36e79b8b1c928461
+2025-09-24 11:22:18,201 - lightrag - INFO - Chunk 98 of 119 extracted 10 Ent + 4 Rel
+2025-09-24 11:22:23,360 - lightrag - INFO -  == LLM cache == saving default: 402c8182d17dd56a5acc4cbdd000a8d6
+2025-09-24 11:22:28,226 - lightrag - INFO -  == LLM cache == saving default: 351ae6273f2d873ad9cee6f1bb0f991d
+2025-09-24 11:22:37,742 - lightrag - INFO -  == LLM cache == saving default: 1d83dfa9ca28a1700578ce22be0603d0
+2025-09-24 11:22:38,687 - lightrag - INFO -  == LLM cache == saving default: 5f0ec5d6ccda1cb0fc337086927d9e05
+2025-09-24 11:22:44,355 - lightrag - INFO -  == LLM cache == saving default: 203051c2fb677e9e992e14ba1e5f3717
+2025-09-24 11:22:44,356 - lightrag - INFO - Chunk 99 of 119 extracted 6 Ent + 4 Rel
+2025-09-24 11:22:49,420 - lightrag - INFO -  == LLM cache == saving default: 5549583a50658ccde194dc93b344b719
+2025-09-24 11:22:49,421 - lightrag - INFO - Chunk 100 of 119 extracted 9 Ent + 5 Rel
+2025-09-24 11:23:06,108 - lightrag - INFO -  == LLM cache == saving default: 80c14913ebbd581f0535f7896a7055b3
+2025-09-24 11:23:06,111 - lightrag - INFO - Chunk 101 of 119 extracted 36 Ent + 12 Rel
+2025-09-24 11:23:08,453 - lightrag - INFO -  == LLM cache == saving default: 2a51e8ab9aa6f9ca72494835d98fc589
+2025-09-24 11:23:08,454 - lightrag - INFO - Chunk 102 of 119 extracted 3 Ent + 1 Rel
+2025-09-24 11:23:09,447 - lightrag - INFO -  == LLM cache == saving default: 4bcbd10ad22b3c35a3f086bd47f79317
+2025-09-24 11:23:23,586 - lightrag - INFO -  == LLM cache == saving default: bcb4d66da3d01af9b22e3b2cd52fa43f
+2025-09-24 11:23:27,547 - lightrag - INFO -  == LLM cache == saving default: bbf58b1770ecf3c079a10ca0de495eb6
+2025-09-24 11:23:29,780 - lightrag - INFO -  == LLM cache == saving default: 259a4526de2d717a267dc8023dec6b83
+2025-09-24 11:23:33,655 - lightrag - INFO -  == LLM cache == saving default: 1ec46a712843349af1572cacda975743
+2025-09-24 11:23:33,656 - lightrag - INFO - Chunk 103 of 119 extracted 2 Ent + 5 Rel
+2025-09-24 11:23:49,743 - lightrag - INFO -  == LLM cache == saving default: 3aa5a517cb0a3931152f22c7e02f28d3
+2025-09-24 11:23:49,745 - lightrag - INFO - Chunk 104 of 119 extracted 16 Ent + 15 Rel
+2025-09-24 11:23:56,868 - lightrag - INFO -  == LLM cache == saving default: 4f49924c9faaf0a1123c75808985fabc
+2025-09-24 11:23:56,869 - lightrag - INFO - Chunk 105 of 119 extracted 20 Ent + 4 Rel
+2025-09-24 11:24:00,116 - lightrag - INFO -  == LLM cache == saving default: aea90e22eb5791111d92721707464f86
+2025-09-24 11:24:00,117 - lightrag - INFO - Chunk 106 of 119 extracted 3 Ent + 4 Rel
+2025-09-24 11:24:04,036 - lightrag - INFO -  == LLM cache == saving default: 25fbfa7075ef426b10e60070c70712e8
+2025-09-24 11:24:08,876 - lightrag - INFO -  == LLM cache == saving default: 97915681a0b0afa68264383f0842fd65
+2025-09-24 11:24:12,951 - lightrag - INFO -  == LLM cache == saving default: 6dfc1245ae9ccedd01249064c1e86ce1
+2025-09-24 11:24:21,637 - lightrag - INFO -  == LLM cache == saving default: d99ae5c9ee9c48bdd3eb5cd2e034ee9d
+2025-09-24 11:24:25,408 - lightrag - INFO -  == LLM cache == saving default: c662676e12a06b528be8736bfd962c87
+2025-09-24 11:24:25,409 - lightrag - INFO - Chunk 107 of 119 extracted 7 Ent + 4 Rel
+2025-09-24 11:24:29,963 - lightrag - INFO -  == LLM cache == saving default: c90126c6164ba0c4392efe7460ee118f
+2025-09-24 11:24:29,964 - lightrag - INFO - Chunk 108 of 119 extracted 11 Ent + 6 Rel
+2025-09-24 11:24:33,604 - lightrag - INFO -  == LLM cache == saving default: fa979f8a85994c4fb0995747f9412c0a
+2025-09-24 11:24:33,605 - lightrag - INFO - Chunk 109 of 119 extracted 5 Ent + 2 Rel
+2025-09-24 11:24:40,924 - lightrag - INFO -  == LLM cache == saving default: 38ffce2188e3c3eeb461e5e11c632b53
+2025-09-24 11:24:40,925 - lightrag - INFO - Chunk 110 of 119 extracted 7 Ent + 12 Rel
+2025-09-24 11:24:43,502 - lightrag - INFO -  == LLM cache == saving default: be21c95ea135967fba1b92ca1463f636
+2025-09-24 11:24:49,247 - lightrag - INFO -  == LLM cache == saving default: 26b9d5bb2ca9103c2d7ebea17ccc3705
+2025-09-24 11:25:14,173 - lightrag - INFO -  == LLM cache == saving default: 5ba5ee604ddda3856c6728d42fa83e55
+2025-09-24 11:25:19,282 - lightrag - INFO -  == LLM cache == saving default: 65360672c843c9e39b338999a6359275
+2025-09-24 11:25:20,633 - lightrag - INFO -  == LLM cache == saving default: fb8d51d4e4f5aa53f9e79a5d09e69892
+2025-09-24 11:25:20,634 - lightrag - INFO - Chunk 111 of 119 extracted 6 Ent + 0 Rel
+2025-09-24 11:25:24,394 - lightrag - INFO -  == LLM cache == saving default: 52ad4c76c81d851236b336ef55fb770a
+2025-09-24 11:25:24,394 - lightrag - INFO - Chunk 112 of 119 extracted 4 Ent + 6 Rel
+2025-09-24 11:25:51,355 - lightrag - INFO -  == LLM cache == saving default: f5b43e9601dd6e1e5f27a019df7cfcb8
+2025-09-24 11:25:51,357 - lightrag - INFO - Chunk 113 of 119 extracted 0 Ent + 7 Rel
+2025-09-24 11:25:55,752 - lightrag - INFO -  == LLM cache == saving default: dc58db6e3b13280964028ff56082a611
+2025-09-24 11:25:55,753 - lightrag - INFO - Chunk 114 of 119 extracted 8 Ent + 2 Rel
+2025-09-24 11:26:01,108 - lightrag - INFO -  == LLM cache == saving default: db38a6c842066554bb30155197d4d1cb
+2025-09-24 11:26:06,080 - lightrag - INFO -  == LLM cache == saving default: c1ea409a52c916913bd6a6ebfee90fcf
+2025-09-24 11:26:11,642 - lightrag - INFO -  == LLM cache == saving default: 90b790a155ac04da34b3c3d4a303acb5
+2025-09-24 11:26:15,563 - lightrag - INFO -  == LLM cache == saving default: 469a725f1d183a450734320729577ca1
+2025-09-24 11:26:22,039 - lightrag - INFO -  == LLM cache == saving default: 1efc5bcefb4b9f95371a6b9ab07c616d
+2025-09-24 11:26:22,040 - lightrag - INFO - Chunk 115 of 119 extracted 15 Ent + 6 Rel
+2025-09-24 11:26:27,125 - lightrag - INFO -  == LLM cache == saving default: 3b0b12ef914c9ff5c1dbb5363e75f295
+2025-09-24 11:26:27,126 - lightrag - INFO - Chunk 116 of 119 extracted 6 Ent + 3 Rel
+2025-09-24 11:26:29,859 - lightrag - INFO -  == LLM cache == saving default: ad0c434dc51a24dfc31622ba08aa892b
+2025-09-24 11:26:29,859 - lightrag - INFO - Chunk 117 of 119 extracted 5 Ent + 5 Rel
+2025-09-24 11:26:32,754 - lightrag - INFO -  == LLM cache == saving default: 723c64eaa782f712f6fc60df39b688ac
+2025-09-24 11:26:32,754 - lightrag - INFO - Chunk 118 of 119 extracted 8 Ent + 3 Rel
+2025-09-24 11:26:34,070 - lightrag - INFO -  == LLM cache == saving default: 6261079803bf8f1449515b71413e99b1
+2025-09-24 11:26:35,681 - lightrag - INFO -  == LLM cache == saving default: b10d8371adb3e70004c11926c9359ebe
+2025-09-24 11:26:35,681 - lightrag - INFO - Chunk 119 of 119 extracted 2 Ent + 1 Rel
+2025-09-24 11:26:35,696 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-09-24 11:26:35,697 - lightrag - INFO - LLM merge N: Nothing X App | 15+0
+2025-09-24 11:26:38,355 - lightrag - INFO -  == LLM cache == saving default: c6ce0bd55178ca12469a4ecfa7a6fd59
+2025-09-24 11:26:38,356 - lightrag - INFO - Merge N: iOS Device | 4+0
+2025-09-24 11:26:38,357 - lightrag - INFO - Merge N: Earbuds | 5+0
+2025-09-24 11:26:38,357 - lightrag - INFO - Merge N: Android Device | 3+0
+2025-09-24 11:26:38,357 - lightrag - INFO - LLM merge N: Settings | 22+0
+2025-09-24 11:26:40,818 - lightrag - INFO -  == LLM cache == saving default: 79958247f7e7738cbcc2b41eeb67caeb
+2025-09-24 11:26:40,818 - lightrag - INFO - LLM merge N: Bluetooth | 9+0
+2025-09-24 11:26:42,533 - lightrag - INFO -  == LLM cache == saving default: d2e298fb446827beb64bda5ece78d766
+2025-09-24 11:26:42,534 - lightrag - INFO - Merge N: Ear (open) | 4+0
+2025-09-24 11:26:42,535 - lightrag - INFO - Merge N: iPhone | 4+0
+2025-09-24 11:26:42,535 - lightrag - INFO - LLM merge N: Nothing Ear | 6+0
+2025-09-24 11:26:44,931 - lightrag - INFO -  == LLM cache == saving default: be582680e8e837843f2fe74309ae4c49
+2025-09-24 11:26:44,932 - lightrag - INFO - LLM merge N: CMF Watch App | 7+0
+2025-09-24 11:26:46,682 - lightrag - INFO -  == LLM cache == saving default: 71ebe7a1582d5a756034aca2b7b1ccde
+2025-09-24 11:26:46,683 - lightrag - INFO - LLM merge N: World Athletics Championship | 35+0
+2025-09-24 11:26:48,365 - lightrag - INFO -  == LLM cache == saving default: bb2ed0edfa3bbe2a3e3542a19af8ff8c
+2025-09-24 11:26:48,366 - lightrag - INFO - LLM merge N: Tokyo | 29+0
+2025-09-24 11:26:51,399 - lightrag - INFO -  == LLM cache == saving default: 3cf6fca450cf60d6f6f72d4e4b429350
+2025-09-24 11:26:51,400 - lightrag - INFO - Merge N: SIM Card | 3+0
+2025-09-24 11:26:51,400 - lightrag - INFO - LLM merge N: Customer Support | 8+0
+2025-09-24 11:26:52,603 - lightrag - INFO -  == LLM cache == saving default: afe6766ba7de13d72c67afddf7d69b2a
+2025-09-24 11:26:52,604 - lightrag - INFO - Merge N: Apps | 2+0
+2025-09-24 11:26:52,604 - lightrag - INFO - Merge N: Location | 2+0
+2025-09-24 11:26:52,604 - lightrag - INFO - Merge N: Nothing Ear (open) | 2+0
+2025-09-24 11:26:52,604 - lightrag - INFO - Merge N: Battery | 5+0
+2025-09-24 11:26:52,605 - lightrag - INFO - LLM merge N: Nothing X app | 11+0
+2025-09-24 11:26:55,329 - lightrag - INFO -  == LLM cache == saving default: 25e7512d01663e8d97f9b6e6bbf4a7e0
+2025-09-24 11:26:55,330 - lightrag - INFO - Merge N: Developer options | 2+0
+2025-09-24 11:26:55,330 - lightrag - INFO - Merge N: Google Play Store | 3+0
+2025-09-24 11:26:55,330 - lightrag - INFO - Merge N: iOS App Store | 2+0
+2025-09-24 11:26:55,330 - lightrag - INFO - Merge N: Nothing Customer Service | 2+0
+2025-09-24 11:26:55,331 - lightrag - INFO - LLM merge N: Noah Carter | 29+0
+2025-09-24 11:26:57,034 - lightrag - INFO -  == LLM cache == saving default: 183347527d8fada9da98856f404d964b
+2025-09-24 11:26:57,035 - lightrag - INFO - LLM merge N: 100m Sprint Record | 16+0
+2025-09-24 11:26:59,769 - lightrag - INFO -  == LLM cache == saving default: 23a76c323d8d26bd8105d8ec697ce6ce
+2025-09-24 11:26:59,769 - lightrag - INFO - LLM merge N: Carbon-Fiber Spikes | 8+0
+2025-09-24 11:27:01,125 - lightrag - INFO -  == LLM cache == saving default: 0fe6d64f13d3d622927bc2a7a129ab49
+2025-09-24 11:27:01,125 - lightrag - INFO - LLM merge N: World Athletics Federation | 14+0
+2025-09-24 11:27:03,634 - lightrag - INFO -  == LLM cache == saving default: a70d0d3f67a7796a91658cb44c918f2c
+2025-09-24 11:27:03,634 - lightrag - INFO - Merge N: Phone | 2+0
+2025-09-24 11:27:03,634 - lightrag - INFO - Merge N: CMF Buds Pro 2 | 5+0
+2025-09-24 11:27:03,635 - lightrag - INFO - Merge N: CMF | 2+0
+2025-09-24 11:27:03,635 - lightrag - INFO - Merge N: CMF Buds 2 | 3+0
+2025-09-24 11:27:03,635 - lightrag - INFO - Merge N: LDAC | 3+0
+2025-09-24 11:27:03,635 - lightrag - INFO - Merge N: Android Phones | 2+0
+2025-09-24 11:27:03,636 - lightrag - INFO - Merge N: iOS 13 | 5+0
+2025-09-24 11:27:03,636 - lightrag - INFO - Merge N: Neckband Pro | 4+0
+2025-09-24 11:27:03,636 - lightrag - INFO - Merge N: Google Play | 2+0
+2025-09-24 11:27:03,636 - lightrag - INFO - Merge N: Microsoft Swift Pair | 2+0
+2025-09-24 11:27:03,636 - lightrag - INFO - Merge N: Google Fast Pair | 2+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: Android 5.1 | 3+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: Nothing OS | 3+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: System Update | 4+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: WiFi | 4+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: WiFi Hotspot | 2+0
+2025-09-24 11:27:03,637 - lightrag - INFO - Merge N: App Pinnings | 2+0
+2025-09-24 11:27:03,638 - lightrag - INFO - Merge N: Message Notifications | 2+0
+2025-09-24 11:27:03,638 - lightrag - INFO - Merge N: Lock Screen | 2+0
+2025-09-24 11:27:03,638 - lightrag - INFO - Merge N: Find My Phone Function | 2+0
+2025-09-24 11:27:03,638 - lightrag - INFO - Merge N: Internet | 3+0
+2025-09-24 11:27:03,638 - lightrag - INFO - LLM merge N: carbon-fiber spikes | 11+0
+2025-09-24 11:27:06,075 - lightrag - INFO -  == LLM cache == saving default: 3aa9747699748c1e7ae384ac965711dc
+2025-09-24 11:27:06,075 - lightrag - INFO - Merge N: Network & internet | 2+0
+2025-09-24 11:27:06,076 - lightrag - INFO - LLM merge N: Nothing Phone | 21+0
+2025-09-24 11:27:08,537 - lightrag - INFO -  == LLM cache == saving default: 9c53da1c176d58f666753388119c6c01
+2025-09-24 11:27:08,537 - lightrag - INFO - Merge N: Android | 5+0
+2025-09-24 11:27:08,537 - lightrag - INFO - Merge N: Google account | 4+0
+2025-09-24 11:27:08,538 - lightrag - INFO - Merge N: Battery Saver | 2+0
+2025-09-24 11:27:08,538 - lightrag - INFO - Merge N: Find My Device | 2+0
+2025-09-24 11:27:08,538 - lightrag - INFO - Merge N: Nothing Ear widget | 3+0
+2025-09-24 11:27:08,538 - lightrag - INFO - Merge N: Bluetooth tethering | 2+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: data roaming | 2+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: USB debugging | 4+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: status bar | 2+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: system update | 2+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: USB Tethering | 2+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: WiFi Direct | 3+0
+2025-09-24 11:27:08,539 - lightrag - INFO - Merge N: CMF Watch Pro 2 | 2+0
+2025-09-24 11:27:08,540 - lightrag - INFO - LLM merge N: Watch Pro | 12+0
+2025-09-24 11:27:11,145 - lightrag - INFO -  == LLM cache == saving default: 74273f60b85b7ef968f3d88e779d88fb
+2025-09-24 11:27:11,145 - lightrag - INFO - LLM merge N: CMF Watch app | 6+0
+2025-09-24 11:27:13,757 - lightrag - INFO -  == LLM cache == saving default: 1976203dcaf249e60126cda835c378cd
+2025-09-24 11:27:13,758 - lightrag - INFO - Merge N: Pairing | 2+0
+2025-09-24 11:27:13,759 - lightrag - INFO - Merge N: Call Notifications | 2+0
+2025-09-24 11:27:13,760 - lightrag - INFO - Merge N: Bluetooth 5.3 | 2+0
+2025-09-24 11:27:13,760 - lightrag - INFO - Merge N: GPS/GLONASS/Galileo/QZSS/Beidou | 3+0
+2025-09-24 11:27:13,760 - lightrag - INFO - Merge N: GPS | 3+0
+2025-09-24 11:27:13,760 - lightrag - INFO - Merge N: GLONASS | 2+0
+2025-09-24 11:27:13,760 - lightrag - INFO - Merge N: Galileo | 2+0
+2025-09-24 11:27:13,766 - lightrag - INFO - Merge N: Beidou | 2+0
+2025-09-24 11:27:13,767 - lightrag - INFO - Merge N: Notifications | 5+0
+2025-09-24 11:27:13,767 - lightrag - INFO - Merge N: CMF Watch Pro | 2+0
+2025-09-24 11:27:13,767 - lightrag - INFO - Merge N: Alarm | 5+0
+2025-09-24 11:27:13,767 - lightrag - INFO - Merge N: 100m sprint record | 3+0
+2025-09-24 11:27:13,768 - lightrag - INFO - Merge N: Storage | 3+0
+2025-09-24 11:27:13,768 - lightrag - INFO - Merge N: Camera | 2+0
+2025-09-24 11:27:13,769 - lightrag - INFO - Merge N: charger | 2+0
+2025-09-24 11:27:13,769 - lightrag - INFO - Merge N: System Menu | 2+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Reset | 2+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Nothing Ear 1 | 2+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Nothing | 3+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Nothing Ear 2 | 2+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Ear (2) | 2+0
+2025-09-24 11:27:13,770 - lightrag - INFO - Merge N: Nothing Ear A | 2+0
+2025-09-24 11:27:13,771 - lightrag - INFO - Merge N: Dual Connection | 2+0
+2025-09-24 11:27:13,771 - lightrag - INFO - Merge N: Battery Share | 2+0
+2025-09-24 11:27:13,771 - lightrag - INFO - Merge N: Lock screen | 2+0
+2025-09-24 11:27:13,771 - lightrag - INFO - Merge N: Find My Phone | 5+0
+2025-09-24 11:27:13,772 - lightrag - INFO - Merge N: Dark Theme | 3+0
+2025-09-24 11:27:13,772 - lightrag - INFO - Merge N: Data Roaming | 2+0
+2025-09-24 11:27:13,772 - lightrag - INFO - Merge N: Nothing Phone 2A | 3+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N: USB tethering | 2+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N: System | 2+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N: Multiple Users | 3+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N: Lock Screen Password | 2+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N:  Glyph Interface | 2+0
+2025-09-24 11:27:13,773 - lightrag - INFO - Merge N: Ringtones | 2+0
+2025-09-24 11:27:13,774 - lightrag - INFO - Merge N: Notifications on lock screen | 2+0
+2025-09-24 11:27:13,774 - lightrag - INFO - Merge N: App settings | 2+0
+2025-09-24 11:27:13,774 - lightrag - INFO - Merge N: Nothing Phone 2A Plus | 2+0
+2025-09-24 11:27:13,774 - lightrag - INFO - Merge N: Glyph Interface | 3+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: Network & Internet | 5+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: Airplane Mode | 2+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: Browser App | 2+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: Menu | 2+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: History | 2+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: System Date & Time | 2+0
+2025-09-24 11:27:13,775 - lightrag - INFO - Merge N: Clock App | 2+0
+2025-09-24 11:27:13,776 - lightrag - INFO - Merge N: Clear Browsing Data | 2+0
+2025-09-24 11:27:13,776 - lightrag - INFO - Merge N: Nothing Phone 2 | 3+0
+2025-09-24 11:27:13,777 - lightrag - INFO - Merge N: Nothing Phone 3A | 2+0
+2025-09-24 11:27:13,778 - lightrag - INFO - Merge N: Nothing OS 3.1 | 2+0
+2025-09-24 11:27:13,778 - lightrag - INFO - Merge N: Nothing Find My Device | 2+0
+2025-09-24 11:27:13,779 - lightrag - INFO - Merge E: Android Device - Nothing X App | 2+0
+2025-09-24 11:27:13,780 - lightrag - INFO - LLM merge E: Tokyo - World Athletics Championship | 21+0
+2025-09-24 11:27:14,977 - lightrag - INFO -  == LLM cache == saving default: eed31a7e9d5ff67205e1ca69f316bec5
+2025-09-24 11:27:14,978 - lightrag - INFO - Merge E: World Athletics Championship - organization | 2+0
+2025-09-24 11:27:14,979 - lightrag - INFO - Merge E: 100m sprint record - Noah Carter | 5+0
+2025-09-24 11:27:14,979 - lightrag - INFO - Merge E: World Athletics Championship - carbon-fiber spikes | 3+0
+2025-09-24 11:27:14,980 - lightrag - INFO - LLM merge E: 100m Sprint Record - Noah Carter | 13+0
+2025-09-24 11:27:16,418 - lightrag - INFO -  == LLM cache == saving default: b941278095bb4b34ea6abca67b4fe199
+2025-09-24 11:27:16,419 - lightrag - INFO - Merge E: Android - Nothing Phone | 4+0
+2025-09-24 11:27:16,419 - lightrag - INFO - Merge E: Google Play Store - Nothing Phone | 2+0
+2025-09-24 11:27:16,419 - lightrag - INFO - Merge E: Call Notifications - Watch Pro | 2+0
+2025-09-24 11:27:16,420 - lightrag - INFO - Merge E: Carbon-Fiber Spikes - Noah Carter | 3+0
+2025-09-24 11:27:16,420 - lightrag - INFO - Merge E: 100m Sprint Record - World Athletics Federation | 5+0
+2025-09-24 11:27:16,420 - lightrag - INFO - Merge E: World Athletics Championship - event | 2+0
+2025-09-24 11:27:16,420 - lightrag - INFO - Merge E: Noah Carter - World Athletics Championship | 3+0
+2025-09-24 11:27:16,421 - lightrag - INFO - Merge E: Noah Carter - World Athletics Federation | 2+0
+2025-09-24 11:27:16,421 - lightrag - INFO - Merge E: Settings - System Menu | 2+0
+2025-09-24 11:27:16,421 - lightrag - INFO - Merge E: Android Auto - Connected Devices | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: LDAC - Nothing X App | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: carbon-fiber spikes - performance boost | 3+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: Find My Phone - Settings | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: Avoid overcharging - Suitable temperature for charging | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: Multiple Users - Settings | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: Apps - Settings | 2+0
+2025-09-24 11:27:16,423 - lightrag - INFO - Merge E: Gestures - Settings | 3+0
+2025-09-24 11:27:16,424 - lightrag - INFO - Merge E: Connected devices - Settings | 2+0
+2025-09-24 11:27:16,426 - lightrag - INFO - Updating 599 entities  1/1: unknown_source
+2025-09-24 11:27:29,518 - lightrag - INFO - Updating 451 relations 1/1: unknown_source
+2025-09-24 11:27:35,259 - lightrag - INFO - Writing graph with 847 nodes, 451 edges
+2025-09-24 11:27:35,309 - lightrag - INFO - In memory DB persist to disk
+2025-09-24 11:27:35,309 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-09-24 11:27:35,310 - lightrag - INFO - Document processing pipeline completed
+2025-09-24 11:27:35,310 - lightrag - INFO - Process 1544223 building query context...
+2025-09-24 11:27:35,310 - lightrag - INFO - Query edges: Special smartphones, Face unlock, Biometric security, top_k: 60, cosine: 0.2
+2025-09-24 11:27:35,387 - lightrag - INFO - Global query uses 79 entites, 60 relations, 3 chunks
+2025-09-24 11:27:46,955 - lightrag - INFO - Storage Finalization completed!

@@ -1,0 +1,14 @@
+from functions import process_kg_sql, summary_response
+
+model_name='qwen2'
+input_file = '/home/NingyuanXiao/multi-agents/kg_sql_gemma3.json'
+output_file = 'kg_sql_gemma3_final.json'
+
+process_kg_sql(model_name, input_file, output_file)
+
+# user_query = 'Who is the supplier of the smartphone??'
+# kg_answer = '## Available Smartphones\n\nBased on the provided knowledge base, Nothing currently offers several smartphone models:\n\n*   **Nothing Phone:** This is the central product discussed in the documentation, serving as a destination for data transfer during setup.\n*   **Nothing Phone 2:** This model builds upon the features of the original, with specific details available within the documentation.\n*   **Nothing Phone 2A:** Another smartphone offering from Nothing, with available documentation detailing its functionalities.\n*   **Nothing Phone 2A Plus:**  A variation of the Phone 2A model, and is referenced in multiple documents.\n*   **Nothing Phone (1):** An older model, but still referenced in documentation alongside newer models.\n*   **Nothing Phone (3a):** This model is also available.\n\nThe documentation provides detailed information on features like connectivity (WiFi, Bluetooth), camera functions, and system updates for these smartphones. It also details operating system (Nothing OS with Android 14) and the Glyph Interface found on some models.\n\n\n\n**References:**\n\n*   [DC] unknown_source (Document Chunk 1)\n*   [DC] unknown_source (Document Chunk 2)\n*   [DC] unknown_source (Document Chunk 3)\n*   [KG] unknown_source (Entity: Nothing Phone, id: 2, description: \"Nothing Phone is a smartphone brand and manufacturer...\")\n*   [KG] unknown_source (Entity: Nothing, id: 20, description: \"Nothing is a technology company that develops and manufactures a range of consumer electronics...\")'
+# sql_answer = '[\n    {\n        \"product_name\":\"Nothing Phone 1\",\n        \"supplier_name\":\"GlobalGears Ltd.\"\n    },\n    {\n        \"product_name\":\"Nothing Phone 2\",\n        \"supplier_name\":\"OptiCore Systems\"\n    },\n    {\n        \"product_name\":\"Nothing Phone 2A\",\n        \"supplier_name\":\"OptiCore Systems\"\n    },\n    {\n        \"product_name\":\"Nothing Phone 2A Plus\",\n        \"supplier_name\":\"QuantumParts LLC\"\n    },\n    {\n        \"product_name\":\"Nothing Phone 3A\",\n        \"supplier_name\":\"OptiCore Systems\"\n    },\n    {\n        \"product_name\":\"Nothing Phone 3A Pro\",\n        \"supplier_name\":\"FusionTech Components\"\n    },\n    {\n        \"product_name\":\"CMF Phone 1\",\n        \"supplier_name\":\"OptiCore Systems\"\n    }\n]'
+
+# summary = summary_response(model=model_name, user_query=user_query, sql_answer=sql_answer, kg_answer=kg_answer)
+# print(summary)

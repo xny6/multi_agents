@@ -8,8 +8,9 @@ class MyVanna(ChromaDB_VectorStore, Ollama):
 
 vn = MyVanna(config={'model': 'gemma3:27b'})
 
-vn.connect_to_mysql(host='10.4.160.88', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
+# vn.connect_to_mysql(host='10.4.160.88', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
 # vn.connect_to_mysql(host='10.7.162.54', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
+vn.connect_to_mysql(host='mysql2.sqlpub.com', dbname='xny_customer', user='xny_remote', password='XZcgBcCsGsFRvLe6', port=3307)
 
 def train_vn(vn):
     vn.train(ddl='''
@@ -401,10 +402,10 @@ def run_sql_query(my_vn=vn, question=''):
 
 
 
-train_vn(vn)
-train2(vn)
-train3(vn)
-print(run_sql_query(vn, question='Get the product name in return form where return date is 2025-05-12'))
+# train_vn(vn)
+# train2(vn)
+# train3(vn)
+# print(run_sql_query(vn, question='Get the product name in return form where return date is 2025-05-12'))
 
 # vn.ask(question=question, allow_llm_to_see_data=True,visualize=False)
 # from vanna.flask import VannaFlaskApp

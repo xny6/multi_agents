@@ -160,7 +160,7 @@ async def main():
         print("Query mode: global")
         print("=====================")
         resp = await rag.aquery(
-            "Does Nothing Phone support wireless charging?",
+            "Which special smartphones that support face unlock were released?",
             param=QueryParam(mode="global", stream=True),
         )
         if inspect.isasyncgen(resp):
