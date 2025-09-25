@@ -467,6 +467,7 @@ def sql_kg_process_date(input_file, output_file,model_name):
         for user_query in tqdm(unprocessed_queries, desc="Processing queries", unit="query"):
             try:
                 date = query_ollama_for_date(model=model_name,user_query=user_query)
+                date = re.sub(r'<think>.*?</think>', '', date, flags=re.DOTALL)
                 SQL_Query = generate_sql_query_date(date)
                 SQL_Result = run_sql_query(question=SQL_Query)
                 KG_Query = generate_kg_query_sql_kg(
@@ -528,6 +529,7 @@ def sql_kg_process_name(input_file, output_file,model_name):
         for user_query in tqdm(unprocessed_queries, desc="Processing queries", unit="query"):
             try:
                 name = query_ollama_for_user_name(model=model_name,user_query=user_query)
+                name = re.sub(r'<think>.*?</think>', '', name, flags=re.DOTALL)
                 SQL_Query = generate_sql_query_name(name)
                 SQL_Result = run_sql_query(question=SQL_Query)
                 KG_Query = generate_kg_query_sql_kg(

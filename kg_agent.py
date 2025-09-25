@@ -30,7 +30,7 @@ def configure_logging():
 
     # Get log directory path from environment variable or use current directory
     log_dir = os.getenv("LOG_DIR", os.getcwd())
-    log_file_path = os.path.abspath(os.path.join(log_dir, "/home/NingyuanXiao/LightRAG_test/working_dir_advanced_ollama.log"))
+    log_file_path = os.path.abspath(os.path.join(log_dir, "/home/NingyuanXiao/multi-agents/log_for_qwen2.log"))
 
     print(f"\nLightRAG compatible demo log file: {log_file_path}\n")
     os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
@@ -124,7 +124,7 @@ async def query_kg(rag, question,param):
     )
     return response
 
-
+from tqdm import tqdm
 async def query_kg_write_to_json(file_path):
     try:
 
@@ -136,7 +136,7 @@ async def query_kg_write_to_json(file_path):
         with open (file_path, 'r') as f:
             data = json.load(f)
 
-        for entry in data:
+        for entry in tqdm(data, desc="Processing KG Queries"):
             question = entry.get("KG Query", "").strip()
             response = await query_kg(rag, question, query_param)
             response = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL)

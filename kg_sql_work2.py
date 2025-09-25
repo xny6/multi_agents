@@ -1,8 +1,8 @@
 from functions import process_kg_sql, summary_response
 
 model_name='qwen2'
-input_file = '/home/NingyuanXiao/multi-agents/kg_sql_gemma3.json'
-output_file = 'kg_sql_gemma3_final.json'
+input_file = '/home/NingyuanXiao/multi-agents/kg_sql_qwen2.json'
+output_file = 'kg_sql_qwen2_final.json'
 
 process_kg_sql(model_name, input_file, output_file)
 
