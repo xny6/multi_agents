@@ -16,7 +16,7 @@ import re
 
 load_dotenv(dotenv_path=".env", override=False)
 
-WORKING_DIR = "/home/NingyuanXiao/LightRAG_test/working_dir_advanced_ollama"
+WORKING_DIR = "/home/NingyuanXiao/multi-agents/working_dir_for_qwen2"
 
 
 def configure_logging():
@@ -86,7 +86,7 @@ async def initialize_rag(working_dir=WORKING_DIR):
     rag = LightRAG(
         working_dir=working_dir,
         llm_model_func=ollama_model_complete,
-        llm_model_name=os.getenv("LLM_MODEL", "deepseek-r1:32b"),
+        llm_model_name=os.getenv("LLM_MODEL", "qwen2"),
         llm_model_max_token_size=8192,
         llm_model_max_async=12,
         max_parallel_insert=3,

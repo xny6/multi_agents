@@ -1123,3 +1123,114 @@
 2025-09-22 13:27:56,374 - lightrag - INFO - Query edges: Mobile phone features, Wireless technology, Smartphone specifications, top_k: 60, cosine: 0.2
 2025-09-22 13:27:56,490 - lightrag - INFO - Global query uses 53 entites, 60 relations, 3 chunks
 2025-09-22 13:28:22,138 - lightrag - INFO - Storage Finalization completed!
+2025-09-25 03:44:12,081 - lightrag - INFO - Loaded graph from /home/NingyuanXiao/multi-agents/working_dir_for_gemma3/graph_chunk_entity_relation.graphml with 1146 nodes, 1599 edges
+2025-09-25 03:44:12,150 - lightrag - INFO - Process 2086233 KV load full_docs with 1 records
+2025-09-25 03:44:12,152 - lightrag - INFO - Process 2086233 KV load text_chunks with 119 records
+2025-09-25 03:44:12,179 - lightrag - INFO - Process 2086233 KV load llm_response_cache with 707 records
+2025-09-25 03:44:12,182 - lightrag - INFO - Process 2086233 doc status load doc_status with 1 records
+2025-09-25 03:44:12,183 - lightrag - INFO - limit_async: 12 new workers initialized
+2025-09-25 03:44:12,183 - lightrag - INFO - Storage Initialization completed!
+2025-09-25 03:44:29,548 - lightrag - ERROR - limit_async: Error in decorated function: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+2025-09-25 03:44:29,573 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-25 07:10:06,657 - lightrag - INFO - Loaded graph from /home/NingyuanXiao/multi-agents/working_dir_for_gemma3/graph_chunk_entity_relation.graphml with 1146 nodes, 1599 edges
+2025-09-25 07:10:06,724 - lightrag - INFO - Process 2161864 KV load full_docs with 1 records
+2025-09-25 07:10:06,727 - lightrag - INFO - Process 2161864 KV load text_chunks with 119 records
+2025-09-25 07:10:06,753 - lightrag - INFO - Process 2161864 KV load llm_response_cache with 707 records
+2025-09-25 07:10:06,755 - lightrag - INFO - Process 2161864 doc status load doc_status with 1 records
+2025-09-25 07:10:06,757 - lightrag - INFO - limit_async: 12 new workers initialized
+2025-09-25 07:10:06,757 - lightrag - INFO - Storage Initialization completed!
+2025-09-25 07:10:15,322 - lightrag - INFO -  == LLM cache == saving global: f4ef1c684666a7226cbf9d3c101975f9
+2025-09-25 07:10:15,322 - lightrag - INFO - Process 2161864 building query context...
+2025-09-25 07:10:15,323 - lightrag - INFO - Query edges: Smartphone features, Wireless charging, Product release date, Mobile technology, top_k: 60, cosine: 0.2
+2025-09-25 07:10:15,323 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-25 07:10:17,718 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 chunks
+2025-09-25 07:12:24,991 - lightrag - INFO -  == LLM cache == saving global: 39366bf720ba2249d730b43049b7a97e
+2025-09-25 07:12:27,879 - lightrag - INFO -  == LLM cache == saving global: 8945d212ce85cc0b483e680c1391e66d
+2025-09-25 07:12:27,880 - lightrag - INFO - Process 2161864 building query context...
+2025-09-25 07:12:27,880 - lightrag - INFO - Query edges: Smartphone features, Wireless charging, Device specifications, Mobile technology, top_k: 60, cosine: 0.2
+2025-09-25 07:12:28,042 - lightrag - INFO - Global query uses 63 entites, 60 relations, 3 chunks
+2025-09-25 07:13:45,811 - lightrag - INFO -  == LLM cache == saving global: 8c7aba94b2d2cfa8087bde07da7d638f
+2025-09-25 07:13:48,656 - lightrag - INFO -  == LLM cache == saving global: ef6c5003a41394c38960c48e22411ae2
+2025-09-25 07:13:48,656 - lightrag - INFO - Process 2161864 building query context...
+2025-09-25 07:13:48,656 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, Pricing, top_k: 60, cosine: 0.2
+2025-09-25 07:13:48,798 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 chunks
+2025-09-25 07:23:48,861 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-09-25 07:23:49,060 - lightrag - INFO - Creating a new event loop in main thread.
+2025-09-25 07:24:20,750 - lightrag - INFO - Loaded graph from /home/NingyuanXiao/multi-agents/working_dir_for_gemma3/graph_chunk_entity_relation.graphml with 1146 nodes, 1599 edges
+2025-09-25 07:24:20,817 - lightrag - INFO - Process 2164071 KV load full_docs with 1 records
+2025-09-25 07:24:20,820 - lightrag - INFO - Process 2164071 KV load text_chunks with 119 records
+2025-09-25 07:24:20,846 - lightrag - INFO - Process 2164071 KV load llm_response_cache with 712 records
+2025-09-25 07:24:20,848 - lightrag - INFO - Process 2164071 doc status load doc_status with 1 records
+2025-09-25 07:24:20,849 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:24:20,849 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, Pricing, top_k: 60, cosine: 0.2
+2025-09-25 07:24:20,849 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-09-25 07:24:20,850 - lightrag - INFO - Storage Initialization completed!
+2025-09-25 07:24:23,167 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 chunks
+2025-09-25 07:24:23,188 - lightrag - INFO - limit_async: 12 new workers initialized
+2025-09-25 07:24:55,808 - lightrag - INFO -  == LLM cache == saving global: 1885f0ee9958ba4c57d1a75b10b2c9c5
+2025-09-25 07:24:58,543 - lightrag - INFO -  == LLM cache == saving global: 8c02c9b37ab58d1891416ad138e71462
+2025-09-25 07:24:58,543 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:24:58,543 - lightrag - INFO - Query edges: Smartphone features, Wireless charging, Phone specifications, Mobile technology, top_k: 60, cosine: 0.2
+2025-09-25 07:24:58,708 - lightrag - INFO - Global query uses 59 entites, 60 relations, 3 chunks
+2025-09-25 07:27:29,045 - lightrag - INFO -  == LLM cache == saving global: de76a7dcf45a0f41e560a2f8d306c88c
+2025-09-25 07:27:31,780 - lightrag - INFO -  == LLM cache == saving global: 8989aa2d9f0e7fee4cbc4378b560c5ca
+2025-09-25 07:27:31,780 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:27:31,780 - lightrag - INFO - Query edges: Smartphone features, Wireless charging, Product availability, Inventory management, top_k: 60, cosine: 0.2
+2025-09-25 07:27:31,895 - lightrag - INFO - Global query uses 59 entites, 60 relations, 3 chunks
+2025-09-25 07:30:11,929 - lightrag - INFO -  == LLM cache == saving global: 209010aa3d5ec6ae862bc65953a3bc8b
+2025-09-25 07:30:14,819 - lightrag - INFO -  == LLM cache == saving global: da36aee2e6d9b18d37c79ad7d8219040
+2025-09-25 07:30:14,819 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:30:14,819 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, Release date, top_k: 60, cosine: 0.2
+2025-09-25 07:30:14,953 - lightrag - INFO - Global query uses 60 entites, 60 relations, 3 chunks
+2025-09-25 07:33:21,323 - lightrag - INFO -  == LLM cache == saving global: 9388f65b8549e5a227cd864cfc14939a
+2025-09-25 07:33:24,178 - lightrag - INFO -  == LLM cache == saving global: 69fb539a3feee65602a6203fe17bc9d1
+2025-09-25 07:33:24,179 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:33:24,179 - lightrag - INFO - Query edges: Smartphone features, Fast charging, Device specifications, Mobile technology, top_k: 60, cosine: 0.2
+2025-09-25 07:33:24,307 - lightrag - INFO - Global query uses 65 entites, 60 relations, 3 chunks
+2025-09-25 07:35:32,346 - lightrag - INFO -  == LLM cache == saving global: 562a5d46cdadbd8da017c79361292d67
+2025-09-25 07:35:35,100 - lightrag - INFO -  == LLM cache == saving global: ac613571632c9b8c322799f9f5fcd95c
+2025-09-25 07:35:35,101 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:35:35,101 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, Pricing, top_k: 60, cosine: 0.2
+2025-09-25 07:35:35,229 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 chunks
+2025-09-25 07:38:38,269 - lightrag - INFO -  == LLM cache == saving global: edc463a01a2eb9c9e73da01237c91416
+2025-09-25 07:38:40,976 - lightrag - INFO -  == LLM cache == saving global: 7f86593611805cc78218f7c94ed3eee8
+2025-09-25 07:38:40,976 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:38:40,976 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, top_k: 60, cosine: 0.2
+2025-09-25 07:38:41,119 - lightrag - INFO - Global query uses 60 entites, 60 relations, 3 chunks
+2025-09-25 07:41:06,463 - lightrag - INFO -  == LLM cache == saving global: 54ed0848905b8790bf5e81db65024810
+2025-09-25 07:41:09,080 - lightrag - INFO -  == LLM cache == saving global: b710ee35769feadd7da89976b33674c5
+2025-09-25 07:41:09,080 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:41:09,080 - lightrag - INFO - Query edges: Smartphone features, Fast charging, Stock availability, Product information, top_k: 60, cosine: 0.2
+2025-09-25 07:41:09,229 - lightrag - INFO - Global query uses 62 entites, 60 relations, 3 chunks
+2025-09-25 07:43:37,036 - lightrag - INFO -  == LLM cache == saving global: c59cdd506fa4fcb7116e65b414500b21
+2025-09-25 07:43:39,895 - lightrag - INFO -  == LLM cache == saving global: 7d47cbefde85d67e504dece061c856d0
+2025-09-25 07:43:39,895 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:43:39,895 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Product specifications, Release date, top_k: 60, cosine: 0.2
+2025-09-25 07:43:39,996 - lightrag - INFO - Global query uses 60 entites, 60 relations, 3 chunks
+2025-09-25 07:48:26,938 - lightrag - INFO -  == LLM cache == saving global: 0bf629511a79c0f4fde7af3aa14f41b6
+2025-09-25 07:48:29,814 - lightrag - INFO -  == LLM cache == saving global: 30479e5072e2d2ac35f3fc2d60036768
+2025-09-25 07:48:29,814 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:48:29,814 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Device specifications, Consumer electronics, top_k: 60, cosine: 0.2
+2025-09-25 07:48:29,938 - lightrag - INFO - Global query uses 60 entites, 60 relations, 3 chunks
+2025-09-25 07:50:51,047 - lightrag - INFO -  == LLM cache == saving global: 34583c87c0f38bf333635bc0ed59332d
+2025-09-25 07:50:53,688 - lightrag - INFO -  == LLM cache == saving global: 142f10bb6275b38239583a0648fa086c
+2025-09-25 07:50:53,688 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:50:53,689 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Price information, top_k: 60, cosine: 0.2
+2025-09-25 07:50:53,808 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 chunks
+2025-09-25 07:53:34,026 - lightrag - INFO -  == LLM cache == saving global: a1319a5ea46381b8370b84fa677c1ebf
+2025-09-25 07:53:36,625 - lightrag - INFO -  == LLM cache == saving global: b3a6dec8e1b31247d7083ca860a24677
+2025-09-25 07:53:36,625 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:53:36,625 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Device specifications, top_k: 60, cosine: 0.2
+2025-09-25 07:53:36,761 - lightrag - INFO - Global query uses 62 entites, 60 relations, 3 chunks
+2025-09-25 07:54:52,002 - lightrag - INFO -  == LLM cache == saving global: 3e0c052f394961073e9a55980d699661
+2025-09-25 07:54:54,880 - lightrag - INFO -  == LLM cache == saving global: cac1018e126a3030b1feef0af9b73521
+2025-09-25 07:54:54,880 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:54:54,881 - lightrag - INFO - Query edges: Smartphone features, Mobile technology, Device specifications, Inventory management, top_k: 60, cosine: 0.2
+2025-09-25 07:54:55,023 - lightrag - INFO - Global query uses 55 entites, 60 relations, 3 chunks
+2025-09-25 07:57:52,201 - lightrag - INFO -  == LLM cache == saving global: e293fab58a9400b713fa39dcccc00a93
+2025-09-25 07:57:55,153 - lightrag - INFO -  == LLM cache == saving global: dcd91c6ae33da87b3a482bc1b90d7237
+2025-09-25 07:57:55,153 - lightrag - INFO - Process 2164071 building query context...
+2025-09-25 07:57:55,154 - lightrag - INFO - Query edges: Smartphone features, Mobile security, Product release, Device specifications, top_k: 60, cosine: 0.2
+2025-09-25 07:57:55,295 - lightrag - INFO - Global query uses 58 entites, 60 relations, 3 chunks
+2025-09-25 08:07:55,358 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-09-25 08:07:55,544 - lightrag - INFO - Creating a new event loop in main thread.
