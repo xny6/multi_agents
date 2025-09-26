@@ -4,11 +4,11 @@ from functions import generate_sql_query, generate_kg_query, summary_response, p
 import asyncio
 from kg_agent import query_kg_write_to_json
 
-stolen_data_file='/home/NingyuanXiao/multi-agents/attack/stolen_data_qwen.json'
-input_json_file_with_posioned_answer = '/home/NingyuanXiao/multi-agents/attack/wrong_answer_qwen2.json'
-temp_output_json_file = '/home/NingyuanXiao/multi-agents/attack/enhanced_kg_sql_qwen2.json'
-final_output_json_file = '/home/NingyuanXiao/multi-agents/attack/attack_kg_sql_qwen2_final.json'
-model_name = 'qwen2'
+stolen_data_file='/home/NingyuanXiao/multi-agents/attack/stolen_data_deepseek.json'
+input_json_file_with_posioned_answer = '/home/NingyuanXiao/multi-agents/attack/wrong_answer_deepseek.json'
+temp_output_json_file = '/home/NingyuanXiao/multi-agents/attack/enhanced_kg_sql_deepseek.json'
+final_output_json_file = '/home/NingyuanXiao/multi-agents/attack/attack_kg_sql_deepseek_final.json'
+model_name = 'deepseek-r1:32b'
 
 # generate_wrong_answers(input_file=stolen_data_file, output_file=input_json_file_with_posioned_answer, model=model_name)
 
