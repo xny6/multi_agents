@@ -93,7 +93,7 @@ async def initialize_rag():
             "options": {"num_ctx": 32768},
             "timeout": int(os.getenv("TIMEOUT", "600")),
         },
-        # llm_model_max_async=8,
+        llm_model_max_async=16,
         # addon_params={'language': 'Simplified Chinese'},
 
         embedding_func=EmbeddingFunc(
