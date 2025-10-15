@@ -4,15 +4,17 @@ from functions import generate_sql_query, generate_kg_query, summary_response, p
 import asyncio
 from kg_agent import query_kg_write_to_json
 
-stolen_data_file='/home/NingyuanXiao/multi-agents/attack/stolen_data_deepseek.json'
+# stolen_data_file='/home/NingyuanXiao/multi-agents/attack/stolen_data_deepseek.json'
 input_json_file_with_posioned_answer = '/home/NingyuanXiao/multi-agents/attack/wrong_answer_deepseek_renamed.json'
-new_answer_file = '/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_deepseek.json'
-temp_output_json_file = '/home/NingyuanXiao/multi-agents/attack/new_enhanced_kg_sql_deepseek.json'
-final_output_json_file = '/home/NingyuanXiao/multi-agents/attack/new_attack_kg_sql_deepseek_final.json'
-model_name = 'deepseek-r1:32b'
+new_answer_file = '/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2.json'
+temp_output_json_file = '/home/NingyuanXiao/multi-agents/attack/new_enhanced_kg_sql_qwen2.json'
+final_output_json_file = '/home/NingyuanXiao/multi-agents/attack/new_attack_kg_sql_qwen2_final_final.json'
+model_name = 'qwen2'
 
 # generate_wrong_answers(input_file=stolen_data_file, output_file=input_json_file_with_posioned_answer, model=model_name)
 # generate_new_wrong_answers(input_file=input_json_file_with_posioned_answer, output_file=new_answer_file, model_name=model_name)
+
+
 # results = []
 
 # with open(new_answer_file, 'r') as f:
@@ -39,8 +41,8 @@ model_name = 'deepseek-r1:32b'
 # with open(temp_output_json_file, 'w') as f:
 #     json.dump(results, f, ensure_ascii=False, indent=4)
 
-asyncio.run(query_kg_write_to_json(temp_output_json_file))
+# asyncio.run(query_kg_write_to_json(temp_output_json_file))
 
-# process_kg_sql(model_name, temp_output_json_file, final_output_json_file)
+process_kg_sql(model_name, temp_output_json_file, final_output_json_file)
 
 

@@ -4,23 +4,23 @@ import requests
 from tqdm import tqdm
 
 # # filepath: /home/NingyuanXiao/multi-agents/attack/wrong_answer_deepseek.json
-# # 读取 JSON 文件
-# input_file_path = '/home/NingyuanXiao/multi-agents/attack/wrong_answer_qwen2.json'
-# output_file_path = '/home/NingyuanXiao/multi-agents/attack/wrong_answer_qwen2_rename.json'
+# 读取 JSON 文件
+input_file_path = '/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2.json'
+output_file_path = '/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2_wrong_rename.json'
 
-# with open(input_file_path, 'r', encoding='utf-8') as file:
-#     data = json.load(file)
+with open(input_file_path, 'r', encoding='utf-8') as file:
+    data = json.load(file)
 
-# # 遍历 JSON 数据并修改键名
-# for item in data:
-#     if "wrong_answer" in item:
-#         item["previous_wrong_answer"] = item.pop("wrong_answer")
+# 遍历 JSON 数据并修改键名
+for item in data:
+    if "new_wrong_answer" in item:
+        item["wrong_answer"] = item.pop("new_wrong_answer")
 
-# # 将修改后的数据写回 JSON 文件
-# with open(output_file_path, 'w', encoding='utf-8') as file:
-#     json.dump(data, file, ensure_ascii=False, indent=4)
+# 将修改后的数据写回 JSON 文件
+with open(output_file_path, 'w', encoding='utf-8') as file:
+    json.dump(data, file, ensure_ascii=False, indent=4)
 
-# print("键名修改完成！")
+print("键名修改完成！")
 
 
 
@@ -113,7 +113,7 @@ def generate_new_wrong_answers(input_file, output_file, model_name="llama3"):
 
     print(f"\n✅ Processing complete! Results saved to: {output_file}")
 
-input_file='/home/NingyuanXiao/multi-agents/attack/wrong_answer_qwen2_rename.json'
-output_file='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2.json'
-model_name='qwen2'        
-generate_new_wrong_answers(input_file, output_file, model_name)
+# input_file='/home/NingyuanXiao/multi-agents/attack/wrong_answer_qwen2_rename.json'
+# output_file='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2.json'
+# model_name='qwen2'        
+# generate_new_wrong_answers(input_file, output_file, model_name)

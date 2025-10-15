@@ -4,15 +4,15 @@ import re
 from kg_agent import query_kg_write_to_json
 import asyncio
 
-input_file_date='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_deepseek_wrong_rename.json'
-output_file_date='new_attack_sql_kg_deepseek_date.json'
-output_file_date_summary= 'new_attack_sql_kg_deepseek_date_summary.json'
+input_file_date='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2_wrong_rename.json'
+output_file_date='new_attack_sql_kg_qwen2_date.json'
+output_file_date_summary= 'new_attack_sql_kg_qwen2_date_summary.json'
 
-input_file_name='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_deepseek_wrong_rename.json'
-output_file_name='new_attack_sql_kg_deepseek_name.json'
-output_file_name_summary='new_attack_sql_kg_deepseek_name_summary.json'
+input_file_name='/home/NingyuanXiao/multi-agents/attack/new_wrong_answer_qwen2_wrong_rename.json'
+output_file_name='new_attack_sql_kg_qwen2_name.json'
+output_file_name_summary='new_attack_sql_kg_qwen2_name_summary.json'
 
-model_name='deepseek-r1:32b'
+model_name='qwen2'
 
 sql_kg_process_date_attack(input_file_date, output_file_date,model_name)
 sql_kg_process_name_attack(input_file_name, output_file_name,model_name)
