@@ -7,6 +7,7 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm.ollama import ollama_model_complete, ollama_embed
 from lightrag.utils import EmbeddingFunc, logger, set_verbose_debug
 from lightrag.kg.shared_storage import initialize_pipeline_status
+from requests.exceptions import ReadTimeout
 
 from dotenv import load_dotenv
 
@@ -91,7 +92,7 @@ async def initialize_rag():
         llm_model_kwargs={
             "host": os.getenv("LLM_BINDING_HOST", "http://localhost:11434"),
             "options": {"num_ctx": 32768},
-            "timeout": int(os.getenv("TIMEOUT", "600")),
+            "timeout": int(os.getenv("TIMEOUT", "1000")),
         },
         llm_model_max_async=16,
         # addon_params={'language': 'Simplified Chinese'},
@@ -173,7 +174,7 @@ async def main():
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
-        if rag:
+        if 'rag' in locals():
             await rag.llm_response_cache.index_done_callback()
             await rag.finalize_storages()
 
@@ -181,5 +182,11 @@ async def main():
 if __name__ == "__main__":
     # Configure logging before running the main function
     configure_logging()
-    asyncio.run(main())
-    print("\nDone!")
+
+    while True:  # 无限循环，确保程序在未成功完成时会重试
+        try:
+            asyncio.run(main())
+            print("\nDone!")  # 如果成功运行到这里，退出循环
+            break
+        except Exception as e:
+            print(f"An error occurred: {e}. Restarting the script...")

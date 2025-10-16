@@ -1,0 +1,2105 @@
+2025-10-15 07:07:43,927 - lightrag - INFO - Created new empty graph
+2025-10-15 07:07:43,931 - lightrag - INFO - Process 3971184 KV load full_docs with 0 records
+2025-10-15 07:07:43,931 - lightrag - INFO - Process 3971184 KV load text_chunks with 0 records
+2025-10-15 07:07:43,931 - lightrag - INFO - Process 3971184 KV load llm_response_cache with 0 records
+2025-10-15 07:07:43,931 - lightrag - INFO - Process 3971184 doc status load doc_status with 0 records
+2025-10-15 07:07:43,931 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:07:43,932 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 07:07:50,276 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 07:07:50,276 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 07:07:50,276 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 07:07:50,276 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 07:07:50,371 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:08:26,588 - lightrag - INFO -  == LLM cache == saving default: abbc2d79684c71cb181ae62f176b5077
+2025-10-15 07:08:42,735 - lightrag - INFO -  == LLM cache == saving default: e0103e94f69187b0656a7d7938d79333
+2025-10-15 07:09:06,051 - lightrag - INFO -  == LLM cache == saving default: 1e9c28d9c0c28ff920f678cb34dd9427
+2025-10-15 07:09:21,105 - lightrag - INFO -  == LLM cache == saving default: acddba522fe55407300d110b1783d076
+2025-10-15 07:09:36,733 - lightrag - INFO -  == LLM cache == saving default: 54870e21cce5ff354e61fcf15b80345b
+2025-10-15 07:09:51,851 - lightrag - INFO -  == LLM cache == saving default: 51e70ab09768138b706f99da99f2b1ae
+2025-10-15 07:10:07,233 - lightrag - INFO -  == LLM cache == saving default: c60d809f4599e45799fcfaf5463dc1d9
+2025-10-15 07:10:36,078 - lightrag - INFO -  == LLM cache == saving default: f813b0140d55cfb8da901bd343ae95c2
+2025-10-15 07:10:57,116 - lightrag - INFO -  == LLM cache == saving default: 5410b7ff330aac1efc858991b1cc5c67
+2025-10-15 07:11:15,753 - lightrag - INFO -  == LLM cache == saving default: 4b70fe278239c5feeb701b918f8c3a28
+2025-10-15 07:11:36,400 - lightrag - INFO -  == LLM cache == saving default: 8f8e3fa67be7f01bebd3c7cb486d2264
+2025-10-15 07:11:51,194 - lightrag - INFO -  == LLM cache == saving default: 4568de88b47287f3adf12e370f8750d5
+2025-10-15 07:12:09,287 - lightrag - INFO -  == LLM cache == saving default: 2a2f1e1ae4664a61b7b5e8d4848378e7
+2025-10-15 07:12:34,230 - lightrag - INFO -  == LLM cache == saving default: cce5e1846f428ce250ff74c9cd73ddc9
+2025-10-15 07:13:06,412 - lightrag - INFO -  == LLM cache == saving default: d3f5059ddc63c3bad77bab228aa59967
+2025-10-15 07:13:23,034 - lightrag - INFO -  == LLM cache == saving default: 997c2a527b9f0686ec55c826739a3290
+2025-10-15 07:14:09,718 - lightrag - INFO -  == LLM cache == saving default: 7b1f7b9f9b8a7fee2fd5efa4fba1eac8
+2025-10-15 07:14:09,721 - lightrag - INFO - Chunk 1 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 07:14:41,833 - lightrag - INFO -  == LLM cache == saving default: ce3843cfab6273c52ad5d6f372d74ff2
+2025-10-15 07:14:41,835 - lightrag - INFO - Chunk 2 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 07:15:13,628 - lightrag - INFO -  == LLM cache == saving default: 4e2816ba08b0833ec6347c0f873f6535
+2025-10-15 07:15:13,629 - lightrag - INFO - Chunk 3 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 07:15:45,504 - lightrag - INFO -  == LLM cache == saving default: 8100c11a26ff64ef026eba2e7a193cbb
+2025-10-15 07:15:45,506 - lightrag - INFO - Chunk 4 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 07:16:16,695 - lightrag - INFO -  == LLM cache == saving default: cb29c2d9710e0ca2e59f855c3081d610
+2025-10-15 07:16:16,697 - lightrag - INFO - Chunk 5 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 07:17:00,128 - lightrag - INFO -  == LLM cache == saving default: bea35571e843f7f1156e4168184fd42e
+2025-10-15 07:17:00,130 - lightrag - INFO - Chunk 6 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 07:17:50,013 - lightrag - INFO -  == LLM cache == saving default: 3120cb6bebf93cf82a82803ede0753a6
+2025-10-15 07:17:50,015 - lightrag - INFO - Chunk 7 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 07:18:44,973 - lightrag - INFO -  == LLM cache == saving default: 3076a04f1de2baacf38c368a6fc8e8ef
+2025-10-15 07:18:44,976 - lightrag - INFO - Chunk 8 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 07:19:10,916 - lightrag - INFO -  == LLM cache == saving default: 8b70e2d7635c3527a469ccd67fb5c3cd
+2025-10-15 07:19:10,917 - lightrag - INFO - Chunk 9 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 07:20:04,618 - lightrag - INFO -  == LLM cache == saving default: 29e1838ab91f51afc67d464905be779d
+2025-10-15 07:20:04,621 - lightrag - INFO - Chunk 10 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 07:20:45,905 - lightrag - INFO -  == LLM cache == saving default: d0421ef72f8a3dcd5b7a7b4cced0664c
+2025-10-15 07:20:45,907 - lightrag - INFO - Chunk 11 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 07:21:32,654 - lightrag - INFO -  == LLM cache == saving default: e4e5e3f26eb1aa2b99953fbe794a1b3c
+2025-10-15 07:21:32,656 - lightrag - INFO - Chunk 12 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 07:22:09,331 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 07:22:09,333 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 07:22:09,338 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 07:22:09,338 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 07:22:09,354 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 07:22:34,257 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 07:23:06,457 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 07:23:23,076 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 07:25:46,917 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 07:25:49,526 - lightrag - INFO - Created new empty graph
+2025-10-15 07:25:49,529 - lightrag - INFO - Process 13597 KV load full_docs with 0 records
+2025-10-15 07:25:49,530 - lightrag - INFO - Process 13597 KV load text_chunks with 0 records
+2025-10-15 07:25:49,533 - lightrag - INFO - Process 13597 KV load llm_response_cache with 28 records
+2025-10-15 07:25:49,533 - lightrag - INFO - Process 13597 doc status load doc_status with 0 records
+2025-10-15 07:25:49,533 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:25:49,534 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 07:25:53,468 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 07:25:53,468 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 07:25:53,468 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 07:25:53,468 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 07:25:53,549 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:25:53,551 - lightrag - INFO - Chunk 1 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 07:25:53,553 - lightrag - INFO - Chunk 2 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 07:25:53,554 - lightrag - INFO - Chunk 3 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 07:25:53,555 - lightrag - INFO - Chunk 4 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 07:25:53,556 - lightrag - INFO - Chunk 5 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 07:25:53,557 - lightrag - INFO - Chunk 6 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 07:25:53,558 - lightrag - INFO - Chunk 7 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 07:25:53,560 - lightrag - INFO - Chunk 8 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 07:25:53,561 - lightrag - INFO - Chunk 9 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 07:25:53,562 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 07:25:53,563 - lightrag - INFO - Chunk 11 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 07:25:53,564 - lightrag - INFO - Chunk 12 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 07:26:10,081 - lightrag - INFO -  == LLM cache == saving default: 4849fd536f185ec6a0766b523fbbd1ce
+2025-10-15 07:26:20,977 - lightrag - INFO -  == LLM cache == saving default: d33478d25501d9bea803e2f37d3fd2b1
+2025-10-15 07:26:33,133 - lightrag - INFO -  == LLM cache == saving default: cc120123da359dc3315e6cff19c4a0ed
+2025-10-15 07:26:51,444 - lightrag - INFO -  == LLM cache == saving default: 8c281780d4d03d5c789689f837c77357
+2025-10-15 07:27:01,054 - lightrag - INFO -  == LLM cache == saving default: 7a1ca6dac4376e25a88a7649ad9bf659
+2025-10-15 07:27:23,021 - lightrag - INFO -  == LLM cache == saving default: 8db304973cbb463a952ca79426c25531
+2025-10-15 07:27:54,655 - lightrag - INFO -  == LLM cache == saving default: baccd3a229edf17236b5d927e580469b
+2025-10-15 07:27:54,656 - lightrag - INFO - Chunk 13 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 07:28:10,805 - lightrag - INFO -  == LLM cache == saving default: 345172b4b43d0c42148c69bb3820cf1e
+2025-10-15 07:28:24,042 - lightrag - INFO -  == LLM cache == saving default: 134bcb202a7607533fc37c66b19f7015
+2025-10-15 07:28:46,298 - lightrag - INFO -  == LLM cache == saving default: e5da16e43b5b5593b65c2beb6102ac35
+2025-10-15 07:29:07,095 - lightrag - INFO -  == LLM cache == saving default: 6d2ecbae5cf639c06f5096ebd4a7fd83
+2025-10-15 07:29:23,483 - lightrag - INFO -  == LLM cache == saving default: 1c4bb2cab6bab44d6fa1ea757941766c
+2025-10-15 07:29:27,986 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 07:29:28,781 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 07:31:09,692 - lightrag - INFO - Created new empty graph
+2025-10-15 07:31:09,697 - lightrag - INFO - Process 65687 KV load full_docs with 0 records
+2025-10-15 07:31:09,697 - lightrag - INFO - Process 65687 KV load text_chunks with 0 records
+2025-10-15 07:31:09,702 - lightrag - INFO - Process 65687 KV load llm_response_cache with 40 records
+2025-10-15 07:31:09,702 - lightrag - INFO - Process 65687 doc status load doc_status with 0 records
+2025-10-15 07:31:09,702 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:31:09,702 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 07:31:13,640 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 07:31:13,640 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 07:31:13,641 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 07:31:13,642 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 07:31:13,726 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 07:31:13,727 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:31:13,728 - lightrag - INFO - Chunk 2 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 07:31:13,730 - lightrag - INFO - Chunk 3 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 07:31:13,731 - lightrag - INFO - Chunk 4 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 07:31:13,732 - lightrag - INFO - Chunk 5 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 07:31:13,733 - lightrag - INFO - Chunk 6 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 07:31:13,734 - lightrag - INFO - Chunk 7 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 07:31:13,736 - lightrag - INFO - Chunk 8 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 07:31:13,738 - lightrag - INFO - Chunk 9 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 07:31:13,739 - lightrag - INFO - Chunk 10 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 07:31:13,740 - lightrag - INFO - Chunk 11 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 07:31:13,742 - lightrag - INFO - Chunk 12 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 07:31:13,743 - lightrag - INFO - Chunk 13 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 07:32:03,675 - lightrag - INFO -  == LLM cache == saving default: 33cb6ed7da624f994592d7e5301b1ec8
+2025-10-15 07:32:03,678 - lightrag - INFO - Chunk 14 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 07:32:54,205 - lightrag - INFO -  == LLM cache == saving default: 99d5b5c0c8e5c7c0b563f55d60f49d56
+2025-10-15 07:32:54,207 - lightrag - INFO - Chunk 15 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 07:33:05,598 - lightrag - INFO -  == LLM cache == saving default: e513e8d773cb3a90290136387d2fe3ef
+2025-10-15 07:34:00,418 - lightrag - INFO -  == LLM cache == saving default: 0b722d5dabffcbb6fd7ec4278b26b7f4
+2025-10-15 07:34:00,421 - lightrag - INFO - Chunk 16 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 07:34:34,557 - lightrag - INFO -  == LLM cache == saving default: 26a758227db1e3cb1bc57e98e1037202
+2025-10-15 07:34:34,559 - lightrag - INFO - Chunk 17 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 07:35:38,795 - lightrag - INFO -  == LLM cache == saving default: 066345eeb843cb9609d069a91e57beef
+2025-10-15 07:35:38,798 - lightrag - INFO - Chunk 18 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 07:35:58,020 - lightrag - INFO -  == LLM cache == saving default: 69ff45663586f288e60df2117f564bec
+2025-10-15 07:36:30,194 - lightrag - INFO -  == LLM cache == saving default: d3f97c6935aa3b5a30220cfe67747f48
+2025-10-15 07:36:30,196 - lightrag - INFO - Chunk 19 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:37:06,217 - lightrag - INFO -  == LLM cache == saving default: 5a0cd9adc0e3752ff8d54c71c1f6ae52
+2025-10-15 07:37:06,219 - lightrag - INFO - Chunk 20 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:37:58,314 - lightrag - INFO -  == LLM cache == saving default: 90b2f53c47b1860552a3bce9521ce038
+2025-10-15 07:37:58,316 - lightrag - INFO - Chunk 21 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 07:38:52,859 - lightrag - INFO -  == LLM cache == saving default: 18db463ca13c331c2496e8802f50c9d8
+2025-10-15 07:38:52,862 - lightrag - INFO - Chunk 22 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 07:39:43,808 - lightrag - INFO -  == LLM cache == saving default: d36567ebb38a737ebeffae17cb27dcb6
+2025-10-15 07:39:43,810 - lightrag - INFO - Chunk 23 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 07:40:06,176 - lightrag - INFO -  == LLM cache == saving default: 32051d0bc954b70f6b5543af17543a80
+2025-10-15 07:40:06,178 - lightrag - INFO - Chunk 24 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 07:40:49,978 - lightrag - INFO -  == LLM cache == saving default: c1a67a6627ef000ca5f1c720dc7d765e
+2025-10-15 07:40:49,981 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 07:41:10,849 - lightrag - INFO -  == LLM cache == saving default: c69d55eacfbc35f093607fa0c88c1eb6
+2025-10-15 07:41:10,850 - lightrag - INFO - Chunk 26 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 07:41:14,101 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 07:41:14,104 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 07:41:14,109 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 07:41:14,109 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 07:41:14,137 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 07:47:42,776 - lightrag - INFO -  == LLM cache == saving global: ac2fc34a4f47a4b40ed15a4e47c065c0
+2025-10-15 07:47:42,777 - lightrag - INFO - Process 65687 building query context...
+2025-10-15 07:47:42,777 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 07:47:46,775 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 07:48:41,662 - lightrag - INFO - Created new empty graph
+2025-10-15 07:48:41,667 - lightrag - INFO - Process 220758 KV load full_docs with 0 records
+2025-10-15 07:48:41,667 - lightrag - INFO - Process 220758 KV load text_chunks with 0 records
+2025-10-15 07:48:41,673 - lightrag - INFO - Process 220758 KV load llm_response_cache with 56 records
+2025-10-15 07:48:41,674 - lightrag - INFO - Process 220758 doc status load doc_status with 0 records
+2025-10-15 07:48:41,674 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:48:41,674 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 07:48:41,786 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 07:48:41,787 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 07:48:41,787 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 07:48:41,787 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 07:48:41,868 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 07:48:41,869 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 07:48:41,871 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 07:48:41,871 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:48:41,872 - lightrag - INFO - Chunk 4 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 07:48:41,874 - lightrag - INFO - Chunk 5 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 07:48:41,874 - lightrag - INFO - Chunk 6 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 07:48:41,876 - lightrag - INFO - Chunk 7 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 07:48:41,878 - lightrag - INFO - Chunk 8 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 07:48:41,879 - lightrag - INFO - Chunk 9 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 07:48:41,880 - lightrag - INFO - Chunk 10 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 07:48:41,881 - lightrag - INFO - Chunk 11 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 07:48:41,882 - lightrag - INFO - Chunk 12 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 07:48:41,884 - lightrag - INFO - Chunk 13 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 07:48:41,885 - lightrag - INFO - Chunk 14 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 07:48:41,886 - lightrag - INFO - Chunk 15 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 07:48:41,888 - lightrag - INFO - Chunk 16 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 07:48:41,889 - lightrag - INFO - Chunk 17 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 07:48:41,890 - lightrag - INFO - Chunk 18 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 07:48:41,891 - lightrag - INFO - Chunk 19 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:48:41,892 - lightrag - INFO - Chunk 20 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:48:41,893 - lightrag - INFO - Chunk 21 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 07:48:41,894 - lightrag - INFO - Chunk 22 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 07:48:41,895 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 07:48:41,896 - lightrag - INFO - Chunk 24 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 07:48:41,897 - lightrag - INFO - Chunk 25 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 07:48:41,898 - lightrag - INFO - Chunk 26 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 07:48:59,807 - lightrag - INFO -  == LLM cache == saving default: af5f4ca626ba366fb58571ccbd8e3537
+2025-10-15 07:49:24,275 - lightrag - INFO -  == LLM cache == saving default: 1833deb96d1cf62d439fb808d147ccd8
+2025-10-15 07:49:54,798 - lightrag - INFO -  == LLM cache == saving default: 02eed2bcd15a560da2a50745ceae76c7
+2025-10-15 07:50:15,574 - lightrag - INFO -  == LLM cache == saving default: c4f3f46370f5e666df0868799b0fa532
+2025-10-15 07:50:34,143 - lightrag - INFO -  == LLM cache == saving default: eeaf98801b8db2d491af5b58eb93a37e
+2025-10-15 07:50:52,201 - lightrag - INFO -  == LLM cache == saving default: 211dd9bfb4d07f2593cbf932fbeefbf3
+2025-10-15 07:51:41,444 - lightrag - INFO -  == LLM cache == saving default: 9d4abfaf644699c63519763728909db1
+2025-10-15 07:51:41,446 - lightrag - INFO - Chunk 27 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 07:52:19,692 - lightrag - INFO -  == LLM cache == saving default: 4ed090261b1ba4e3e882cf1698ea4996
+2025-10-15 07:52:53,268 - lightrag - INFO -  == LLM cache == saving default: 3d463ff30df03f8c2808d7dcaec93e16
+2025-10-15 07:53:19,514 - lightrag - INFO -  == LLM cache == saving default: d965ec632974f805e3336d8cb3071418
+2025-10-15 07:53:38,344 - lightrag - INFO -  == LLM cache == saving default: 95d4f93a907bf244f2b6521d9dfe074c
+2025-10-15 07:53:54,929 - lightrag - INFO -  == LLM cache == saving default: 69320dfff34198fd012407c9a14669af
+2025-10-15 07:54:08,071 - lightrag - INFO -  == LLM cache == saving default: 5d837c7c8ea2bc7cf9ecc281584c6fcf
+2025-10-15 07:54:53,319 - lightrag - INFO -  == LLM cache == saving default: 01805e4cfd8798fe5cb44939e19681ce
+2025-10-15 07:54:53,321 - lightrag - INFO - Chunk 28 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 07:55:20,693 - lightrag - INFO -  == LLM cache == saving default: ef628e843c5e98c415d067493c619b84
+2025-10-15 07:55:56,711 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 07:55:57,618 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 07:56:15,964 - lightrag - INFO - Created new empty graph
+2025-10-15 07:56:15,969 - lightrag - INFO - Process 275030 KV load full_docs with 0 records
+2025-10-15 07:56:15,969 - lightrag - INFO - Process 275030 KV load text_chunks with 0 records
+2025-10-15 07:56:15,978 - lightrag - INFO - Process 275030 KV load llm_response_cache with 71 records
+2025-10-15 07:56:15,978 - lightrag - INFO - Process 275030 doc status load doc_status with 0 records
+2025-10-15 07:56:15,978 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:56:15,978 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 07:56:19,851 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 07:56:19,853 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 07:56:19,853 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 07:56:19,854 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 07:56:19,942 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 07:56:19,944 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 07:56:19,945 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 07:56:19,946 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 07:56:19,947 - lightrag - INFO - Chunk 4 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 07:56:19,948 - lightrag - INFO - Chunk 5 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 07:56:19,949 - lightrag - INFO - Chunk 6 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 07:56:19,950 - lightrag - INFO - Chunk 7 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 07:56:19,953 - lightrag - INFO - Chunk 8 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 07:56:19,954 - lightrag - INFO - Chunk 9 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 07:56:19,956 - lightrag - INFO - Chunk 10 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 07:56:19,957 - lightrag - INFO - Chunk 11 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 07:56:19,958 - lightrag - INFO - Chunk 12 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 07:56:19,960 - lightrag - INFO - Chunk 13 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 07:56:19,961 - lightrag - INFO - Chunk 14 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 07:56:19,962 - lightrag - INFO - Chunk 15 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 07:56:19,963 - lightrag - INFO - Chunk 16 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 07:56:19,965 - lightrag - INFO - Chunk 17 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 07:56:19,966 - lightrag - INFO - Chunk 18 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 07:56:19,967 - lightrag - INFO - Chunk 19 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 07:56:19,968 - lightrag - INFO - Chunk 20 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:56:19,969 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 07:56:19,970 - lightrag - INFO - Chunk 22 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 07:56:19,971 - lightrag - INFO - Chunk 23 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 07:56:19,972 - lightrag - INFO - Chunk 24 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 07:56:19,973 - lightrag - INFO - Chunk 25 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 07:56:19,974 - lightrag - INFO - Chunk 26 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 07:56:19,975 - lightrag - INFO - Chunk 27 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 07:56:19,977 - lightrag - INFO - Chunk 28 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 07:57:01,967 - lightrag - INFO -  == LLM cache == saving default: 61cb578b1e080d919d5fb8f6e2bedadd
+2025-10-15 07:57:01,969 - lightrag - INFO - Chunk 29 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 07:57:48,952 - lightrag - INFO -  == LLM cache == saving default: f948e486fe3a15fe14b647bc2abca57e
+2025-10-15 07:57:48,954 - lightrag - INFO - Chunk 30 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 07:58:15,477 - lightrag - INFO -  == LLM cache == saving default: 69af64af05c65a29e496b1299f160928
+2025-10-15 07:58:31,293 - lightrag - INFO -  == LLM cache == saving default: 9bb83ad590d90aae5053a0f0f7959cc9
+2025-10-15 07:58:56,258 - lightrag - INFO -  == LLM cache == saving default: fbee62ea0a66e1d4f9e010a60397e8b1
+2025-10-15 07:58:56,259 - lightrag - INFO - Chunk 31 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 08:00:00,428 - lightrag - INFO -  == LLM cache == saving default: baf7df500c91c9f165ff6c9c685fbf67
+2025-10-15 08:00:00,431 - lightrag - INFO - Chunk 32 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 08:00:52,674 - lightrag - INFO -  == LLM cache == saving default: 172fb649b27fdfdbddbebe03686b055b
+2025-10-15 08:00:52,677 - lightrag - INFO - Chunk 33 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 08:01:32,265 - lightrag - INFO -  == LLM cache == saving default: ad72e9e07a6997632090fb71539c6d21
+2025-10-15 08:01:32,267 - lightrag - INFO - Chunk 34 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 08:02:11,051 - lightrag - INFO -  == LLM cache == saving default: e1cfe38600c8761c18b7684b1119594b
+2025-10-15 08:02:11,053 - lightrag - INFO - Chunk 35 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 08:03:41,729 - lightrag - INFO -  == LLM cache == saving default: a304ff642a9823b340c85204867f2987
+2025-10-15 08:03:41,745 - lightrag - INFO - Chunk 36 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 08:04:27,204 - lightrag - INFO -  == LLM cache == saving default: aaefc72a6b5b498cf40de6b54008d348
+2025-10-15 08:04:27,207 - lightrag - INFO - Chunk 37 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 08:05:02,717 - lightrag - INFO -  == LLM cache == saving default: 2f4bf22ff7a9221a48e02aec22e8e520
+2025-10-15 08:05:02,718 - lightrag - INFO - Chunk 38 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 08:05:46,093 - lightrag - INFO -  == LLM cache == saving default: 484907e9796872e2adf0dd8d0627d9b5
+2025-10-15 08:05:46,095 - lightrag - INFO - Chunk 39 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 08:06:20,355 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 08:06:20,355 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 08:06:20,356 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 08:06:20,363 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 08:06:20,368 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 08:06:20,368 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 08:06:20,404 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 08:06:20,405 - lightrag - INFO - Process 275030 building query context...
+2025-10-15 08:06:20,406 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 10:02:12,367 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:02:15,932 - lightrag - INFO - Created new empty graph
+2025-10-15 10:02:15,937 - lightrag - INFO - Process 1074674 KV load full_docs with 0 records
+2025-10-15 10:02:15,937 - lightrag - INFO - Process 1074674 KV load text_chunks with 0 records
+2025-10-15 10:02:15,948 - lightrag - INFO - Process 1074674 KV load llm_response_cache with 84 records
+2025-10-15 10:02:15,948 - lightrag - INFO - Process 1074674 doc status load doc_status with 0 records
+2025-10-15 10:02:15,948 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:02:15,948 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:02:20,013 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:02:20,014 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:02:20,014 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:02:20,014 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:02:20,116 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:02:20,118 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:02:20,119 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:02:20,121 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:02:20,122 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:02:20,123 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:02:20,124 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:02:20,125 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:02:20,128 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:02:20,129 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:02:20,130 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:02:20,131 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:02:20,132 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:02:20,134 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:02:20,135 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:02:20,136 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:02:20,137 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:02:20,139 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:02:20,140 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:02:20,141 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:02:20,142 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:02:20,143 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:02:20,144 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:02:20,145 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:02:20,146 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:02:20,147 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:02:20,147 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:02:20,149 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:02:20,150 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:02:20,151 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:02:20,152 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:02:20,153 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:02:20,154 - lightrag - INFO - Chunk 32 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:02:20,156 - lightrag - INFO - Chunk 33 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:02:20,157 - lightrag - INFO - Chunk 34 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:02:20,159 - lightrag - INFO - Chunk 35 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:02:20,160 - lightrag - INFO - Chunk 36 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:02:20,162 - lightrag - INFO - Chunk 37 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:02:20,163 - lightrag - INFO - Chunk 38 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:02:20,164 - lightrag - INFO - Chunk 39 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:02:45,334 - lightrag - INFO -  == LLM cache == saving default: ad5b99bffcde1abf19267fd56c8e8596
+2025-10-15 10:03:08,978 - lightrag - INFO -  == LLM cache == saving default: d71c041d03627520be8d044c277fb206
+2025-10-15 10:03:19,811 - lightrag - INFO -  == LLM cache == saving default: 9d3fd5b41bcee3734f5d0d45d846bb51
+2025-10-15 10:03:35,953 - lightrag - INFO -  == LLM cache == saving default: 49be2bacdf14a3b546913c8f74cde228
+2025-10-15 10:04:01,734 - lightrag - INFO -  == LLM cache == saving default: 4f96299974d27dbe487e5de01e7d8362
+2025-10-15 10:04:18,201 - lightrag - INFO -  == LLM cache == saving default: d593f18c7a6cdae68239bf9ef83377a4
+2025-10-15 10:04:37,334 - lightrag - INFO -  == LLM cache == saving default: 9682b3fd0ef7a599a10f1d2a5591c184
+2025-10-15 10:04:50,480 - lightrag - INFO -  == LLM cache == saving default: 4b76b828693398ddf5a87cb510ee5692
+2025-10-15 10:05:08,226 - lightrag - INFO -  == LLM cache == saving default: e3efbff86a165ba954ea76c1bab54023
+2025-10-15 10:05:23,241 - lightrag - INFO -  == LLM cache == saving default: 9c2b8268730087d310faf40917cf76db
+2025-10-15 10:05:56,682 - lightrag - INFO -  == LLM cache == saving default: d789f1ab8d27d69842c640e57927e05c
+2025-10-15 10:06:27,417 - lightrag - INFO -  == LLM cache == saving default: 1fa8047e7b7d0703c034d5b5a49e6962
+2025-10-15 10:06:27,419 - lightrag - INFO - Chunk 40 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:07:18,242 - lightrag - INFO -  == LLM cache == saving default: c3e74c853504f0ba7ec6e4d9a8f9a684
+2025-10-15 10:07:18,243 - lightrag - INFO - Chunk 41 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:08:08,846 - lightrag - INFO -  == LLM cache == saving default: 9a991734bc9b169129a9850a3146e92d
+2025-10-15 10:08:08,848 - lightrag - INFO - Chunk 42 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:08:50,258 - lightrag - INFO -  == LLM cache == saving default: 61f83369a1b3ae0d643be249398d3713
+2025-10-15 10:08:50,260 - lightrag - INFO - Chunk 43 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:09:22,492 - lightrag - INFO -  == LLM cache == saving default: 92c82d272c6b63de8363a78de4baab48
+2025-10-15 10:09:22,494 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:10:09,964 - lightrag - INFO -  == LLM cache == saving default: f70812f5bd60c82b9b482753c1e4671e
+2025-10-15 10:10:09,966 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:10:53,112 - lightrag - INFO -  == LLM cache == saving default: 08c76467d7712f3e98bcb61b55fe89d9
+2025-10-15 10:10:53,115 - lightrag - INFO - Chunk 46 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:11:24,241 - lightrag - INFO -  == LLM cache == saving default: 62d4e1aa38e5a45623241a2879a501c6
+2025-10-15 10:11:24,242 - lightrag - INFO - Chunk 47 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:12:19,398 - lightrag - INFO -  == LLM cache == saving default: 159815bbab276f354a9a3c2faaf087dc
+2025-10-15 10:12:19,401 - lightrag - INFO - Chunk 48 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:13:14,951 - lightrag - INFO -  == LLM cache == saving default: db47cb1bb861014b15995fd243430961
+2025-10-15 10:13:14,954 - lightrag - INFO - Chunk 49 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:14:15,096 - lightrag - INFO -  == LLM cache == saving default: a0a653d54fc6158af313bcbe7e679103
+2025-10-15 10:14:15,099 - lightrag - INFO - Chunk 50 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:14:37,380 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:14:37,382 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 10:14:37,388 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 10:14:37,388 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 10:14:37,433 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 10:14:37,433 - lightrag - INFO - Process 1074674 building query context...
+2025-10-15 10:14:37,433 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 10:16:11,200 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:16:28,435 - lightrag - INFO - Created new empty graph
+2025-10-15 10:16:28,440 - lightrag - INFO - Process 1201252 KV load full_docs with 0 records
+2025-10-15 10:16:28,440 - lightrag - INFO - Process 1201252 KV load text_chunks with 0 records
+2025-10-15 10:16:28,453 - lightrag - INFO - Process 1201252 KV load llm_response_cache with 106 records
+2025-10-15 10:16:28,453 - lightrag - INFO - Process 1201252 doc status load doc_status with 0 records
+2025-10-15 10:16:28,454 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:16:28,454 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:16:28,564 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:16:28,564 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:16:28,564 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:16:28,564 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:16:28,643 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:16:28,645 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:16:28,646 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:16:28,648 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:16:28,649 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:16:28,650 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:16:28,651 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:16:28,652 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:16:28,654 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:16:28,655 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:16:28,657 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:16:28,658 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:16:28,659 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:16:28,661 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:16:28,662 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:16:28,663 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:16:28,664 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:16:28,665 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:16:28,667 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:16:28,667 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:16:28,668 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:16:28,669 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:16:28,671 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:16:28,671 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:16:28,673 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:16:28,674 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:16:28,674 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:16:28,676 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:16:28,677 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:16:28,678 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:16:28,679 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:16:28,681 - lightrag - INFO - Chunk 32 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:16:28,682 - lightrag - INFO - Chunk 33 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:16:28,684 - lightrag - INFO - Chunk 34 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:16:28,685 - lightrag - INFO - Chunk 35 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:16:28,686 - lightrag - INFO - Chunk 36 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:16:28,687 - lightrag - INFO - Chunk 37 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:16:28,688 - lightrag - INFO - Chunk 38 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:16:28,689 - lightrag - INFO - Chunk 39 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:16:28,691 - lightrag - INFO - Chunk 40 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:16:28,692 - lightrag - INFO - Chunk 41 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:16:28,693 - lightrag - INFO - Chunk 42 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:16:28,694 - lightrag - INFO - Chunk 43 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:16:28,695 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:16:28,697 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:16:28,698 - lightrag - INFO - Chunk 46 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:16:28,699 - lightrag - INFO - Chunk 47 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:16:28,700 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:16:28,702 - lightrag - INFO - Chunk 48 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:16:28,703 - lightrag - INFO - Chunk 49 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:16:28,705 - lightrag - INFO - Chunk 50 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:16:44,812 - lightrag - INFO -  == LLM cache == saving default: 5e95a82c9938262289f0ae63291d6830
+2025-10-15 10:17:01,470 - lightrag - INFO -  == LLM cache == saving default: b00c21c64061059e6728643441a49bb8
+2025-10-15 10:17:33,718 - lightrag - INFO -  == LLM cache == saving default: bd433792a0aed216a669251264593b57
+2025-10-15 10:17:33,720 - lightrag - INFO - Chunk 51 of 143 extracted 16 Ent + 8 Rel
+2025-10-15 10:17:48,081 - lightrag - INFO -  == LLM cache == saving default: 39303f95d9235712f32b01d4e77e1bfa
+2025-10-15 10:18:01,809 - lightrag - INFO -  == LLM cache == saving default: c421c3916766fd042649abe746e498e3
+2025-10-15 10:18:20,410 - lightrag - INFO -  == LLM cache == saving default: a471e8e653645ca46dfab146b84cad20
+2025-10-15 10:18:37,569 - lightrag - INFO -  == LLM cache == saving default: 2b2eeb503ced9dff75c69f0e4113a567
+2025-10-15 10:19:21,653 - lightrag - INFO -  == LLM cache == saving default: 91392f4e9c66404d18da7a7c506e907a
+2025-10-15 10:19:21,656 - lightrag - INFO - Chunk 52 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 10:19:31,733 - lightrag - INFO -  == LLM cache == saving default: 4cb722dab2fe4bbb1aceaacac735838e
+2025-10-15 10:19:47,470 - lightrag - INFO -  == LLM cache == saving default: 1eabe0c39243662db9e5fbaa3bf08e68
+2025-10-15 10:20:02,665 - lightrag - INFO -  == LLM cache == saving default: 949173716bf1a182d59a780302a99a39
+2025-10-15 10:20:20,053 - lightrag - INFO -  == LLM cache == saving default: e68c165f4d9925120c74119a5be83e25
+2025-10-15 10:20:43,455 - lightrag - INFO -  == LLM cache == saving default: f2316a1fca73a1ef6773b47385438f0c
+2025-10-15 10:21:29,053 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:21:29,054 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:21:29,054 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:21:29,060 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 10:21:29,065 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 10:21:29,065 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 10:21:29,105 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 10:21:29,105 - lightrag - INFO - Process 1201252 building query context...
+2025-10-15 10:21:29,105 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 10:22:55,916 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:22:57,533 - lightrag - INFO - Created new empty graph
+2025-10-15 10:22:57,537 - lightrag - INFO - Process 1263186 KV load full_docs with 0 records
+2025-10-15 10:22:57,538 - lightrag - INFO - Process 1263186 KV load text_chunks with 0 records
+2025-10-15 10:22:57,552 - lightrag - INFO - Process 1263186 KV load llm_response_cache with 119 records
+2025-10-15 10:22:57,552 - lightrag - INFO - Process 1263186 doc status load doc_status with 0 records
+2025-10-15 10:22:57,552 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:22:57,553 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:22:57,642 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:22:57,642 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:22:57,642 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:22:57,642 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:22:57,727 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:22:57,728 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:22:57,730 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:22:57,732 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:22:57,733 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:22:57,734 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:22:57,735 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:22:57,736 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:22:57,738 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:22:57,739 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:22:57,741 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:22:57,742 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:22:57,743 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:22:57,745 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:22:57,746 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:22:57,747 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:22:57,748 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:22:57,749 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:22:57,751 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:22:57,751 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:22:57,752 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:22:57,753 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:22:57,754 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:22:57,755 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:22:57,756 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:22:57,758 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:22:57,758 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:22:57,759 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:22:57,761 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:22:57,762 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:22:57,763 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:22:57,765 - lightrag - INFO - Chunk 32 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:22:57,766 - lightrag - INFO - Chunk 33 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:22:57,768 - lightrag - INFO - Chunk 34 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:22:57,769 - lightrag - INFO - Chunk 35 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:22:57,770 - lightrag - INFO - Chunk 36 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:22:57,771 - lightrag - INFO - Chunk 37 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:22:57,772 - lightrag - INFO - Chunk 38 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:22:57,773 - lightrag - INFO - Chunk 39 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:22:57,775 - lightrag - INFO - Chunk 40 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:22:57,776 - lightrag - INFO - Chunk 41 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:22:57,777 - lightrag - INFO - Chunk 42 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:22:57,778 - lightrag - INFO - Chunk 43 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:22:57,779 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:22:57,781 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:22:57,782 - lightrag - INFO - Chunk 46 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:22:57,783 - lightrag - INFO - Chunk 47 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:22:57,784 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:22:57,786 - lightrag - INFO - Chunk 48 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:22:57,787 - lightrag - INFO - Chunk 49 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:22:57,788 - lightrag - INFO - Chunk 50 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 10:22:57,790 - lightrag - INFO - Chunk 51 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:22:57,791 - lightrag - INFO - Chunk 52 of 143 extracted 16 Ent + 8 Rel
+2025-10-15 10:23:46,016 - lightrag - INFO -  == LLM cache == saving default: 900ec3247d0cfb2c97e66a1024330fea
+2025-10-15 10:24:38,027 - lightrag - INFO -  == LLM cache == saving default: 1836863f64c0a2c865a993719294abb6
+2025-10-15 10:24:38,029 - lightrag - INFO - Chunk 53 of 143 extracted 18 Ent + 14 Rel
+2025-10-15 10:25:06,543 - lightrag - INFO -  == LLM cache == saving default: a5a739c5c981f5708492a07c3b2297bd
+2025-10-15 10:25:48,221 - lightrag - INFO -  == LLM cache == saving default: 78f6d5f28412fd474f02b8951f47a185
+2025-10-15 10:25:48,223 - lightrag - INFO - Chunk 54 of 143 extracted 17 Ent + 16 Rel
+2025-10-15 10:26:34,993 - lightrag - INFO -  == LLM cache == saving default: 41aef0b66a6fc6fc43ceb7f8d0fa9392
+2025-10-15 10:26:34,995 - lightrag - INFO - Chunk 55 of 143 extracted 20 Ent + 11 Rel
+2025-10-15 10:27:17,117 - lightrag - INFO -  == LLM cache == saving default: 8b93bb03ca17f95129464024af9d6cb8
+2025-10-15 10:27:17,120 - lightrag - INFO - Chunk 56 of 143 extracted 34 Ent + 8 Rel
+2025-10-15 10:27:58,155 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,156 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,156 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,157 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,157 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,158 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,158 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,159 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,164 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,165 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:27:58,166 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 10:27:58,171 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 10:27:58,172 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 10:27:58,212 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 10:27:58,212 - lightrag - INFO - Process 1263186 building query context...
+2025-10-15 10:27:58,212 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 10:31:10,554 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:34:36,603 - lightrag - INFO - Created new empty graph
+2025-10-15 10:34:36,608 - lightrag - INFO - Process 1381961 KV load full_docs with 0 records
+2025-10-15 10:34:36,608 - lightrag - INFO - Process 1381961 KV load text_chunks with 0 records
+2025-10-15 10:34:36,623 - lightrag - INFO - Process 1381961 KV load llm_response_cache with 125 records
+2025-10-15 10:34:36,623 - lightrag - INFO - Process 1381961 doc status load doc_status with 0 records
+2025-10-15 10:34:36,624 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:34:36,624 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:34:40,287 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:34:40,287 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:34:40,288 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:34:40,288 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:34:40,371 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:34:40,372 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:34:40,374 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:34:40,376 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:34:40,377 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:34:40,378 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:34:40,379 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:34:40,380 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:34:40,382 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:34:40,384 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:34:40,385 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:34:40,386 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:34:40,387 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:34:40,389 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:34:40,390 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:34:40,391 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:34:40,392 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:34:40,394 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:34:40,395 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:34:40,396 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:34:40,397 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:34:40,398 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:34:40,399 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:34:40,400 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:34:40,401 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:34:40,402 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:34:40,403 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:34:40,404 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:34:40,405 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:34:40,406 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:34:40,407 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:34:40,409 - lightrag - INFO - Chunk 32 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:34:40,410 - lightrag - INFO - Chunk 33 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:34:40,412 - lightrag - INFO - Chunk 34 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:34:40,413 - lightrag - INFO - Chunk 35 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:34:40,414 - lightrag - INFO - Chunk 36 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:34:40,415 - lightrag - INFO - Chunk 37 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:34:40,416 - lightrag - INFO - Chunk 38 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:34:40,418 - lightrag - INFO - Chunk 39 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:34:40,419 - lightrag - INFO - Chunk 40 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:34:40,420 - lightrag - INFO - Chunk 41 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:34:40,421 - lightrag - INFO - Chunk 42 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:34:40,423 - lightrag - INFO - Chunk 43 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:34:40,424 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:34:40,425 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:34:40,426 - lightrag - INFO - Chunk 46 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:34:40,428 - lightrag - INFO - Chunk 47 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:34:40,429 - lightrag - INFO - Chunk 48 of 143 extracted 34 Ent + 8 Rel
+2025-10-15 10:34:40,429 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:34:40,431 - lightrag - INFO - Chunk 49 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:34:40,433 - lightrag - INFO - Chunk 50 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:34:40,435 - lightrag - INFO - Chunk 51 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 10:34:40,436 - lightrag - INFO - Chunk 52 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:34:40,437 - lightrag - INFO - Chunk 53 of 143 extracted 16 Ent + 8 Rel
+2025-10-15 10:34:40,438 - lightrag - INFO - Chunk 54 of 143 extracted 17 Ent + 16 Rel
+2025-10-15 10:34:40,441 - lightrag - INFO - Chunk 55 of 143 extracted 20 Ent + 11 Rel
+2025-10-15 10:34:40,443 - lightrag - INFO - Chunk 56 of 143 extracted 18 Ent + 14 Rel
+2025-10-15 10:35:04,963 - lightrag - INFO -  == LLM cache == saving default: 5fe1b45e30a489c3dfa0be018b243c28
+2025-10-15 10:35:25,525 - lightrag - INFO -  == LLM cache == saving default: f50e79f82783539416c5ee1736919f1b
+2025-10-15 10:35:43,109 - lightrag - INFO -  == LLM cache == saving default: 69a49329712913c185b51528c3b192e5
+2025-10-15 10:35:57,422 - lightrag - INFO -  == LLM cache == saving default: f6319fa59e5e557300d09b74d71539ad
+2025-10-15 10:36:44,770 - lightrag - INFO -  == LLM cache == saving default: 5dd9378210e7438a91eae2f617a09e35
+2025-10-15 10:36:44,772 - lightrag - INFO - Chunk 57 of 143 extracted 21 Ent + 16 Rel
+2025-10-15 10:37:31,327 - lightrag - INFO -  == LLM cache == saving default: 5279135ac11e8b53a3d137c4c8a2030d
+2025-10-15 10:37:31,330 - lightrag - INFO - Chunk 58 of 143 extracted 23 Ent + 11 Rel
+2025-10-15 10:38:29,417 - lightrag - INFO -  == LLM cache == saving default: 0e8ff0d30dd79631cda92679cea3be5d
+2025-10-15 10:38:29,419 - lightrag - INFO - Chunk 59 of 143 extracted 22 Ent + 38 Rel
+2025-10-15 10:39:13,122 - lightrag - INFO -  == LLM cache == saving default: 2628f061e41f6f4b86a893f19e0d3e88
+2025-10-15 10:39:13,124 - lightrag - INFO - Chunk 60 of 143 extracted 19 Ent + 15 Rel
+2025-10-15 10:39:40,801 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,802 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,802 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,806 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,807 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,808 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,808 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,809 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-10-15 10:39:40,811 - lightrag - ERROR - Failed to extract entities and relationships: 
+2025-10-15 10:39:40,816 - lightrag - ERROR - Traceback (most recent call last):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1003, in process_document
+    await asyncio.gather(*tasks)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1201, in _process_entity_relation_graph
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/lightrag.py", line 1187, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 854, in extract_entities
+    raise task.exception()
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 830, in _process_with_semaphore
+    return await _process_single_content(chunk)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/operate.py", line 770, in _process_single_content
+    glean_result = await use_llm_func_with_cache(
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 1582, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 585, in wait_func
+    return await future
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/home/NingyuanXiao/LightRAG_test/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/NingyuanXiao/anaconda3/envs/lightrag/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-10-15 10:39:40,816 - lightrag - ERROR - Failed to extrat document 1/1: unknown_source
+2025-10-15 10:39:40,857 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 10:39:40,858 - lightrag - INFO - Process 1381961 building query context...
+2025-10-15 10:39:40,858 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 10:41:52,186 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:41:56,019 - lightrag - INFO - Created new empty graph
+2025-10-15 10:41:56,024 - lightrag - INFO - Process 1430271 KV load full_docs with 0 records
+2025-10-15 10:41:56,024 - lightrag - INFO - Process 1430271 KV load text_chunks with 0 records
+2025-10-15 10:41:56,041 - lightrag - INFO - Process 1430271 KV load llm_response_cache with 133 records
+2025-10-15 10:41:56,042 - lightrag - INFO - Process 1430271 doc status load doc_status with 0 records
+2025-10-15 10:41:56,042 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:41:56,042 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:41:56,135 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:41:56,135 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:41:56,135 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:41:56,135 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:41:56,214 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:41:56,215 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:41:56,217 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:41:56,219 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:41:56,220 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:41:56,221 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:41:56,222 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:41:56,223 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:41:56,225 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:41:56,226 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:41:56,227 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:41:56,228 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:41:56,230 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:41:56,231 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:41:56,232 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:41:56,233 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:41:56,235 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:41:56,236 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:41:56,237 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:41:56,238 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:41:56,239 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:41:56,240 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:41:56,241 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:41:56,242 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:41:56,243 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:41:56,244 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:41:56,245 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:41:56,246 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:41:56,247 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:41:56,248 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:41:56,250 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:41:56,251 - lightrag - INFO - Chunk 32 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:41:56,252 - lightrag - INFO - Chunk 33 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:41:56,254 - lightrag - INFO - Chunk 34 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:41:56,255 - lightrag - INFO - Chunk 35 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:41:56,257 - lightrag - INFO - Chunk 36 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:41:56,257 - lightrag - INFO - Chunk 37 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:41:56,259 - lightrag - INFO - Chunk 38 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:41:56,260 - lightrag - INFO - Chunk 39 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:41:56,261 - lightrag - INFO - Chunk 40 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:41:56,262 - lightrag - INFO - Chunk 41 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:41:56,263 - lightrag - INFO - Chunk 42 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:41:56,265 - lightrag - INFO - Chunk 43 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:41:56,266 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:41:56,267 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:41:56,268 - lightrag - INFO - Chunk 46 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:41:56,270 - lightrag - INFO - Chunk 47 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:41:56,271 - lightrag - INFO - Chunk 48 of 143 extracted 34 Ent + 8 Rel
+2025-10-15 10:41:56,272 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:41:56,273 - lightrag - INFO - Chunk 49 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:41:56,274 - lightrag - INFO - Chunk 50 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:41:56,275 - lightrag - INFO - Chunk 51 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 10:41:56,277 - lightrag - INFO - Chunk 52 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:41:56,278 - lightrag - INFO - Chunk 53 of 143 extracted 16 Ent + 8 Rel
+2025-10-15 10:41:56,279 - lightrag - INFO - Chunk 54 of 143 extracted 17 Ent + 16 Rel
+2025-10-15 10:41:56,281 - lightrag - INFO - Chunk 55 of 143 extracted 21 Ent + 16 Rel
+2025-10-15 10:41:56,282 - lightrag - INFO - Chunk 56 of 143 extracted 23 Ent + 11 Rel
+2025-10-15 10:41:56,284 - lightrag - INFO - Chunk 57 of 143 extracted 20 Ent + 11 Rel
+2025-10-15 10:41:56,285 - lightrag - INFO - Chunk 58 of 143 extracted 19 Ent + 15 Rel
+2025-10-15 10:41:56,286 - lightrag - INFO - Chunk 59 of 143 extracted 18 Ent + 14 Rel
+2025-10-15 10:41:56,288 - lightrag - INFO - Chunk 60 of 143 extracted 22 Ent + 38 Rel
+2025-10-15 10:42:00,700 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 10:42:01,486 - lightrag - INFO - Creating a new event loop in main thread.
+2025-10-15 10:42:21,868 - lightrag - INFO - Created new empty graph
+2025-10-15 10:42:21,873 - lightrag - INFO - Process 1435009 KV load full_docs with 0 records
+2025-10-15 10:42:21,873 - lightrag - INFO - Process 1435009 KV load text_chunks with 0 records
+2025-10-15 10:42:21,890 - lightrag - INFO - Process 1435009 KV load llm_response_cache with 133 records
+2025-10-15 10:42:21,890 - lightrag - INFO - Process 1435009 doc status load doc_status with 0 records
+2025-10-15 10:42:21,890 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:42:21,890 - lightrag - INFO - Storage Initialization completed!
+2025-10-15 10:42:21,969 - lightrag - INFO - Stored 1 new unique documents
+2025-10-15 10:42:21,969 - lightrag - INFO - Processing 1 document(s)
+2025-10-15 10:42:21,970 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-10-15 10:42:21,970 - lightrag - INFO - Processing d-id: doc-0d53342733cd12e10d8db7e7d02f4af3
+2025-10-15 10:42:22,052 - lightrag - INFO - Chunk 1 of 143 extracted 11 Ent + 13 Rel
+2025-10-15 10:42:22,053 - lightrag - INFO - Chunk 2 of 143 extracted 22 Ent + 17 Rel
+2025-10-15 10:42:22,055 - lightrag - INFO - Chunk 3 of 143 extracted 19 Ent + 18 Rel
+2025-10-15 10:42:22,057 - lightrag - INFO - Chunk 4 of 143 extracted 96 Ent + 2 Rel
+2025-10-15 10:42:22,057 - lightrag - INFO - Chunk 5 of 143 extracted 17 Ent + 6 Rel
+2025-10-15 10:42:22,059 - lightrag - INFO - Chunk 6 of 143 extracted 21 Ent + 15 Rel
+2025-10-15 10:42:22,060 - lightrag - INFO - Chunk 7 of 143 extracted 9 Ent + 8 Rel
+2025-10-15 10:42:22,061 - lightrag - INFO - Chunk 8 of 143 extracted 18 Ent + 5 Rel
+2025-10-15 10:42:22,063 - lightrag - INFO - Chunk 9 of 143 extracted 32 Ent + 14 Rel
+2025-10-15 10:42:22,064 - lightrag - INFO - Chunk 10 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:42:22,065 - lightrag - INFO - Chunk 11 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 10:42:22,067 - lightrag - INFO - Chunk 12 of 143 extracted 20 Ent + 13 Rel
+2025-10-15 10:42:22,068 - lightrag - INFO - Chunk 13 of 143 extracted 19 Ent + 17 Rel
+2025-10-15 10:42:22,070 - lightrag - INFO - Chunk 14 of 143 extracted 22 Ent + 25 Rel
+2025-10-15 10:42:22,071 - lightrag - INFO - Chunk 15 of 143 extracted 18 Ent + 7 Rel
+2025-10-15 10:42:22,072 - lightrag - INFO - Chunk 16 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:42:22,073 - lightrag - INFO - Chunk 17 of 143 extracted 11 Ent + 17 Rel
+2025-10-15 10:42:22,074 - lightrag - INFO - Chunk 18 of 143 extracted 32 Ent + 13 Rel
+2025-10-15 10:42:22,075 - lightrag - INFO - Chunk 19 of 143 extracted 29 Ent + 18 Rel
+2025-10-15 10:42:22,076 - lightrag - INFO - Chunk 20 of 143 extracted 8 Ent + 8 Rel
+2025-10-15 10:42:22,077 - lightrag - INFO - Chunk 21 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:42:22,078 - lightrag - INFO - Chunk 22 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:42:22,079 - lightrag - INFO - Chunk 23 of 143 extracted 28 Ent + 8 Rel
+2025-10-15 10:42:22,080 - lightrag - INFO - Chunk 24 of 143 extracted 13 Ent + 10 Rel
+2025-10-15 10:42:22,081 - lightrag - INFO - Chunk 25 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 10:42:22,082 - lightrag - INFO - Chunk 26 of 143 extracted 35 Ent + 10 Rel
+2025-10-15 10:42:22,083 - lightrag - INFO - Chunk 27 of 143 extracted 7 Ent + 6 Rel
+2025-10-15 10:42:22,084 - lightrag - INFO - Chunk 28 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 10:42:22,086 - lightrag - INFO - Chunk 29 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 10:42:22,086 - lightrag - INFO - Chunk 30 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:42:22,088 - lightrag - INFO - Chunk 31 of 143 extracted 20 Ent + 18 Rel
+2025-10-15 10:42:22,089 - lightrag - INFO - Chunk 32 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 10:42:22,091 - lightrag - INFO - Chunk 33 of 143 extracted 13 Ent + 12 Rel
+2025-10-15 10:42:22,093 - lightrag - INFO - Chunk 34 of 143 extracted 40 Ent + 21 Rel
+2025-10-15 10:42:22,094 - lightrag - INFO - Chunk 35 of 143 extracted 22 Ent + 13 Rel
+2025-10-15 10:42:22,095 - lightrag - INFO - Chunk 36 of 143 extracted 22 Ent + 10 Rel
+2025-10-15 10:42:22,096 - lightrag - INFO - Chunk 37 of 143 extracted 18 Ent + 15 Rel
+2025-10-15 10:42:22,097 - lightrag - INFO - Chunk 38 of 143 extracted 19 Ent + 6 Rel
+2025-10-15 10:42:22,098 - lightrag - INFO - Chunk 39 of 143 extracted 20 Ent + 9 Rel
+2025-10-15 10:42:22,099 - lightrag - INFO - Chunk 40 of 143 extracted 22 Ent + 19 Rel
+2025-10-15 10:42:22,101 - lightrag - INFO - Chunk 41 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 10:42:22,102 - lightrag - INFO - Chunk 42 of 143 extracted 16 Ent + 9 Rel
+2025-10-15 10:42:22,103 - lightrag - INFO - Chunk 43 of 143 extracted 18 Ent + 13 Rel
+2025-10-15 10:42:22,104 - lightrag - INFO - Chunk 44 of 143 extracted 15 Ent + 9 Rel
+2025-10-15 10:42:22,105 - lightrag - INFO - Chunk 45 of 143 extracted 25 Ent + 10 Rel
+2025-10-15 10:42:22,107 - lightrag - INFO - Chunk 46 of 143 extracted 23 Ent + 19 Rel
+2025-10-15 10:42:22,108 - lightrag - INFO - Chunk 47 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 10:42:22,109 - lightrag - INFO - Chunk 48 of 143 extracted 34 Ent + 8 Rel
+2025-10-15 10:42:22,110 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-10-15 10:42:22,111 - lightrag - INFO - Chunk 49 of 143 extracted 10 Ent + 11 Rel
+2025-10-15 10:42:22,113 - lightrag - INFO - Chunk 50 of 143 extracted 40 Ent + 9 Rel
+2025-10-15 10:42:22,114 - lightrag - INFO - Chunk 51 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 10:42:22,115 - lightrag - INFO - Chunk 52 of 143 extracted 24 Ent + 23 Rel
+2025-10-15 10:42:22,116 - lightrag - INFO - Chunk 53 of 143 extracted 16 Ent + 8 Rel
+2025-10-15 10:42:22,118 - lightrag - INFO - Chunk 54 of 143 extracted 17 Ent + 16 Rel
+2025-10-15 10:42:22,120 - lightrag - INFO - Chunk 55 of 143 extracted 21 Ent + 16 Rel
+2025-10-15 10:42:22,121 - lightrag - INFO - Chunk 56 of 143 extracted 23 Ent + 11 Rel
+2025-10-15 10:42:22,122 - lightrag - INFO - Chunk 57 of 143 extracted 20 Ent + 11 Rel
+2025-10-15 10:42:22,123 - lightrag - INFO - Chunk 58 of 143 extracted 19 Ent + 15 Rel
+2025-10-15 10:42:22,125 - lightrag - INFO - Chunk 59 of 143 extracted 18 Ent + 14 Rel
+2025-10-15 10:42:22,127 - lightrag - INFO - Chunk 60 of 143 extracted 22 Ent + 38 Rel
+2025-10-15 10:42:41,968 - lightrag - INFO -  == LLM cache == saving default: 3ec5ebff073575095341107b7ba3f4d6
+2025-10-15 10:43:11,837 - lightrag - INFO -  == LLM cache == saving default: c2ea211ba060d63925cef708aa847374
+2025-10-15 10:43:11,838 - lightrag - INFO - Chunk 61 of 143 extracted 10 Ent + 5 Rel
+2025-10-15 10:43:25,481 - lightrag - INFO -  == LLM cache == saving default: 35a4fa3ec518b87ed6eb61635c060379
+2025-10-15 10:44:20,610 - lightrag - INFO -  == LLM cache == saving default: 9be456015423db709e11e667aef97854
+2025-10-15 10:44:20,612 - lightrag - INFO - Chunk 62 of 143 extracted 34 Ent + 12 Rel
+2025-10-15 10:44:41,535 - lightrag - INFO -  == LLM cache == saving default: e7cf52edb7b6dfcf24e5c4264c4d53a9
+2025-10-15 10:45:01,620 - lightrag - INFO -  == LLM cache == saving default: 31b2c1f3def69021aaec646d5c568ea9
+2025-10-15 10:45:45,869 - lightrag - INFO -  == LLM cache == saving default: d1a6dbf43d13b816468fabe9296946e2
+2025-10-15 10:45:45,870 - lightrag - INFO - Chunk 63 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 10:46:27,670 - lightrag - INFO -  == LLM cache == saving default: c28a8be9a39d93667699cbc3833fce94
+2025-10-15 10:46:27,672 - lightrag - INFO - Chunk 64 of 143 extracted 14 Ent + 13 Rel
+2025-10-15 10:47:52,334 - lightrag - INFO -  == LLM cache == saving default: 010d41995e95c9300a1d25a1c3d1d19f
+2025-10-15 10:47:52,336 - lightrag - INFO - Chunk 65 of 143 extracted 50 Ent + 16 Rel
+2025-10-15 10:49:00,220 - lightrag - INFO -  == LLM cache == saving default: 14125c621381017b14af3631aa6c684f
+2025-10-15 10:49:00,224 - lightrag - INFO - Chunk 66 of 143 extracted 30 Ent + 29 Rel
+2025-10-15 10:49:26,727 - lightrag - INFO -  == LLM cache == saving default: e50dca88c65ad4ef07bb5b0825943c93
+2025-10-15 10:49:26,727 - lightrag - INFO - Chunk 67 of 143 extracted 12 Ent + 8 Rel
+2025-10-15 10:49:54,730 - lightrag - INFO -  == LLM cache == saving default: 1e3dbfd5f32a2da1e5bc5b979624f08f
+2025-10-15 10:49:54,731 - lightrag - INFO - Chunk 68 of 143 extracted 10 Ent + 8 Rel
+2025-10-15 10:50:46,091 - lightrag - INFO -  == LLM cache == saving default: b233aafb66dc76ad21e0945f687babeb
+2025-10-15 10:50:46,093 - lightrag - INFO - Chunk 69 of 143 extracted 20 Ent + 17 Rel
+2025-10-15 10:51:34,404 - lightrag - INFO -  == LLM cache == saving default: 072ff6575e231c90951b49255ba3df91
+2025-10-15 10:51:34,407 - lightrag - INFO - Chunk 70 of 143 extracted 28 Ent + 13 Rel
+2025-10-15 10:52:05,458 - lightrag - INFO -  == LLM cache == saving default: 22c2745029a1c220774a116f35fc3a2a
+2025-10-15 10:52:05,462 - lightrag - INFO - Chunk 71 of 143 extracted 13 Ent + 9 Rel
+2025-10-15 10:52:43,114 - lightrag - INFO -  == LLM cache == saving default: 53ed9f8215c3c66edbb16b4a649588bb
+2025-10-15 10:52:43,115 - lightrag - INFO - Chunk 72 of 143 extracted 24 Ent + 7 Rel
+2025-10-15 10:53:44,455 - lightrag - INFO -  == LLM cache == saving default: 86a6ee1f50de1e5287c11407d1f1a5dc
+2025-10-15 10:53:44,457 - lightrag - INFO - Chunk 73 of 143 extracted 23 Ent + 18 Rel
+2025-10-15 10:54:05,537 - lightrag - INFO -  == LLM cache == saving default: dc2de9bc69f80dd12f935845d9d12f11
+2025-10-15 10:54:37,812 - lightrag - INFO -  == LLM cache == saving default: d04318eb46b12b571e672b4689df07d5
+2025-10-15 10:54:37,814 - lightrag - INFO - Chunk 74 of 143 extracted 17 Ent + 10 Rel
+2025-10-15 10:54:51,400 - lightrag - INFO -  == LLM cache == saving default: 874828ee24da8ed9db127fa53ce25b7b
+2025-10-15 10:55:35,242 - lightrag - INFO -  == LLM cache == saving default: 948debbf0beadf1185c0ef758b4da140
+2025-10-15 10:55:35,244 - lightrag - INFO - Chunk 75 of 143 extracted 17 Ent + 17 Rel
+2025-10-15 10:56:15,386 - lightrag - INFO -  == LLM cache == saving default: a7e6638b3b8ea62f2fe9092ef67c83bb
+2025-10-15 10:56:15,389 - lightrag - INFO - Chunk 76 of 143 extracted 19 Ent + 10 Rel
+2025-10-15 10:56:34,855 - lightrag - INFO -  == LLM cache == saving default: 4ac14a4b78254d1abe6c59bd0a14bd56
+2025-10-15 10:56:57,809 - lightrag - INFO -  == LLM cache == saving default: 97baccebec5bf8b7b6b09bfe9effc2c4
+2025-10-15 10:57:19,750 - lightrag - INFO -  == LLM cache == saving default: 920c86aff8bbc48fdd9d05c2d4dfd071
+2025-10-15 10:57:35,767 - lightrag - INFO -  == LLM cache == saving default: ac447786b88761a4b8a1c5698b1dc95c
+2025-10-15 10:57:57,790 - lightrag - INFO -  == LLM cache == saving default: 338b49d1916155f77d8e2056c1399ffe
+2025-10-15 10:58:15,192 - lightrag - INFO -  == LLM cache == saving default: 72c3a2f21555428622a84b68909d179b
+2025-10-15 10:58:39,753 - lightrag - INFO -  == LLM cache == saving default: 4c7dfe9677c4103e1b11d2f158fedfaf
+2025-10-15 10:59:01,377 - lightrag - INFO -  == LLM cache == saving default: c0bf7dd94875b35596007ecf1e353c78
+2025-10-15 10:59:15,818 - lightrag - INFO -  == LLM cache == saving default: 9489efc985f268ed35150edffb0a85df
+2025-10-15 10:59:31,257 - lightrag - INFO -  == LLM cache == saving default: e9c32d0736ef5f5b48ebce61ac3d137a
+2025-10-15 10:59:53,553 - lightrag - INFO -  == LLM cache == saving default: 858974c4021f86e7cd9a1707e0566bdc
+2025-10-15 11:00:39,214 - lightrag - INFO -  == LLM cache == saving default: 504a6497698a70feeb7a98a38244010c
+2025-10-15 11:00:39,216 - lightrag - INFO - Chunk 77 of 143 extracted 21 Ent + 7 Rel
+2025-10-15 11:01:07,672 - lightrag - INFO -  == LLM cache == saving default: 52f632b85ec66451dae1ee3249f92c03
+2025-10-15 11:01:37,802 - lightrag - INFO -  == LLM cache == saving default: 252e7bc420e5a376eefebc9ee5803952
+2025-10-15 11:01:37,803 - lightrag - INFO - Chunk 78 of 143 extracted 12 Ent + 7 Rel
+2025-10-15 11:01:54,902 - lightrag - INFO -  == LLM cache == saving default: 4930bc5a502bdae157aa8e059f7c49b9
+2025-10-15 11:02:13,619 - lightrag - INFO -  == LLM cache == saving default: ee15a4037f037d7c936042f64ef03493
+2025-10-15 11:03:09,247 - lightrag - INFO -  == LLM cache == saving default: 1f22364c37805ed5a82a6b5ab7ad9e4b
+2025-10-15 11:03:09,250 - lightrag - INFO - Chunk 79 of 143 extracted 30 Ent + 14 Rel
+2025-10-15 11:04:05,757 - lightrag - INFO -  == LLM cache == saving default: 516411b4239d2f6d141643612fbf7144
+2025-10-15 11:04:05,760 - lightrag - INFO - Chunk 80 of 143 extracted 41 Ent + 13 Rel
+2025-10-15 11:04:36,721 - lightrag - INFO -  == LLM cache == saving default: 0a65a20d696a092061492dd0edb61e6a
+2025-10-15 11:04:36,723 - lightrag - INFO - Chunk 81 of 143 extracted 13 Ent + 9 Rel
+2025-10-15 11:05:25,280 - lightrag - INFO -  == LLM cache == saving default: 9cb3fc83264a23ee13ca7d3ce721e80e
+2025-10-15 11:05:25,282 - lightrag - INFO - Chunk 82 of 143 extracted 24 Ent + 8 Rel
+2025-10-15 11:05:56,309 - lightrag - INFO -  == LLM cache == saving default: 2c08807d6a5806e705def86ad6a5ee37
+2025-10-15 11:05:56,311 - lightrag - INFO - Chunk 83 of 143 extracted 14 Ent + 5 Rel
+2025-10-15 11:06:52,315 - lightrag - INFO -  == LLM cache == saving default: 771945187eee469c50b40f9345f71cdb
+2025-10-15 11:06:52,317 - lightrag - INFO - Chunk 84 of 143 extracted 30 Ent + 12 Rel
+2025-10-15 11:07:45,787 - lightrag - INFO -  == LLM cache == saving default: 9bcefbae5f394735c37d38b56c3f3efa
+2025-10-15 11:07:45,789 - lightrag - INFO - Chunk 85 of 143 extracted 27 Ent + 12 Rel
+2025-10-15 11:08:52,176 - lightrag - INFO -  == LLM cache == saving default: 6aadf740e235f2bd373d25b38f32a4ad
+2025-10-15 11:08:52,179 - lightrag - INFO - Chunk 86 of 143 extracted 37 Ent + 13 Rel
+2025-10-15 11:09:36,873 - lightrag - INFO -  == LLM cache == saving default: 9b55c428cc0f52753b337115c748a289
+2025-10-15 11:09:36,875 - lightrag - INFO - Chunk 87 of 143 extracted 23 Ent + 15 Rel
+2025-10-15 11:10:18,741 - lightrag - INFO -  == LLM cache == saving default: 047aa7a724f8a4bca25f70f9afd07793
+2025-10-15 11:10:18,744 - lightrag - INFO - Chunk 88 of 143 extracted 23 Ent + 9 Rel
+2025-10-15 11:10:53,619 - lightrag - INFO -  == LLM cache == saving default: ae36511b14c5b3225b0c400875944616
+2025-10-15 11:10:53,620 - lightrag - INFO - Chunk 89 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 11:11:09,867 - lightrag - INFO -  == LLM cache == saving default: 3a217453531962c6e4228d9d9cb2ba8a
+2025-10-15 11:12:04,083 - lightrag - INFO -  == LLM cache == saving default: d6b3e82ff27ddee9af7fc4bf728170da
+2025-10-15 11:12:04,086 - lightrag - INFO - Chunk 90 of 143 extracted 24 Ent + 9 Rel
+2025-10-15 11:12:31,645 - lightrag - INFO -  == LLM cache == saving default: 561f89121faa84cb965180f814695f81
+2025-10-15 11:13:03,922 - lightrag - INFO -  == LLM cache == saving default: f492001300b126f9aa10062f6aec45dc
+2025-10-15 11:13:03,922 - lightrag - INFO - Chunk 91 of 143 extracted 12 Ent + 9 Rel
+2025-10-15 11:14:15,177 - lightrag - INFO -  == LLM cache == saving default: 39b50d96deeb049b4c3ce6d0a24fdc69
+2025-10-15 11:14:15,181 - lightrag - INFO - Chunk 92 of 143 extracted 52 Ent + 13 Rel
+2025-10-15 11:14:37,322 - lightrag - INFO -  == LLM cache == saving default: 7175cb4ad642224d9ab94ef22a0096cb
+2025-10-15 11:15:00,047 - lightrag - INFO -  == LLM cache == saving default: e6f890658c205480e75a09a6eb68973c
+2025-10-15 11:15:14,108 - lightrag - INFO -  == LLM cache == saving default: 295ff1ffb025c054a82623fc3d6d3721
+2025-10-15 11:16:18,093 - lightrag - INFO -  == LLM cache == saving default: 8cc55ace58f8f45c55eccb09534387b2
+2025-10-15 11:16:49,116 - lightrag - INFO -  == LLM cache == saving default: 4297adde59feb5201e2a540b42871dcd
+2025-10-15 11:17:05,147 - lightrag - INFO -  == LLM cache == saving default: efb769d0b5f9bbd96e84174a6cc58ee9
+2025-10-15 11:17:21,358 - lightrag - INFO -  == LLM cache == saving default: ab6614d377d573295f080ddf19a8df56
+2025-10-15 11:17:50,119 - lightrag - INFO -  == LLM cache == saving default: 9e8673428d417b871e592e15e68ef8aa
+2025-10-15 11:18:17,197 - lightrag - INFO -  == LLM cache == saving default: 7f1c98ceb25cfbe9eb4ad326ddc36997
+2025-10-15 11:18:44,873 - lightrag - INFO -  == LLM cache == saving default: 8c142917d6a060f24a2e42fb769c5c4e
+2025-10-15 11:19:08,342 - lightrag - INFO -  == LLM cache == saving default: 712b7349d25ae81bb07be29a850784e6
+2025-10-15 11:19:42,488 - lightrag - INFO -  == LLM cache == saving default: 39e93913f0ea3c556e9a24c6896e29dc
+2025-10-15 11:19:42,490 - lightrag - INFO - Chunk 93 of 143 extracted 14 Ent + 8 Rel
+2025-10-15 11:19:56,353 - lightrag - INFO -  == LLM cache == saving default: 2e57ac0c2315af810da1a244689af5b5
+2025-10-15 11:20:45,444 - lightrag - INFO -  == LLM cache == saving default: 105cf98fdbab06f8bb359a3ac93f8bfb
+2025-10-15 11:20:45,447 - lightrag - INFO - Chunk 94 of 143 extracted 28 Ent + 14 Rel
+2025-10-15 11:20:57,848 - lightrag - INFO -  == LLM cache == saving default: e031478d20c3039564717bb80485e609
+2025-10-15 11:21:20,656 - lightrag - INFO -  == LLM cache == saving default: 9b2ff1c104239406e23d660740c49777
+2025-10-15 11:22:09,182 - lightrag - INFO -  == LLM cache == saving default: 521590570f8765bac1da4e53503be5c4
+2025-10-15 11:22:09,184 - lightrag - INFO - Chunk 95 of 143 extracted 20 Ent + 14 Rel
+2025-10-15 11:22:56,895 - lightrag - INFO -  == LLM cache == saving default: cc8c02f21e7f37e4a5d94cf8d18ef2b0
+2025-10-15 11:22:56,897 - lightrag - INFO - Chunk 96 of 143 extracted 24 Ent + 12 Rel
+2025-10-15 11:23:41,905 - lightrag - INFO -  == LLM cache == saving default: f77f5f5ace6806b8b2148fe613970d80
+2025-10-15 11:23:41,907 - lightrag - INFO - Chunk 97 of 143 extracted 31 Ent + 9 Rel
+2025-10-15 11:25:06,217 - lightrag - INFO -  == LLM cache == saving default: af4a7af929e6e32db1f6192ed5105731
+2025-10-15 11:25:06,221 - lightrag - INFO - Chunk 98 of 143 extracted 56 Ent + 12 Rel
+2025-10-15 11:26:09,705 - lightrag - INFO -  == LLM cache == saving default: 7d3231e840a8f33820185691907c823c
+2025-10-15 11:26:09,708 - lightrag - INFO - Chunk 99 of 143 extracted 26 Ent + 19 Rel
+2025-10-15 11:26:45,236 - lightrag - INFO -  == LLM cache == saving default: 64eaf52e14cbd7389433c4f67260a335
+2025-10-15 11:26:45,237 - lightrag - INFO - Chunk 100 of 143 extracted 0 Ent + 11 Rel
+2025-10-15 11:27:40,278 - lightrag - INFO -  == LLM cache == saving default: c4f23148d73a2e883238f131961ebdf7
+2025-10-15 11:27:40,279 - lightrag - INFO - Chunk 101 of 143 extracted 33 Ent + 9 Rel
+2025-10-15 11:28:54,412 - lightrag - INFO -  == LLM cache == saving default: 8538fb990b77f3ae26cebb0c64685903
+2025-10-15 11:28:54,415 - lightrag - INFO - Chunk 102 of 143 extracted 30 Ent + 27 Rel
+2025-10-15 11:29:42,620 - lightrag - INFO -  == LLM cache == saving default: 1c45ae7b101215b492e7d3b9f6656333
+2025-10-15 11:29:42,623 - lightrag - INFO - Chunk 103 of 143 extracted 17 Ent + 23 Rel
+2025-10-15 11:30:25,730 - lightrag - INFO -  == LLM cache == saving default: 38685f3ea3074684cb1d50e3f049f822
+2025-10-15 11:30:25,732 - lightrag - INFO - Chunk 104 of 143 extracted 21 Ent + 11 Rel
+2025-10-15 11:31:20,352 - lightrag - INFO -  == LLM cache == saving default: fe0a0966104515f3ad3c9019249898b8
+2025-10-15 11:31:20,355 - lightrag - INFO - Chunk 105 of 143 extracted 29 Ent + 13 Rel
+2025-10-15 11:31:48,220 - lightrag - INFO -  == LLM cache == saving default: 58c9e734f88dc15a213df3bf1d20f142
+2025-10-15 11:32:31,843 - lightrag - INFO -  == LLM cache == saving default: 47dd9e4aa612a11df64305d3439c9004
+2025-10-15 11:32:31,845 - lightrag - INFO - Chunk 106 of 143 extracted 18 Ent + 9 Rel
+2025-10-15 11:32:52,046 - lightrag - INFO -  == LLM cache == saving default: 96efae6d7c00ea4f29c123535e88afca
+2025-10-15 11:33:32,551 - lightrag - INFO -  == LLM cache == saving default: b4fa293821b1475f7a9ab13b94a2c361
+2025-10-15 11:33:32,553 - lightrag - INFO - Chunk 107 of 143 extracted 23 Ent + 8 Rel
+2025-10-15 11:34:18,439 - lightrag - INFO -  == LLM cache == saving default: b4c2ffdb0d35f7a2d1bf4ecb5f20cf8f
+2025-10-15 11:34:18,441 - lightrag - INFO - Chunk 108 of 143 extracted 25 Ent + 15 Rel
+2025-10-15 11:34:34,787 - lightrag - INFO -  == LLM cache == saving default: edf44ab8e9148f6a9c1df374f9828c5c
+2025-10-15 11:34:56,911 - lightrag - INFO -  == LLM cache == saving default: a33d95db35a88e4ed64a33d1e6f77f12
+2025-10-15 11:35:12,963 - lightrag - INFO -  == LLM cache == saving default: 471b233b3b7a454b1a825696a966e151
+2025-10-15 11:35:29,738 - lightrag - INFO -  == LLM cache == saving default: b9ea30ddef5998811cb62892c80f3f2f
+2025-10-15 11:35:46,067 - lightrag - INFO -  == LLM cache == saving default: b0b51ece76ce594b385a5246a68edc5c
+2025-10-15 11:36:05,834 - lightrag - INFO -  == LLM cache == saving default: d1775add38ebf3dfe6a4ba44be70c32f
+2025-10-15 11:36:31,274 - lightrag - INFO -  == LLM cache == saving default: 72abf8a44cc6fcdfac9f2126951d54c4
+2025-10-15 11:36:47,010 - lightrag - INFO -  == LLM cache == saving default: c9936bb52d7f372479663e4db0b72047
+2025-10-15 11:37:16,232 - lightrag - INFO -  == LLM cache == saving default: bbdfc8cdd33f35a09bfa9888701a748a
+2025-10-15 11:37:35,566 - lightrag - INFO -  == LLM cache == saving default: 7b1de6c99fadcaf239958ad85babc303
+2025-10-15 11:37:49,055 - lightrag - INFO -  == LLM cache == saving default: d09c1e218c8c9a6376e863ae5dfb6a4b
+2025-10-15 11:38:26,082 - lightrag - INFO -  == LLM cache == saving default: a96a7e5ae368c4e32c19be6f9caf3153
+2025-10-15 11:38:26,084 - lightrag - INFO - Chunk 109 of 143 extracted 13 Ent + 11 Rel
+2025-10-15 11:38:46,602 - lightrag - INFO -  == LLM cache == saving default: be074adce8da17783746fe9948a6eef3
+2025-10-15 11:39:45,951 - lightrag - INFO -  == LLM cache == saving default: b1882f87ec801da69457dbbf4d35579b
+2025-10-15 11:39:45,954 - lightrag - INFO - Chunk 110 of 143 extracted 21 Ent + 4 Rel
+2025-10-15 11:40:02,771 - lightrag - INFO -  == LLM cache == saving default: cff5a6492c41b8670127ed144549dd64
+2025-10-15 11:40:19,073 - lightrag - INFO -  == LLM cache == saving default: ef9ccf30ded585aa9f8eda2ac446f6a0
+2025-10-15 11:40:58,856 - lightrag - INFO -  == LLM cache == saving default: 379dd55d1214d76690bfef8e9e6966c9
+2025-10-15 11:40:58,858 - lightrag - INFO - Chunk 111 of 143 extracted 18 Ent + 12 Rel
+2025-10-15 11:42:01,763 - lightrag - INFO -  == LLM cache == saving default: 80344477106ceff31265c9c5dd73697a
+2025-10-15 11:42:01,766 - lightrag - INFO - Chunk 112 of 143 extracted 27 Ent + 22 Rel
+2025-10-15 11:42:48,870 - lightrag - INFO -  == LLM cache == saving default: 48b6aa78eff6d7e17c5811dd4392e5ba
+2025-10-15 11:42:48,872 - lightrag - INFO - Chunk 113 of 143 extracted 24 Ent + 12 Rel
+2025-10-15 11:43:37,637 - lightrag - INFO -  == LLM cache == saving default: 29e085041b6982df17b51bc98e74ccbb
+2025-10-15 11:43:37,641 - lightrag - INFO - Chunk 114 of 143 extracted 26 Ent + 15 Rel
+2025-10-15 11:44:19,666 - lightrag - INFO -  == LLM cache == saving default: 9c7d69546510695c1017b13e4695a0b9
+2025-10-15 11:44:19,669 - lightrag - INFO - Chunk 115 of 143 extracted 21 Ent + 9 Rel
+2025-10-15 11:45:08,136 - lightrag - INFO -  == LLM cache == saving default: 2512d10a3b331b36692d2af5c94bb275
+2025-10-15 11:45:08,138 - lightrag - INFO - Chunk 116 of 143 extracted 16 Ent + 13 Rel
+2025-10-15 11:45:54,540 - lightrag - INFO -  == LLM cache == saving default: 4b0a2f888239968bce9e63d238608498
+2025-10-15 11:45:54,542 - lightrag - INFO - Chunk 117 of 143 extracted 26 Ent + 14 Rel
+2025-10-15 11:46:27,954 - lightrag - INFO -  == LLM cache == saving default: a39112ef4e23cdc2eee7753ac7ef9486
+2025-10-15 11:46:27,955 - lightrag - INFO - Chunk 118 of 143 extracted 12 Ent + 8 Rel
+2025-10-15 11:47:34,993 - lightrag - INFO -  == LLM cache == saving default: 9e9313b4060cf63f2fbd8621c2f440c2
+2025-10-15 11:47:34,996 - lightrag - INFO - Chunk 119 of 143 extracted 29 Ent + 21 Rel
+2025-10-15 11:48:13,392 - lightrag - INFO -  == LLM cache == saving default: 8b007b3f2e3acd683724bd0a16b96fba
+2025-10-15 11:48:13,394 - lightrag - INFO - Chunk 120 of 143 extracted 14 Ent + 12 Rel
+2025-10-15 11:48:54,637 - lightrag - INFO -  == LLM cache == saving default: 0e9dd59266acdf3064dfa050ba56c7f7
+2025-10-15 11:48:54,639 - lightrag - INFO - Chunk 121 of 143 extracted 23 Ent + 8 Rel
+2025-10-15 11:49:19,045 - lightrag - INFO -  == LLM cache == saving default: 5b207887e99535f9a839c1468d4d3168
+2025-10-15 11:49:51,739 - lightrag - INFO -  == LLM cache == saving default: f35bc7536a35f33821878fe3887aa58b
+2025-10-15 11:49:51,741 - lightrag - INFO - Chunk 122 of 143 extracted 14 Ent + 9 Rel
+2025-10-15 11:50:25,142 - lightrag - INFO -  == LLM cache == saving default: 4b75d25a56e6fbf680b2fc9bd72e7f9e
+2025-10-15 11:51:05,127 - lightrag - INFO -  == LLM cache == saving default: f7d2a7e2958e6fc743383583352c0542
+2025-10-15 11:51:05,129 - lightrag - INFO - Chunk 123 of 143 extracted 19 Ent + 10 Rel
+2025-10-15 11:51:52,271 - lightrag - INFO -  == LLM cache == saving default: d07210f231b62996e66e0da7234cb044
+2025-10-15 11:51:52,274 - lightrag - INFO - Chunk 124 of 143 extracted 28 Ent + 12 Rel
+2025-10-15 11:52:16,111 - lightrag - INFO -  == LLM cache == saving default: f1cb377d370912977c47273011f42bee
+2025-10-15 11:52:34,196 - lightrag - INFO -  == LLM cache == saving default: ab65b0e6c710c8b6a9b34d5012912cf8
+2025-10-15 11:52:49,355 - lightrag - INFO -  == LLM cache == saving default: 3317c8410b5db2181b99068c71ffd932
+2025-10-15 11:53:09,612 - lightrag - INFO -  == LLM cache == saving default: 0f42790650ae3ba79c19ce77bdc0f3d3
+2025-10-15 11:53:30,138 - lightrag - INFO -  == LLM cache == saving default: 879e33cfb3501e9aca0de1282082d74d
+2025-10-15 11:53:54,522 - lightrag - INFO -  == LLM cache == saving default: d67caa98b5302cdd456d06e556c13f37
+2025-10-15 11:54:14,892 - lightrag - INFO -  == LLM cache == saving default: 0ff1ab6a82668b73e990ddfc96b711da
+2025-10-15 11:54:32,916 - lightrag - INFO -  == LLM cache == saving default: c8b09d25487bfb4a48b8066fcbdff5d8
+2025-10-15 11:54:46,359 - lightrag - INFO -  == LLM cache == saving default: 3c60281baa51855c76f1792581ccc353
+2025-10-15 11:55:11,601 - lightrag - INFO -  == LLM cache == saving default: 05848f09b8fa9bfff19ebd99c8ffd45c
+2025-10-15 11:55:37,146 - lightrag - INFO -  == LLM cache == saving default: e09bf7d988d99673c54899852b618aaa
+2025-10-15 11:57:03,627 - lightrag - INFO -  == LLM cache == saving default: 0d659445f1a9d1eeb155424da40f278a
+2025-10-15 11:57:03,631 - lightrag - INFO - Chunk 125 of 143 extracted 62 Ent + 7 Rel
+2025-10-15 11:57:25,435 - lightrag - INFO -  == LLM cache == saving default: 094f8559f26f525be071c131eb516c9c
+2025-10-15 11:58:05,365 - lightrag - INFO -  == LLM cache == saving default: 977be882b89aa830d5dc1ef5a9c403d1
+2025-10-15 11:58:05,367 - lightrag - INFO - Chunk 126 of 143 extracted 31 Ent + 9 Rel
+2025-10-15 11:58:25,131 - lightrag - INFO -  == LLM cache == saving default: 8bb17dd5dbb518177f11797670b9aacf
+2025-10-15 11:58:57,681 - lightrag - INFO -  == LLM cache == saving default: c1bfe45211f0c7f7e17fd7ae7401ce4d
+2025-10-15 11:59:41,175 - lightrag - INFO -  == LLM cache == saving default: 6cb88c69411f5c5aea58581b1e314715
+2025-10-15 11:59:41,177 - lightrag - INFO - Chunk 127 of 143 extracted 16 Ent + 6 Rel
+2025-10-15 12:00:17,286 - lightrag - INFO -  == LLM cache == saving default: 5ffb8627f1cb600a08108b6c9a6d4c17
+2025-10-15 12:00:17,288 - lightrag - INFO - Chunk 128 of 143 extracted 19 Ent + 8 Rel
+2025-10-15 12:00:54,440 - lightrag - INFO -  == LLM cache == saving default: 4c7fe6cbf8db99789af83bc7e95bb0b6
+2025-10-15 12:00:54,441 - lightrag - INFO - Chunk 129 of 143 extracted 17 Ent + 11 Rel
+2025-10-15 12:01:22,929 - lightrag - INFO -  == LLM cache == saving default: 0ddef449bd9e7d13a0db0ff41ecfc7d5
+2025-10-15 12:01:22,931 - lightrag - INFO - Chunk 130 of 143 extracted 9 Ent + 7 Rel
+2025-10-15 12:02:48,762 - lightrag - INFO -  == LLM cache == saving default: 442bd1cacc1904a51f44eaa1ff42896c
+2025-10-15 12:02:48,765 - lightrag - INFO - Chunk 131 of 143 extracted 39 Ent + 34 Rel
+2025-10-15 12:03:51,270 - lightrag - INFO -  == LLM cache == saving default: a53832edf7e95067f060bf7cd1210567
+2025-10-15 12:03:51,273 - lightrag - INFO - Chunk 132 of 143 extracted 46 Ent + 7 Rel
+2025-10-15 12:04:46,387 - lightrag - INFO -  == LLM cache == saving default: 17413423b9fa9ca628f4f86f22a75260
+2025-10-15 12:04:46,389 - lightrag - INFO - Chunk 133 of 143 extracted 26 Ent + 11 Rel
+2025-10-15 12:05:24,277 - lightrag - INFO -  == LLM cache == saving default: 4f245cbe630cecee06b83190e00d05eb
+2025-10-15 12:05:24,278 - lightrag - INFO - Chunk 134 of 143 extracted 16 Ent + 11 Rel
+2025-10-15 12:06:10,853 - lightrag - INFO -  == LLM cache == saving default: 0a5252557a909e7ebc9c17ce295c1803
+2025-10-15 12:06:10,855 - lightrag - INFO - Chunk 135 of 143 extracted 24 Ent + 10 Rel
+2025-10-15 12:06:49,856 - lightrag - INFO -  == LLM cache == saving default: d681354ab31dc883768a3e1a3d92687e
+2025-10-15 12:06:49,858 - lightrag - INFO - Chunk 136 of 143 extracted 19 Ent + 8 Rel
+2025-10-15 12:07:42,070 - lightrag - INFO -  == LLM cache == saving default: fcf3eb77257ba8f1c6d4fd1af929b1b6
+2025-10-15 12:07:42,073 - lightrag - INFO - Chunk 137 of 143 extracted 25 Ent + 12 Rel
+2025-10-15 12:07:56,097 - lightrag - INFO -  == LLM cache == saving default: 14eeb6239632eea508f7bf0912c74b9a
+2025-10-15 12:08:39,155 - lightrag - INFO -  == LLM cache == saving default: 9c47e998a259e77f6d491b512c4f6511
+2025-10-15 12:08:39,157 - lightrag - INFO - Chunk 138 of 143 extracted 27 Ent + 8 Rel
+2025-10-15 12:08:55,431 - lightrag - INFO -  == LLM cache == saving default: addab973d7af01a3bb749a01c7ab00d7
+2025-10-15 12:09:53,477 - lightrag - INFO -  == LLM cache == saving default: bdeed3ae4a41f0d2132f8bac05d805fc
+2025-10-15 12:09:53,480 - lightrag - INFO - Chunk 139 of 143 extracted 42 Ent + 9 Rel
+2025-10-15 12:10:45,260 - lightrag - INFO -  == LLM cache == saving default: e904e27e97e55b1e1e4a504f085c2a96
+2025-10-15 12:10:45,263 - lightrag - INFO - Chunk 140 of 143 extracted 21 Ent + 20 Rel
+2025-10-15 12:11:11,372 - lightrag - INFO -  == LLM cache == saving default: 597c66fb821aa7a06368071116955e29
+2025-10-15 12:11:57,889 - lightrag - INFO -  == LLM cache == saving default: e8086bd63d5102d5b9522f27b9ca8ec2
+2025-10-15 12:11:57,893 - lightrag - INFO - Chunk 141 of 143 extracted 19 Ent + 11 Rel
+2025-10-15 12:12:40,752 - lightrag - INFO -  == LLM cache == saving default: 8c4ce20fe627522db5ff25dea4b066e6
+2025-10-15 12:12:40,754 - lightrag - INFO - Chunk 142 of 143 extracted 21 Ent + 11 Rel
+2025-10-15 12:13:17,887 - lightrag - INFO -  == LLM cache == saving default: 7f7432e53193d3df649c3facc78b181e
+2025-10-15 12:13:17,889 - lightrag - INFO - Chunk 143 of 143 extracted 24 Ent + 7 Rel
+2025-10-15 12:13:17,933 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-10-15 12:13:17,933 - lightrag - INFO - Merge N: 昏迷 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 惊厥 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 急惊风 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 慢惊风 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 小儿惊厥 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 西医学 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 水肿 | 2+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 胸腔积液 | 3+0
+2025-10-15 12:13:17,934 - lightrag - INFO - Merge N: 腹腔积液 | 2+0
+2025-10-15 12:13:17,935 - lightrag - INFO - Merge N: 脑脊液 | 2+0
+2025-10-15 12:13:17,935 - lightrag - INFO - Merge N: 血液 | 4+0
+2025-10-15 12:13:17,935 - lightrag - INFO - LLM merge N: 尿常规 | 11+0
+2025-10-15 12:13:22,425 - lightrag - INFO -  == LLM cache == saving default: 9065235fd1f8af04b3f1120deb2edd54
+2025-10-15 12:13:22,426 - lightrag - INFO - Merge N: 脑电图 | 5+0
+2025-10-15 12:13:22,426 - lightrag - INFO - LLM merge N: CT检查 | 10+0
+2025-10-15 12:13:26,131 - lightrag - INFO -  == LLM cache == saving default: af12e78f82acd6f52065ac74fca8ddb9
+2025-10-15 12:13:26,132 - lightrag - INFO - LLM merge N: MRI | 18+0
+2025-10-15 12:13:30,039 - lightrag - INFO -  == LLM cache == saving default: 63854521c3a9e2c8aa9461a1702d7707
+2025-10-15 12:13:30,039 - lightrag - INFO - LLM merge N: X线检查 | 10+0
+2025-10-15 12:13:33,609 - lightrag - INFO -  == LLM cache == saving default: 3aa5ef82849555e828258b7588b0936a
+2025-10-15 12:13:33,609 - lightrag - INFO - Merge N: 脑血管造影 | 3+0
+2025-10-15 12:13:33,610 - lightrag - INFO - Merge N: 肺 | 2+0
+2025-10-15 12:13:33,610 - lightrag - INFO - Merge N: 肾小球肾炎 | 3+0
+2025-10-15 12:13:33,610 - lightrag - INFO - Merge N: 猪苓 | 2+0
+2025-10-15 12:13:33,611 - lightrag - INFO - Merge N: 泽泻 | 2+0
+2025-10-15 12:13:33,611 - lightrag - INFO - Merge N: 甘草 | 2+0
+2025-10-15 12:13:33,611 - lightrag - INFO - Merge N: 维生素A | 2+0
+2025-10-15 12:13:33,613 - lightrag - INFO - Merge N: 颤证 | 2+0
+2025-10-15 12:13:33,613 - lightrag - INFO - Merge N: 疼痛 | 2+0
+2025-10-15 12:13:33,615 - lightrag - INFO - LLM merge N: Snomed | 7+0
+2025-10-15 12:13:36,602 - lightrag - INFO -  == LLM cache == saving default: d9d4e4bc19ba6bcada4583bbf2b433d5
+2025-10-15 12:13:36,602 - lightrag - INFO - Merge N: 川芎 | 2+0
+2025-10-15 12:13:36,603 - lightrag - INFO - Merge N: 菊花 | 2+0
+2025-10-15 12:13:36,603 - lightrag - INFO - Merge N: 黄芪 | 2+0
+2025-10-15 12:13:36,604 - lightrag - INFO - Merge N: 颅脑 | 2+0
+2025-10-15 12:13:36,604 - lightrag - INFO - Merge N: 胸部 | 4+0
+2025-10-15 12:13:36,604 - lightrag - INFO - Merge N: 肺脏 | 3+0
+2025-10-15 12:13:36,604 - lightrag - INFO - LLM merge N: 腹部 | 6+0
+2025-10-15 12:13:39,658 - lightrag - INFO -  == LLM cache == saving default: 0153173bc196d27fd0440969068dd757
+2025-10-15 12:13:39,659 - lightrag - INFO - Merge N: 腰部 | 2+0
+2025-10-15 12:13:39,659 - lightrag - INFO - Merge N: 肾脏 | 5+0
+2025-10-15 12:13:39,659 - lightrag - INFO - Merge N: 子宫 | 3+0
+2025-10-15 12:13:39,660 - lightrag - INFO - LLM merge N: 体格检查 | 34+0
+2025-10-15 12:13:45,806 - lightrag - INFO -  == LLM cache == saving default: 883222a045354d1f09b36d0c6330e971
+2025-10-15 12:13:45,806 - lightrag - INFO - LLM merge N: 血常规 | 42+0
+2025-10-15 12:13:52,147 - lightrag - INFO -  == LLM cache == saving default: 16eeb101240828a796d435952d10e7c8
+2025-10-15 12:13:52,147 - lightrag - INFO - Merge N: 细菌培养 | 3+0
+2025-10-15 12:13:52,148 - lightrag - INFO - Merge N: 孕妇 | 2+0
+2025-10-15 12:13:52,148 - lightrag - INFO - Merge N: 扁桃体 | 2+0
+2025-10-15 12:13:52,148 - lightrag - INFO - Merge N: 头痛 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 扁桃体炎 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 接触传播 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 舌扁桃体炎 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 急性扁桃体炎 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 慢性扁桃体炎 | 2+0
+2025-10-15 12:13:52,149 - lightrag - INFO - Merge N: 败血症 | 2+0
+2025-10-15 12:13:52,150 - lightrag - INFO - Merge N: 扁桃体分泌物培养 | 2+0
+2025-10-15 12:13:52,150 - lightrag - INFO - Merge N: 血沉检查 | 2+0
+2025-10-15 12:13:52,150 - lightrag - INFO - Merge N: 血清黏蛋白检查 | 2+0
+2025-10-15 12:13:52,150 - lightrag - INFO - LLM merge N: 病理检查 | 11+0
+2025-10-15 12:13:55,570 - lightrag - INFO -  == LLM cache == saving default: 2cd4d28cc0a4d291d1f9fc8e2844c1cb
+2025-10-15 12:13:55,571 - lightrag - INFO - LLM merge N: X线 | 18+0
+2025-10-15 12:14:01,218 - lightrag - INFO -  == LLM cache == saving default: 203a5abb883abfb158f6b5baa2a00d67
+2025-10-15 12:14:01,219 - lightrag - INFO - LLM merge N: CT | 24+0
+2025-10-15 12:14:05,807 - lightrag - INFO -  == LLM cache == saving default: 09cc26d568dbaae5ef4c92b4462840c5
+2025-10-15 12:14:05,808 - lightrag - INFO - Merge N: 飞沫传播 | 2+0
+2025-10-15 12:14:05,808 - lightrag - INFO - Merge N: Trauma | 2+0
+2025-10-15 12:14:05,808 - lightrag - INFO - Merge N: Joint Pain | 2+0
+2025-10-15 12:14:05,808 - lightrag - INFO - Merge N: Inflammation | 3+0
+2025-10-15 12:14:05,808 - lightrag - INFO - Merge N: 医保中心 | 2+0
+2025-10-15 12:14:05,809 - lightrag - INFO - Merge N: 脓疱 | 2+0
+2025-10-15 12:14:05,809 - lightrag - INFO - Merge N: 软组织感染 | 2+0
+2025-10-15 12:14:05,809 - lightrag - INFO - Merge N: 磁共振成像 | 2+0
+2025-10-15 12:14:05,809 - lightrag - INFO - Merge N: 核磁共振 | 3+0
+2025-10-15 12:14:05,809 - lightrag - INFO - LLM merge N: 超声 | 10+0
+2025-10-15 12:14:09,142 - lightrag - INFO -  == LLM cache == saving default: 13d069dcab6570fc8839eae480e5bbb6
+2025-10-15 12:14:09,143 - lightrag - INFO - Merge N: aplus | 4+0
+2025-10-15 12:14:09,143 - lightrag - INFO - LLM merge N: dayi | 6+0
+2025-10-15 12:14:12,105 - lightrag - INFO -  == LLM cache == saving default: 565f994742a7ed6e7b19a6fb94ebc16a
+2025-10-15 12:14:12,105 - lightrag - INFO - Merge N: 24小时动态血压监测 | 3+0
+2025-10-15 12:14:12,106 - lightrag - INFO - LLM merge N: 心电图 | 7+0
+2025-10-15 12:14:14,700 - lightrag - INFO -  == LLM cache == saving default: c00dec7231eaa7226e5fe83c6acbac3c
+2025-10-15 12:14:14,701 - lightrag - INFO - LLM merge N: 超声心动图 | 6+0
+2025-10-15 12:14:18,371 - lightrag - INFO -  == LLM cache == saving default: e4d0247923ba9352a185b3a594ba124f
+2025-10-15 12:14:18,372 - lightrag - INFO - Merge N: Acute Respiratory Distress Syndrome | 2+0
+2025-10-15 12:14:18,372 - lightrag - INFO - Merge N: Lung | 3+0
+2025-10-15 12:14:18,372 - lightrag - INFO - Merge N: ARDS | 2+0
+2025-10-15 12:14:18,372 - lightrag - INFO - Merge N: Infection | 3+0
+2025-10-15 12:14:18,373 - lightrag - INFO - Merge N: CT Scan | 4+0
+2025-10-15 12:14:18,373 - lightrag - INFO - Merge N: X-Ray | 3+0
+2025-10-15 12:14:18,373 - lightrag - INFO - Merge N: Medical Insurance | 2+0
+2025-10-15 12:14:18,373 - lightrag - INFO - Merge N: 急性咽喉炎 | 2+0
+2025-10-15 12:14:18,374 - lightrag - INFO - Merge N: 胸部X线 | 4+0
+2025-10-15 12:14:18,374 - lightrag - INFO - Merge N: 胸部CT | 2+0
+2025-10-15 12:14:18,374 - lightrag - INFO - LLM merge N: B超 | 9+0
+2025-10-15 12:14:22,232 - lightrag - INFO -  == LLM cache == saving default: 7a6a55cc49da10ae71f92190f2a5e46f
+2025-10-15 12:14:22,232 - lightrag - INFO - Merge N: 医生 | 2+0
+2025-10-15 12:14:22,232 - lightrag - INFO - Merge N: 患者 | 2+0
+2025-10-15 12:14:22,232 - lightrag - INFO - Merge N: 呼吸系统疾病 | 2+0
+2025-10-15 12:14:22,233 - lightrag - INFO - LLM merge N: 遗传性 | 6+0
+2025-10-15 12:14:26,689 - lightrag - INFO -  == LLM cache == saving default: f05882c9ad95eb9708de7f2b8b173732
+2025-10-15 12:14:26,689 - lightrag - INFO - Merge N: 医保 | 2+0
+2025-10-15 12:14:26,690 - lightrag - INFO - Merge N: 血液检查 | 3+0
+2025-10-15 12:14:26,690 - lightrag - INFO - Merge N: 病理组织活检 | 2+0
+2025-10-15 12:14:26,691 - lightrag - INFO - Merge N: 血常规检查 | 5+0
+2025-10-15 12:14:26,691 - lightrag - INFO - Merge N: 间接喉镜检查 | 2+0
+2025-10-15 12:14:26,692 - lightrag - INFO - Merge N: Mastoiditis | 2+0
+2025-10-15 12:14:26,692 - lightrag - INFO - Merge N: Traditional Chinese Medicine | 3+0
+2025-10-15 12:14:26,692 - lightrag - INFO - Merge N: Liver Cancer | 2+0
+2025-10-15 12:14:26,693 - lightrag - INFO - Merge N: Heart | 2+0
+2025-10-15 12:14:26,693 - lightrag - INFO - Merge N: Blood Tests | 4+0
+2025-10-15 12:14:26,693 - lightrag - INFO - Merge N: 急性肾小球肾炎 | 2+0
+2025-10-15 12:14:26,693 - lightrag - INFO - Merge N: 急进性肾小球肾炎 | 2+0
+2025-10-15 12:14:26,693 - lightrag - INFO - Merge N: 慢性肾小球肾炎 | 2+0
+2025-10-15 12:14:26,694 - lightrag - INFO - Merge N: 肾活检 | 2+0
+2025-10-15 12:14:26,694 - lightrag - INFO - Merge N: 肾功能检查 | 3+0
+2025-10-15 12:14:26,694 - lightrag - INFO - Merge N: 尿常规检查 | 3+0
+2025-10-15 12:14:26,694 - lightrag - INFO - Merge N: 尿液检查 | 2+0
+2025-10-15 12:14:26,694 - lightrag - INFO - LLM merge N: 免疫学检查 | 8+0
+2025-10-15 12:14:29,639 - lightrag - INFO -  == LLM cache == saving default: cb5d3e6deaf2ebf4292164b286fb6fa8
+2025-10-15 12:14:29,640 - lightrag - INFO - Merge N: 颌骨骨髓炎 | 2+0
+2025-10-15 12:14:29,640 - lightrag - INFO - Merge N: MRI Scan | 2+0
+2025-10-15 12:14:29,641 - lightrag - INFO - Merge N: 中耳炎 | 2+0
+2025-10-15 12:14:29,641 - lightrag - INFO - Merge N: 细菌 | 2+0
+2025-10-15 12:14:29,641 - lightrag - INFO - Merge N: 髋关节 | 3+0
+2025-10-15 12:14:29,641 - lightrag - INFO - Merge N: 膝关节 | 2+0
+2025-10-15 12:14:29,642 - lightrag - INFO - Merge N: 血液常规检查 | 2+0
+2025-10-15 12:14:29,642 - lightrag - INFO - Merge N: 基因 | 2+0
+2025-10-15 12:14:29,642 - lightrag - INFO - Merge N: 细菌感染 | 3+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 肝脏 | 4+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 肺气肿 | 2+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 腹胀 | 2+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 黄疸 | 3+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 肝性脑病 | 3+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 腹水 | 2+0
+2025-10-15 12:14:29,643 - lightrag - INFO - Merge N: 上消化道出血 | 3+0
+2025-10-15 12:14:29,644 - lightrag - INFO - Merge N: 腹部B超 | 4+0
+2025-10-15 12:14:29,644 - lightrag - INFO - Merge N: 脑水肿 | 2+0
+2025-10-15 12:14:29,648 - lightrag - INFO - Merge N: 母婴传播 | 2+0
+2025-10-15 12:14:29,648 - lightrag - INFO - Merge N: Liver | 2+0
+2025-10-15 12:14:29,649 - lightrag - INFO - LLM merge N: 血生化 | 11+0
+2025-10-15 12:14:33,084 - lightrag - INFO -  == LLM cache == saving default: ce2812b6f2bc4a6004a2c68aab8a5451
+2025-10-15 12:14:33,085 - lightrag - INFO - Merge N: 粪便潜血试验 | 2+0
+2025-10-15 12:14:33,085 - lightrag - INFO - Merge N: 胃液潜血 | 2+0
+2025-10-15 12:14:33,086 - lightrag - INFO - Merge N: 胃 | 4+0
+2025-10-15 12:14:33,086 - lightrag - INFO - Merge N: 肠 | 2+0
+2025-10-15 12:14:33,086 - lightrag - INFO - Merge N: 血管造影 | 2+0
+2025-10-15 12:14:33,086 - lightrag - INFO - Merge N: 胃镜 | 4+0
+2025-10-15 12:14:33,087 - lightrag - INFO - LLM merge N: 便常规 | 6+0
+2025-10-15 12:14:35,292 - lightrag - INFO -  == LLM cache == saving default: 4ceedb02980bb7a9aa5a95445e97b0a3
+2025-10-15 12:14:35,293 - lightrag - INFO - Merge N: 选择性血管造影 | 2+0
+2025-10-15 12:14:35,294 - lightrag - INFO - Merge N: China | 2+0
+2025-10-15 12:14:35,295 - lightrag - INFO - Merge N: CT扫描 | 2+0
+2025-10-15 12:14:35,295 - lightrag - INFO - Merge N: 数字减影血管造影 | 2+0
+2025-10-15 12:14:35,295 - lightrag - INFO - Merge N: 肝功 | 3+0
+2025-10-15 12:14:35,296 - lightrag - INFO - Merge N: 病原学检查 | 2+0
+2025-10-15 12:14:35,296 - lightrag - INFO - Merge N: 肝功能检查 | 2+0
+2025-10-15 12:14:35,296 - lightrag - INFO - Merge N: 出血 | 2+0
+2025-10-15 12:14:35,296 - lightrag - INFO - Merge N: 胸腔镜 | 2+0
+2025-10-15 12:14:35,297 - lightrag - INFO - Merge N: 阿尔茨海默病 | 2+0
+2025-10-15 12:14:35,297 - lightrag - INFO - Merge N: 癫狂 | 2+0
+2025-10-15 12:14:35,301 - lightrag - INFO - Merge N: 脑沟变宽 | 2+0
+2025-10-15 12:14:35,301 - lightrag - INFO - Merge N: 情感淡漠 | 2+0
+2025-10-15 12:14:35,301 - lightrag - INFO - Merge N: 肌电图 | 3+0
+2025-10-15 12:14:35,302 - lightrag - INFO - Merge N: γ-氨基丁酸 | 2+0
+2025-10-15 12:14:35,302 - lightrag - INFO - Merge N: 神经肽 | 2+0
+2025-10-15 12:14:35,303 - lightrag - INFO - Merge N: 司来吉兰 | 2+0
+2025-10-15 12:14:35,303 - lightrag - INFO - Merge N: 骨髓检查 | 3+0
+2025-10-15 12:14:35,303 - lightrag - INFO - Merge N: 凝血功能检查 | 3+0
+2025-10-15 12:14:35,304 - lightrag - INFO - Merge N: 胸部X线检查 | 3+0
+2025-10-15 12:14:35,304 - lightrag - INFO - Merge N: 腹痛 | 4+0
+2025-10-15 12:14:35,304 - lightrag - INFO - Merge N: 胰管镜 | 2+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 胰腺活检 | 2+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 肠易激综合征 | 3+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 植物神经紊乱 | 2+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 郁证 | 2+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 脏燥 | 2+0
+2025-10-15 12:14:35,305 - lightrag - INFO - Merge N: 头部CT | 3+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 腹部超声 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 心悸 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 便秘 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 肠道激惹综合征 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 大肠 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 腹部触诊 | 2+0
+2025-10-15 12:14:35,306 - lightrag - INFO - Merge N: 结肠镜检查 | 4+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 泌尿系统 | 2+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 肠炎 | 3+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 颈部 | 2+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 上腹部 | 2+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 右上腹 | 3+0
+2025-10-15 12:14:35,307 - lightrag - INFO - Merge N: 右下腹 | 3+0
+2025-10-15 12:14:35,308 - lightrag - INFO - Merge N: 肩部 | 3+0
+2025-10-15 12:14:35,308 - lightrag - INFO - Merge N: 头部 | 3+0
+2025-10-15 12:14:35,308 - lightrag - INFO - Merge N: 面部 | 2+0
+2025-10-15 12:14:35,308 - lightrag - INFO - Merge N: 肘部 | 2+0
+2025-10-15 12:14:35,308 - lightrag - INFO - Merge N: 胸痛 | 2+0
+2025-10-15 12:14:35,309 - lightrag - INFO - Merge N: 右上腹痛 | 2+0
+2025-10-15 12:14:35,310 - lightrag - INFO - Merge N: 倍他米松 | 2+0
+2025-10-15 12:14:35,310 - lightrag - INFO - LLM merge N: 超声检查 | 10+0
+2025-10-15 12:14:39,424 - lightrag - INFO -  == LLM cache == saving default: aa244e691a3840fb710ba6ec0b5d48cc
+2025-10-15 12:14:39,424 - lightrag - INFO - Merge N: 视野检查 | 3+0
+2025-10-15 12:14:39,424 - lightrag - INFO - Merge N: 眼压测量 | 3+0
+2025-10-15 12:14:39,426 - lightrag - INFO - Merge N: 酸毛果芸香碱 | 2+0
+2025-10-15 12:14:39,426 - lightrag - INFO - Merge N: 盐酸毛果芸香碱 | 2+0
+2025-10-15 12:14:39,426 - lightrag - INFO - Merge N: 阿米巴肠病 | 2+0
+2025-10-15 12:14:39,426 - lightrag - INFO - Merge N: 异丙肾上腺素 | 2+0
+2025-10-15 12:14:39,426 - lightrag - INFO - Merge N: 异丙基肾上腺素 | 2+0
+2025-10-15 12:14:39,427 - lightrag - INFO - Merge N: 直肠 | 3+0
+2025-10-15 12:14:39,427 - lightrag - INFO - Merge N: 胃癌 | 3+0
+2025-10-15 12:14:39,428 - lightrag - INFO - Merge N: 细菌性痢疾 | 2+0
+2025-10-15 12:14:39,428 - lightrag - INFO - Merge N: 溃疡性结肠炎 | 2+0
+2025-10-15 12:14:39,428 - lightrag - INFO - Merge N: 阑尾 | 2+0
+2025-10-15 12:14:39,428 - lightrag - INFO - Merge N: 急性阑尾炎 | 2+0
+2025-10-15 12:14:39,429 - lightrag - INFO - Merge N: 贫血 | 3+0
+2025-10-15 12:14:39,429 - lightrag - INFO - Merge N: 消瘦 | 2+0
+2025-10-15 12:14:39,429 - lightrag - INFO - Merge N: 肠梗阻 | 2+0
+2025-10-15 12:14:39,429 - lightrag - INFO - Merge N: 阿米巴肝脓肿 | 2+0
+2025-10-15 12:14:39,430 - lightrag - INFO - Merge N: 腹腔穿刺 | 2+0
+2025-10-15 12:14:39,430 - lightrag - INFO - Merge N: 稀便 | 2+0
+2025-10-15 12:14:39,430 - lightrag - INFO - Merge N: Dayi | 2+0
+2025-10-15 12:14:39,430 - lightrag - INFO - Merge N: Aplus | 2+0
+2025-10-15 12:14:39,432 - lightrag - INFO - Merge N: 营养不良 | 2+0
+2025-10-15 12:14:39,433 - lightrag - INFO - Merge N: 呕吐 | 2+0
+2025-10-15 12:14:39,434 - lightrag - INFO - Merge N: 阴道分泌物 | 2+0
+2025-10-15 12:14:39,434 - lightrag - INFO - Merge N: 胎儿 | 2+0
+2025-10-15 12:14:39,435 - lightrag - INFO - Merge N: 抗宫炎片 | 2+0
+2025-10-15 12:14:39,436 - lightrag - INFO - Merge N: 头晕 | 2+0
+2025-10-15 12:14:39,436 - lightrag - INFO - Merge N: 阿司匹林 | 2+0
+2025-10-15 12:14:39,436 - lightrag - INFO - Merge N: 哮喘 | 2+0
+2025-10-15 12:14:39,436 - lightrag - INFO - Merge N: 胸部CT检查 | 2+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 血气分析 | 4+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 脑脊液检查 | 2+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 肌电图检查 | 2+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 脑出血 | 3+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 全身过敏反应 | 2+0
+2025-10-15 12:14:39,437 - lightrag - INFO - Merge N: 过敏 | 3+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: 支气管哮喘 | 2+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: 血清特异性IgE检测 | 2+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: 痰液检查 | 2+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: 动脉血气分析 | 3+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: 肺功能检查 | 2+0
+2025-10-15 12:14:39,438 - lightrag - INFO - Merge N: Hans Asperger | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: 组织病理检查 | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: 染色体分析 | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: PET-CT | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: 铅中毒检查 | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: 代谢病筛查 | 2+0
+2025-10-15 12:14:39,439 - lightrag - INFO - Merge N: 发病部位 | 4+0
+2025-10-15 12:14:39,441 - lightrag - INFO - Merge N: Atrioventricular block | 2+0
+2025-10-15 12:14:39,441 - lightrag - INFO - Merge N: ECG | 2+0
+2025-10-15 12:14:39,442 - lightrag - INFO - Merge N: 脑桥出血 | 2+0
+2025-10-15 12:14:39,442 - lightrag - INFO - Merge N: 高血压 | 4+0
+2025-10-15 12:14:39,442 - lightrag - INFO - Merge N: 脑室出血 | 3+0
+2025-10-15 12:14:39,442 - lightrag - INFO - Merge N: 丘脑出血 | 3+0
+2025-10-15 12:14:39,443 - lightrag - INFO - Merge N: 肝肾功能 | 3+0
+2025-10-15 12:14:39,443 - lightrag - INFO - Merge N: 右室肥厚 | 2+0
+2025-10-15 12:14:39,444 - lightrag - INFO - Merge N: 眩晕 | 2+0
+2025-10-15 12:14:39,444 - lightrag - INFO - Merge N: 血吸虫病 | 2+0
+2025-10-15 12:14:39,444 - lightrag - INFO - Merge N: 肺血吸虫病 | 2+0
+2025-10-15 12:14:39,445 - lightrag - INFO - Merge N: 粪便检查 | 2+0
+2025-10-15 12:14:39,445 - lightrag - INFO - Merge N: 卫氏并殖吸虫病 | 2+0
+2025-10-15 12:14:39,445 - lightrag - INFO - Merge N: Distichiasis | 2+0
+2025-10-15 12:14:39,446 - lightrag - INFO - Merge N: 唇病 | 2+0
+2025-10-15 12:14:39,446 - lightrag - INFO - Merge N: 全身 | 3+0
+2025-10-15 12:14:39,446 - lightrag - INFO - Merge N: 乏力 | 2+0
+2025-10-15 12:14:39,447 - lightrag - INFO - Merge N: 尿颇 | 2+0
+2025-10-15 12:14:39,448 - lightrag - INFO - Merge N: 心脏 | 3+0
+2025-10-15 12:14:39,448 - lightrag - INFO - Merge N: Ehlers-Danlos Syndrome | 2+0
+2025-10-15 12:14:39,449 - lightrag - INFO - Merge N: 心内膜垫缺损 | 2+0
+2025-10-15 12:14:39,449 - lightrag - INFO - Merge N: 唐氏综合征 | 2+0
+2025-10-15 12:14:39,451 - lightrag - INFO - Merge N: 髋关节后脱位 | 2+0
+2025-10-15 12:14:39,451 - lightrag - INFO - Merge N: 肘关节脱位 | 2+0
+2025-10-15 12:14:39,451 - lightrag - INFO - Merge N: MRI检查 | 3+0
+2025-10-15 12:14:39,452 - lightrag - INFO - Merge N: Aneurysm | 2+0
+2025-10-15 12:14:39,452 - lightrag - INFO - Merge N: 肝动脉瘤 | 2+0
+2025-10-15 12:14:39,452 - lightrag - INFO - Merge N: 股动脉瘤 | 2+0
+2025-10-15 12:14:39,453 - lightrag - INFO - Merge N: 胸主动脉瘤 | 2+0
+2025-10-15 12:14:39,453 - lightrag - INFO - Merge N: 脾动脉瘤 | 2+0
+2025-10-15 12:14:39,453 - lightrag - INFO - Merge N: 升主动脉瘤 | 2+0
+2025-10-15 12:14:39,455 - lightrag - INFO - Merge N: 凝血功能 | 2+0
+2025-10-15 12:14:39,456 - lightrag - INFO - Merge N: C反应蛋白测定 | 2+0
+2025-10-15 12:14:39,456 - lightrag - INFO - Merge N: 磁共振成像(MRI) | 2+0
+2025-10-15 12:14:39,456 - lightrag - INFO - Merge N: 病原体检查 | 2+0
+2025-10-15 12:14:39,456 - lightrag - INFO - Merge N: 重症急性呼吸综合征 | 2+0
+2025-10-15 12:14:39,457 - lightrag - INFO - Merge N: 血清学检查 | 3+0
+2025-10-15 12:14:39,457 - lightrag - INFO - Merge N: 急性胃炎 | 3+0
+2025-10-15 12:14:39,457 - lightrag - INFO - Merge N: 幽门梗阻 | 2+0
+2025-10-15 12:14:39,457 - lightrag - INFO - Merge N: 神经性呕吐 | 2+0
+2025-10-15 12:14:39,457 - lightrag - INFO - Merge N: 胃镜检查 | 2+0
+2025-10-15 12:14:39,458 - lightrag - INFO - Merge N: 胃肠动力检测 | 2+0
+2025-10-15 12:14:39,458 - lightrag - INFO - Merge N: 邻苯二甲酸丁酯乳剂 | 2+0
+2025-10-15 12:14:39,458 - lightrag - INFO - Merge N: 强力霉素 | 2+0
+2025-10-15 12:14:39,458 - lightrag - INFO - Merge N: X线钡餐检查 | 2+0
+2025-10-15 12:14:39,458 - lightrag - INFO - Merge N: 急性肾衰竭 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 电解质 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 全身水肿 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 尿液分析 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 餐后2小时血糖 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 脉搏波传导速度 | 2+0
+2025-10-15 12:14:39,459 - lightrag - INFO - Merge N: 踝肱指数 | 2+0
+2025-10-15 12:14:39,460 - lightrag - INFO - Merge N: 眼底检查 | 2+0
+2025-10-15 12:14:39,460 - lightrag - INFO - Merge N: 前房角镜检查 | 2+0
+2025-10-15 12:14:39,460 - lightrag - INFO - Merge N: 骨转移 | 2+0
+2025-10-15 12:14:39,460 - lightrag - INFO - Merge N: 慢性肠系膜缺血 | 2+0
+2025-10-15 12:14:39,460 - lightrag - INFO - Merge N: 肠粘连 | 2+0
+2025-10-15 12:14:39,461 - lightrag - INFO - Merge N: 胃痛 | 2+0
+2025-10-15 12:14:39,461 - lightrag - INFO - Merge N: 磁共振 | 2+0
+2025-10-15 12:14:39,461 - lightrag - INFO - Merge N: 癌症伴发的精神障碍 | 2+0
+2025-10-15 12:14:39,462 - lightrag - INFO - Merge N: 紧张 | 2+0
+2025-10-15 12:14:39,462 - lightrag - INFO - Merge N: 免疫反应 | 2+0
+2025-10-15 12:14:39,462 - lightrag - INFO - Merge N: 血电解质 | 3+0
+2025-10-15 12:14:39,462 - lightrag - INFO - Merge N: 情感障碍 | 2+0
+2025-10-15 12:14:39,463 - lightrag - INFO - Merge N: 焦虑障碍 | 2+0
+2025-10-15 12:14:39,463 - lightrag - INFO - Merge N: 艾滋病 | 3+0
+2025-10-15 12:14:39,464 - lightrag - INFO - Merge N: 医疗操作 | 2+0
+2025-10-15 12:14:39,464 - lightrag - INFO - Merge N: 气管 | 2+0
+2025-10-15 12:14:39,465 - lightrag - INFO - Merge N: 咳嗽 | 2+0
+2025-10-15 12:14:39,465 - lightrag - INFO - Merge N: 咳痰 | 2+0
+2025-10-15 12:14:39,465 - lightrag - INFO - Merge N: 低热 | 2+0
+2025-10-15 12:14:39,465 - lightrag - INFO - Merge N: 脾胃 | 2+0
+2025-10-15 12:14:39,466 - lightrag - INFO - Merge N: 相关中医疾病 | 3+0
+2025-10-15 12:14:39,466 - lightrag - INFO - Merge N: 疾病分类 | 2+0
+2025-10-15 12:14:39,466 - lightrag - INFO - Merge N: 检查项目 | 2+0
+2025-10-15 12:14:39,466 - lightrag - INFO - Merge N: 重要提醒 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 腹部剧痛 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 上腹部肿块 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 克百威 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 西维因 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 异丙威 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 速灭威 | 2+0
+2025-10-15 12:14:39,467 - lightrag - INFO - Merge N: 涕灭威 | 2+0
+2025-10-15 12:14:39,468 - lightrag - INFO - Merge N: 氨基甲酸酯类农药中毒 | 2+0
+2025-10-15 12:14:39,468 - lightrag - INFO - Merge N: 心动过缓 | 2+0
+2025-10-15 12:14:39,468 - lightrag - INFO - Merge N: 氨基酸代谢病 | 2+0
+2025-10-15 12:14:39,469 - lightrag - INFO - Merge N: 甲状腺功能检查 | 2+0
+2025-10-15 12:14:39,469 - lightrag - INFO - Merge N: 内镜检查 | 2+0
+2025-10-15 12:14:39,469 - lightrag - INFO - Merge N: 烟酰胺 | 2+0
+2025-10-15 12:14:39,469 - lightrag - INFO - Merge N: L-色氨酸乙乙酯 | 2+0
+2025-10-15 12:14:39,469 - lightrag - INFO - Merge N: 喉痉挛 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: 面神经麻痹 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: 贝尔麻痹 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: 面瘫 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: 口僻 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: 口眼歪斜 | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: Radial neuropathy | 2+0
+2025-10-15 12:14:39,470 - lightrag - INFO - Merge N: Femoral nerve paralysis | 2+0
+2025-10-15 12:14:39,472 - lightrag - INFO - Merge N: 偏盲 | 2+0
+2025-10-15 12:14:39,472 - lightrag - INFO - Merge N: 黑斑 | 2+0
+2025-10-15 12:14:39,473 - lightrag - INFO - Merge N: 中左上腹 | 2+0
+2025-10-15 12:14:39,473 - lightrag - INFO - Merge N: 腰部肿块 | 2+0
+2025-10-15 12:14:39,473 - lightrag - INFO - Merge N: 下腹肿块 | 2+0
+2025-10-15 12:14:39,474 - lightrag - INFO - Merge N: 冻结肩 | 2+0
+2025-10-15 12:14:39,474 - lightrag - INFO - Merge N: 生理性黄疸 | 2+0
+2025-10-15 12:14:39,474 - lightrag - INFO - Merge N: 死胎 | 2+0
+2025-10-15 12:14:39,475 - lightrag - INFO - Merge N: 胚胎停育 | 2+0
+2025-10-15 12:14:39,475 - lightrag - INFO - Merge N: 胎死宫内 | 2+0
+2025-10-15 12:14:39,475 - lightrag - INFO - Merge N: 胎儿停育 | 2+0
+2025-10-15 12:14:39,475 - lightrag - INFO - Merge N: 溶血 | 2+0
+2025-10-15 12:14:39,476 - lightrag - INFO - Merge E: ADH分泌过多综合征 - 低钠血症 | 2+0
+2025-10-15 12:14:39,476 - lightrag - INFO - Merge E: 低钠血症 - 恶心 | 2+0
+2025-10-15 12:14:39,476 - lightrag - INFO - Merge E: 低钠血症 - 昏迷 | 2+0
+2025-10-15 12:14:39,476 - lightrag - INFO - Merge E: 低钠血症 - 惊厥 | 2+0
+2025-10-15 12:14:39,476 - lightrag - INFO - Merge E: 小儿惊厥 - 急惊风 | 2+0
+2025-10-15 12:14:39,477 - lightrag - INFO - Merge E: 下颌上抬 - 正容汤 | 2+0
+2025-10-15 12:14:39,477 - lightrag - INFO - Merge E: 扁桃体炎 - 舌扁桃体炎 | 2+0
+2025-10-15 12:14:39,478 - lightrag - INFO - Merge E: 急性扁桃体炎 - 慢性扁桃体炎 | 2+0
+2025-10-15 12:14:39,479 - lightrag - INFO - Merge E: Meningitis - Meningoencephalitis | 2+0
+2025-10-15 12:14:39,480 - lightrag - INFO - Merge E: Leptomeningitis - Meningitis | 2+0
+2025-10-15 12:14:39,480 - lightrag - INFO - Merge E: 肾活检 - 肾脏 | 2+0
+2025-10-15 12:14:39,480 - lightrag - INFO - Merge E: 肾功能检查 - 肾脏 | 2+0
+2025-10-15 12:14:39,481 - lightrag - INFO - Merge E: 体格检查 - 消化道出血 | 2+0
+2025-10-15 12:14:39,481 - lightrag - INFO - Merge E: 消化道出血 - 血常规 | 2+0
+2025-10-15 12:14:39,481 - lightrag - INFO - Merge E: 消化道出血 - 血生化 | 2+0
+2025-10-15 12:14:39,481 - lightrag - INFO - Merge E: 消化道出血 - 粪便潜血试验 | 2+0
+2025-10-15 12:14:39,482 - lightrag - INFO - Merge E: 痴呆 - 脑损伤 | 2+0
+2025-10-15 12:14:39,483 - lightrag - INFO - Merge E: 血热 - 阿根廷出血热 | 2+0
+2025-10-15 12:14:39,485 - lightrag - INFO - Merge E: 溃疡性结肠炎 - 痢疾 | 2+0
+2025-10-15 12:14:39,486 - lightrag - INFO - Merge E: 绞痛 - 肠梗阻 | 2+0
+2025-10-15 12:14:39,487 - lightrag - INFO - Merge E: 阴道分泌物 - 阿米巴性阴道炎 | 2+0
+2025-10-15 12:14:39,489 - lightrag - INFO - Merge E: 鼻塞 - 鼻息肉 | 2+0
+2025-10-15 12:14:39,489 - lightrag - INFO - Merge E: 喷嚏 - 鼻息肉 | 2+0
+2025-10-15 12:14:39,489 - lightrag - INFO - Merge E: 流涕 - 鼻息肉 | 2+0
+2025-10-15 12:14:39,490 - lightrag - INFO - Merge E: 脑出血 - 高血压 | 2+0
+2025-10-15 12:14:39,490 - lightrag - INFO - Merge E: 丘脑出血 - 高血压 | 2+0
+2025-10-15 12:14:39,491 - lightrag - INFO - Merge E: 卫氏并殖吸虫 - 水 | 2+0
+2025-10-15 12:14:39,491 - lightrag - INFO - Merge E: 肝脏 - 血吸虫病 | 2+0
+2025-10-15 12:14:39,492 - lightrag - INFO - Merge E: 唐氏综合征 - 心内膜垫缺损 | 3+0
+2025-10-15 12:14:39,492 - lightrag - INFO - Merge E: 髋关节 - 髋关节后脱位 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: X线 - 先天性心脏病 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: 先天性心脏病 - 超声心动图 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: 先天性心脏病 - 血常规 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: C反应蛋白测定 - 先天性心脏病 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: 先天性心脏病 - 磁共振成像(MRI) | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: 先天性心脏病 - 病原体检查 | 2+0
+2025-10-15 12:14:39,494 - lightrag - INFO - Merge E: CT - 先天性心脏病 | 2+0
+2025-10-15 12:14:39,495 - lightrag - INFO - Merge E: 胃痛 - 胃癌 | 2+0
+2025-10-15 12:14:39,496 - lightrag - INFO - Merge E: 神志不清 - 谵妄 | 2+0
+2025-10-15 12:14:39,497 - lightrag - INFO - Merge E: 艾滋病 - 血液 | 2+0
+2025-10-15 12:14:39,497 - lightrag - INFO - Merge E: 急性阑尾炎 - 恶心与呕吐 | 2+0
+2025-10-15 12:14:39,497 - lightrag - INFO - Merge E: 急性阑尾炎 - 腹肌紧张 | 2+0
+2025-10-15 12:14:39,499 - lightrag - INFO - Merge E: Dyskinesia - Movement Disorders | 2+0
+2025-10-15 12:14:39,500 - lightrag - INFO - Merge E: 胎儿 - 胎盘水肿 | 2+0
+2025-10-15 12:14:39,500 - lightrag - INFO - Updating 2645 entities  1/1: unknown_source
+2025-10-15 12:15:14,111 - lightrag - INFO - Updating 1689 relations 1/1: unknown_source
+2025-10-15 12:15:36,106 - lightrag - INFO - Writing graph with 2665 nodes, 1689 edges
+2025-10-15 12:15:36,213 - lightrag - INFO - In memory DB persist to disk
+2025-10-15 12:15:36,213 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-10-15 12:15:36,215 - lightrag - INFO - Document processing pipeline completed
+2025-10-15 12:15:36,215 - lightrag - INFO - Process 1435009 building query context...
+2025-10-15 12:15:36,215 - lightrag - INFO - Query edges: Hernia, Inguinal hernia, Medical condition, top_k: 60, cosine: 0.2
+2025-10-15 12:15:36,287 - lightrag - INFO - Global query uses 85 entites, 60 relations, 3 chunks
+2025-10-15 12:16:09,792 - lightrag - INFO - Storage Finalization completed!
